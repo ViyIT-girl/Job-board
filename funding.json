@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T22:09:15.292759+00:00",
+ "updated": "2026-11-10T23:34:27.981458+00:00",
  "companies": [
   {
    "company": "Pay2o",
@@ -83,15 +83,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Lumepay",
-   "stage": "Pre-Seed",
-   "amount": "$6M",
-   "date": "2026-11-10",
-   "headline": "Lumepay raises $6m pre-seed for Africa cross-border payments",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HOUEycGRoaEZtUWN1MHBCdzJ3UmJDWHE1UHY5RlhYaXd2aGZKUXNCOEZZeGM0Tm15cGI4bDZVYUdHUGNhMk1Lc3MzZEpMQnE5Q2s4X0RYZFhYZVlUNHc?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "PuppyGraph",
    "stage": "Series A",
    "amount": "$10M",
@@ -110,6 +101,15 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "Charta Health",
+   "stage": "Series B",
+   "amount": "$55M",
+   "date": "2026-11-10",
+   "headline": "Charta Health Raises $55M Series B to Expand AI Chart Review",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEZsYUMyUm1MbmpRSHhVZGxMN2RlMGFGUExHMWRWcVMtN29EYnJfRnJ4alp2VmYxVVdZZmx4SU92ZEtyeDlmWDZ1Ylh2TFFTS2gxWUtReC0tQ09JZkZmMWVvdUktZ29qX2ZNNEsxdmtWV2Y4TldlWU0yYVltT3g0Z0hEZFpUcXgy?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
    "company": "Lumbra",
    "stage": "Series A",
    "amount": "$25M",
@@ -125,6 +125,15 @@
    "date": "2026-11-10",
    "headline": "WhiteMatter Raises $20 Million Series A to Expand Enterprise AI Agent Security Platform",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFlSU3NqTUJxOHRlM0RXVFQ5SVZhWHRVU3dvWVh0UHhjNVF2NU1kbmxPck41bmkyN0dXcmFmSEVtQ1FDQWoyS0FfazZSSEM0UTlTYXlMRTdrQWNRQWtQOWJXamQ5WmQzc0ZsUjMyYmVHUWpNZW9aVUc4MkRLSzRKV0tNNjU2ZXd2RGE2emdCOC1qTFBxeWhTb3dFY0ZzYW1oN2VvVFh1c2tidDNTczVDZXVLWEVRQkM5azllQmZMdE02Q1E?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Garage",
+   "stage": "Series B",
+   "amount": "$41M",
+   "date": "2026-11-10",
+   "headline": "Garage Raises $41M Series B to Scale AI-Powered Marketplace for America's Essential Equipment, Surpassing $100M in Annual Platform Sales",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVZGSjVLZ2dFcjBwQjl2NklLS1hmSkRjRmp5cmJWYnp2NUFfNXMxU29sbVdKeldjcVBfa3Q4WThvT1U5dGZlaWo3SEZObHMwc3RDaGU4SnhPOXlacTJPZHpGbktHS1ZFWEI3RkpfNUxqR0tBenprUzRPMnN3ZExUaXFxUllOdU1zYjA5clZxaW1uRFh6?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -152,15 +161,6 @@
    "date": "2026-11-10",
    "headline": "Zus Health Raises $33 Million Series B to Expand AI-Powered Healthcare Data Platform",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEdvbTVBWGdKYW5FNTAwTFQ4dThuTUlzWHhLbDhKWUIwUF85VU5ZR1dQYVZhR2ZnMk5aUGE2TS11bV9GUllhQ1dSRF9MZ005NUp2R0dub0VRVlNnX3ZhZGN3QVJhdEhjMWNTZG5BOTlrWE03OXNmaUx1QjEzZjVwQW9qWkRTeGhsSEo0VWFEbS1tMUJwbWFJM3ZzTm5wVnZFUnVkb2pHSkFJUXNkMkJkdXRnamo3NWNsSlU1ZUdLSQ?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Garage",
-   "stage": "Series B",
-   "amount": "$41M",
-   "date": "2026-11-10",
-   "headline": "Garage Raises $41M Series B to Scale AI-Powered Marketplace for America\u2019s Essential Equipment, Surpassing $100M in Annual Platform Sales",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xWkcwUEp2LUJMcnI2UFhpTnJ3c0RsNGZsUkRCNExCaUZHSjhEZWJDR3haT3NpNHJpOEpWRHdpMnJoY0JQZVFxdURwa05weWg4M0JXR1RMVXdIVkdyVkhqZw?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -260,6 +260,15 @@
    "date": "2026-11-09",
    "headline": "Guava raises $12.5 mn in seed funding to expand enterprise voice AI agents",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aV2h5SExUVHhiYUh4VXVJVTc4cDh1X1pYWHhucUNSdk4zMUdvQVJ0eHdfdjhRY2V5ekxwemx3WF9JM3JBTzQxOVEwT0xQUUN3bVJ6dlBCaG9mekRRUlFSNzlFOENtcldrNWxxRDZ0eFQ?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Darwin",
+   "stage": "Pre-Seed",
+   "amount": "$3.6M",
+   "date": "2026-11-08",
+   "headline": "Darwin raises $3.6M pre-seed to put robots inside AI data centers",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMDVSNDdPM280eHM3bEhoWXJndlFuYmg2azRCQXdzNFB0TGNLUW50NzJ3SEpOWEQ4U2EyVWpqanBYYkRGd2ZiRkxBa3hlU2lseFhLXzUxS21wM1Z4VXJ1VThMR3RTTGhlblF4aXFfdnpNV2E0RlI2R0ZqdlI5YWc1TU9wX3hhMXRkcEE5ZFg5NVc4WnJBMGxFSHhaMElrTlk?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -434,15 +443,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Legal AI Startup Athena",
-   "stage": "Pre-Seed",
-   "amount": "$2.5M",
-   "date": "2026-11-03",
-   "headline": "Legal AI Startup Athena Raises $2.5M Pre-Seed Funding",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFFiWjZWRDhoZUVkOUFKS3lBR3JrZy1hT0E4NWViaTN2MUphWmwyTHlDT0Z0Sjl5VnlpblJPdDhIUk9IbHhOQklFT3pmcnpIQk83S2M3RmZLVTdVOTg0Z2x0MHBwZzdRQjNfd215X1lfa0pVZGhEY3JDdGVJaTYyYXpMVWtlZnhGUGQwVGZiTzgtd0F6UnhEUWxTSXByOWdpYUxoeFhCZmN4U09kNnfSAV5BVV95cUxNV29xZTA0R1NrbjRlUk9DT1l5dFhrNF95c21fY3Rnc3NaVkl4Mnd5MHhnSlZPVW96WjZ1LWR6ZHhRTmhJUTQwUDktaHV5RGhlRlpEcXhhalN3ZEVYUE1R?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "Pune health-tech startup clinics on cloud",
    "stage": "Early",
    "amount": "$12.5M",
@@ -528,7 +528,7 @@
    "stage": "Seed",
    "amount": "$3.8M",
    "date": "2026-10-31",
-   "headline": "Minicor Lands $3.8M Seed to Build AI Desktop Agents [2026]",
+   "headline": "Minicor Raises $3.8M Seed for AI Desktop Agents [2026]",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3VTS01sMDVwcldHUlRfLThyd0NHMmUxUHJkaWt2ZDVyY2xtRXRGaEhoc3NHWlpDZGJuMkFVNzB5TS1lVGZQZkU3ZHFpUmM0cHJURUVHQmNEWFVKcUYxN3Jib1FmQjNkSHB4VE9MS3oyV19BamZWcGVMWWZTdnJBMlhNekxJWTZnRFBV?oc=5",
    "first_seen": "2026-11-10"
   },
