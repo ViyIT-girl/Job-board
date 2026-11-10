@@ -80,7 +80,8 @@ for j in jobs:
     if not j["date"] or NOW-j["date"]>timedelta(days=C["max_age_days"]): D["age"]+=1; continue
     if not j["direct"] and "remote" not in (j["location"]+t+j["desc"][:600]).lower() and not OPEN.search(j["location"]): D["not_remote"]+=1; continue
     blob=j["location"]+" "+j["desc"]
-    j["open"]=bool(OPEN.search(j["location"]) or re.search(r"nigeria|work from anywhere|worldwide",j["desc"],re.I))
+    generic=not re.sub(r"remote|[^a-z ]","",j["location"].lower()).strip()
+    j["open"]=bool(OPEN.search(j["location"]) or (generic and re.search(r"nigeria|work from anywhere|worldwide",j["desc"],re.I)))
     if (RESTRICT.search(blob) or re.search(r"\b(usa?|united states|canada|uk)\b",j["location"],re.I) and not j["open"]) and not j["open"]: D["restricted"]+=1; continue
     if re.sub(r"remote|[^a-z ]","",j["location"].lower()).strip() and not j["open"]: D["specific_place"]+=1; continue
     k=(j["company"].lower(),t)
