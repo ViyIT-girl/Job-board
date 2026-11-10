@@ -16,3 +16,16 @@ jobs:
       - run: |
           git config user.name bot && git config user.email bot@users.noreply.github.com
           git add jobs.json funding.json && (git commit -m "Update jobs" && git push) || echo "no changes"
+      - name: Phone notification
+        env:
+          NTFY: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          python - <<'PY' > msg.txt
+          import json,datetime
+          t=datetime.date.today().isoformat()
+          j=[x for x in json.load(open("jobs.json"))["jobs"] if x["first_seen"]==t and x["open"]]
+          f=[x for x in json.load(open("funding.json"))["companies"] if x["first_seen"]==t]
+          if j: print(str(len(j))+" new jobs open to you:\n"+"\n".join(x["title"]+" - "+x["company"] for x in j[:5]))
+          if f: print(str(len(f))+" newly funded companies to pitch")
+          PY
+          if [ -s msg.txt ] && [ -n "$NTFY" ]; then curl -s -H "Title: Job board" -d @msg.txt "https://ntfy.sh/$NTFY"; fi
