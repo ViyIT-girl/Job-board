@@ -1,0 +1,52 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><title>My job board</title>
+<style>
+:root{--bg:#f6f7f4;--card:#fff;--ink:#1d2421;--mute:#667069;--line:#dde2db;--acc:#1f6f5c;--new:#c2410c}
+@media(prefers-color-scheme:dark){:root{--bg:#141917;--card:#1c2320;--ink:#e8ece9;--mute:#97a39c;--line:#2d3732;--acc:#5cc2a8;--new:#fb923c}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,serif}
+header{padding:20px 16px 8px;max-width:760px;margin:auto}h1{margin:0;font-size:1.5rem}
+#meta{color:var(--mute);font:13px system-ui}
+.bar{max-width:760px;margin:auto;padding:8px 16px;display:flex;gap:8px;flex-wrap:wrap;font:14px system-ui}
+.bar input[type=search],.bar select{flex:1 1 160px;padding:9px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit}
+.bar label{display:flex;align-items:center;gap:6px}
+main{max-width:760px;margin:auto;padding:0 16px 40px}
+.job{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;margin:10px 0}
+.job.new{border-left:4px solid var(--new)}.job h2{margin:0 0 2px;font-size:1.05rem}
+.job h2 a{color:var(--ink);text-decoration:none}.job h2 a:hover{text-decoration:underline}
+.sub{color:var(--mute);font:13px system-ui}
+.tag{display:inline-block;margin:6px 6px 0 0;padding:2px 8px;border-radius:99px;border:1px solid var(--line);font:12px system-ui}
+.tag.good{color:var(--acc);border-color:var(--acc)}.tag.n{color:var(--new);border-color:var(--new)}
+.acts{margin-top:10px;display:flex;gap:6px;font:13px system-ui}
+.acts button{padding:6px 12px;border:1px solid var(--line);background:none;color:var(--ink);border-radius:8px;cursor:pointer}
+.acts button.on{background:var(--acc);color:var(--bg);border-color:var(--acc)}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+</style></head><body>
+<header><h1>My job board</h1><div id="meta">Loading…</div><a href="outreach.html" style="font:14px system-ui;color:var(--acc)">Cold outreach</a></header>
+<div class="bar"><input type="search" id="q" placeholder="Search title or company">
+<select id="st"><option value="active">Active</option><option value="new">New only</option><option value="saved">Saved</option><option value="applied">Applied</option><option value="skip">Skipped</option></select>
+<label><input type="checkbox" id="open"> Open to Nigeria/worldwide only</label></div>
+<main id="list"></main>
+<script>
+const $=id=>document.getElementById(id);let jobs=[];
+const store=(k,v)=>{try{if(v===undefined)return JSON.parse(localStorage.getItem(k)||"null");localStorage.setItem(k,JSON.stringify(v))}catch(e){return null}};
+let status=store("status")||{};const last=store("lastVisit")||"";
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function draw(){
+ const q=$("q").value.toLowerCase(),f=$("st").value,o=$("open").checked;
+ const rows=jobs.filter(j=>{const s=status[j.url]||"";
+  if(o&&!j.open)return false;
+  if(q&&!(j.title+" "+j.company).toLowerCase().includes(q))return false;
+  if(f==="active")return s!=="skip";if(f==="new")return j.first_seen>last&&s!=="skip";return s===f});
+ $("list").innerHTML=rows.map(j=>{const s=status[j.url]||"",isNew=j.first_seen>last;
+  return `<div class="job ${isNew?"new":""}"><h2><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></h2>
+  <div class="sub">${esc(j.company)} · ${esc(j.location||"Remote")} · posted ${j.posted}</div>
+  ${j.open?'<span class="tag good">Open to Nigeria/worldwide</span>':'<span class="tag">Check location</span>'}
+  ${j.direct?'<span class="tag good">Direct from employer</span>':''}${j.salary_hint?'<span class="tag">Pay listed</span>':''}${isNew?'<span class="tag n">New</span>':''}<span class="tag">${esc(j.source)}</span>${j.source==="Reddit"?'<span class="tag n">Unverified: check the poster</span>':''}
+  <div class="acts">${["saved","applied","skip"].map(a=>`<button class="${s===a?"on":""}" data-u="${esc(j.url)}" data-a="${a}">${a==="skip"?"Skip":a[0].toUpperCase()+a.slice(1)}</button>`).join("")}</div></div>`}).join("")||'<p class="sub">Nothing here yet. Run the workflow or change filters.</p>';
+}
+$("list").onclick=e=>{const b=e.target.closest("button");if(!b)return;const u=b.dataset.u;status[u]=status[u]===b.dataset.a?"":b.dataset.a;store("status",status);draw()};
+["q","st","open"].forEach(i=>$(i).oninput=draw);
+fetch("jobs.json").then(r=>r.json()).then(d=>{jobs=d.jobs;
+ $("meta").textContent=`${jobs.length} jobs · updated ${d.updated?new Date(d.updated).toLocaleString():"never"}`;draw();
+ store("lastVisit",new Date().toISOString().slice(0,10))}).catch(()=>$("meta").textContent="Could not load jobs.json");
+</script></body></html>

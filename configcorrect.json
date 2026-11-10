@@ -1,0 +1,77 @@
+{
+ "max_age_days": 30,
+ "targets": [
+  "executive assistant",
+  "executive business partner",
+  "executive operations",
+  "virtual executive assistant",
+  "founder's assistant",
+  "founders assistant",
+  "founder's associate",
+  "founders associate",
+  "chief of staff",
+  "operations manager",
+  "operations coordinator",
+  "business operations",
+  "operations assistant",
+  "project coordinator",
+  "project manager",
+  "programme coordinator",
+  "program coordinator",
+  "project operations",
+  "administrative assistant",
+  "administrative coordinator",
+  "virtual assistant"
+ ],
+ "exclude_title": [
+  "director",
+  "vice president",
+  "vp ",
+  "head of",
+  "principal",
+  "staff ",
+  "software",
+  "engineer",
+  "sales operations",
+  "revenue operations",
+  "nurse",
+  "professor",
+  "warehouse",
+  "construction",
+  "store manager",
+  "plant",
+  "field operations",
+  "data center",
+  "for hire",
+  "[for hire]"
+ ],
+ "remotive_searches": [
+  "executive assistant",
+  "operations",
+  "project coordinator",
+  "chief of staff",
+  "administrative",
+  "virtual assistant"
+ ],
+ "greenhouse": [
+  "gitlab",
+  "remotecom",
+  "airtable",
+  "zapier"
+ ],
+ "lever": [
+  "palantir"
+ ],
+ "ashby": [
+  "ramp",
+  "notion"
+ ],
+ "reddit": [
+  "forhire",
+  "hiring",
+  "jobbit",
+  "WorkOnline",
+  "VirtualAssistant",
+  "remotejobs"
+ ]
+}

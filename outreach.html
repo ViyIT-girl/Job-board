@@ -1,0 +1,48 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><title>Cold outreach</title>
+<style>
+:root{--bg:#f6f7f4;--card:#fff;--ink:#1d2421;--mute:#667069;--line:#dde2db;--acc:#1f6f5c;--new:#c2410c}
+@media(prefers-color-scheme:dark){:root{--bg:#141917;--card:#1c2320;--ink:#e8ece9;--mute:#97a39c;--line:#2d3732;--acc:#5cc2a8;--new:#fb923c}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Georgia,serif}
+header,main,details{max-width:760px;margin:auto;padding:0 16px}header{padding-top:20px}h1{margin:0;font-size:1.5rem}
+.sub,summary,label,button,select,a.b{font:14px system-ui}.sub{color:var(--mute)}
+details{margin:10px auto}summary{cursor:pointer;color:var(--acc)}
+input,textarea,select{width:100%;padding:9px;margin:4px 0 8px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:14px system-ui}
+textarea{min-height:230px}
+.job{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;margin:10px 0}
+.job h2{margin:0;font-size:1.05rem}.acts{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+button,a.b{padding:7px 12px;border:1px solid var(--line);background:none;color:var(--ink);border-radius:8px;cursor:pointer;text-decoration:none}
+.fu{color:var(--new);font:13px system-ui;margin-top:6px}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+</style></head><body>
+<header><h1>Cold outreach</h1><div class="sub" id="meta">Loading…</div><a class="sub" href="index.html">Back to jobs</a></header>
+<details open><summary>My pitch details</summary>
+<label>Name<input id="name"></label>
+<label>One-line background<input id="bg" placeholder="with 4 years supporting founders in fintech"></label>
+<label>What I'd take off their plate<input id="skills" placeholder="inbox and calendar, investor updates, hiring ops"></label>
+<label>Link (portfolio or calendar)<input id="link"></label></details>
+<main id="list"></main>
+<script>
+const $=id=>document.getElementById(id);
+const S=(k,v)=>{try{if(v===undefined)return JSON.parse(localStorage.getItem(k)||"null");localStorage.setItem(k,JSON.stringify(v))}catch(e){return null}};
+const prof=S("prof")||{};["name","bg","skills","link"].forEach(k=>{$(k).value=prof[k]||"";$(k).oninput=()=>{prof[k]=$(k).value;S("prof",prof)}});
+let st=S("out")||{},cos=[];
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const q=s=>encodeURIComponent(s);
+const days=d=>Math.floor((Date.now()-new Date(d))/864e5);
+function pitch(c){return `Subject: Support for ${c.company}'s next stage\n\nHi [First name],\n\nCongrats on ${c.company}'s ${c.stage} round (${c.amount}). As the team grows, inbox, scheduling, investor updates and ops tend to eat a founder's week.\n\nI'm ${prof.name||"[Your name]"}, an executive assistant and operations partner ${prof.bg||"[background]"}. I can take on ${prof.skills||"[what you handle]"}. I work fully remote and can overlap with your time zone.\n\nWould a 15-minute chat this week make sense? ${prof.link||""}\n\nBest,\n${prof.name||"[Your name]"}`}
+function draw(){$("list").innerHTML=cos.filter(c=>(st[c.company]||{}).s!=="skip").map(c=>{const x=st[c.company]||{},fu=x.s==="contacted"&&days(x.d)>=5;
+ return `<div class="job"><h2>${esc(c.company)}</h2><div class="sub">${esc(c.stage)} · ${esc(c.amount)} · ${c.date}</div><div class="sub">${esc(c.headline)}</div>
+ <div class="acts"><a class="b" target="_blank" rel="noopener" href="${esc(c.link)}">News</a>
+ <a class="b" target="_blank" rel="noopener" href="https://www.linkedin.com/search/results/people/?keywords=${q(c.company+" founder OR CEO OR COO")}">Find founder</a>
+ <a class="b" target="_blank" rel="noopener" href="https://www.google.com/search?q=${q(c.company+" careers")}">Website</a>
+ <button data-a="pitch" data-c="${esc(c.company)}">Draft pitch</button></div>
+ <div id="p-${esc(c.company)}"></div>
+ <div class="acts"><select data-c="${esc(c.company)}" data-a="s"><option value="">To contact</option>${["contacted","replied","skip"].map(o=>`<option value="${o}" ${x.s===o?"selected":""}>${o[0].toUpperCase()+o.slice(1)}</option>`).join("")}</select></div>
+ ${fu?`<div class="fu">Contacted ${days(x.d)} days ago. Time for a short follow-up.</div>`:""}</div>`}).join("")||'<p class="sub">No companies yet. Run the workflow in GitHub Actions.</p>'}
+$("list").onclick=e=>{const b=e.target.closest("button");if(!b||b.dataset.a!=="pitch")return;const c=cos.find(x=>x.company===b.dataset.c);
+ const box=document.getElementById("p-"+c.company);box.innerHTML=`<textarea>${esc(pitch(c))}</textarea><button>Copy</button>`;
+ box.querySelector("button").onclick=ev=>{navigator.clipboard.writeText(box.querySelector("textarea").value);ev.target.textContent="Copied"}};
+$("list").onchange=e=>{const t=e.target;if(t.dataset.a!=="s")return;st[t.dataset.c]={s:t.value,d:new Date().toISOString()};S("out",st);draw()};
+fetch("funding.json").then(r=>r.json()).then(d=>{cos=d.companies;$("meta").textContent=`${cos.length} recently funded companies`;draw()}).catch(()=>$("meta").textContent="Could not load funding.json");
+</script></body></html>
