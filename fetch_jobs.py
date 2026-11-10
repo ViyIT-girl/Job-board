@@ -6,7 +6,9 @@ def get(u,method="GET"):
     try:
         r=urllib.request.Request(u,method=method,headers={"User-Agent":"Mozilla/5.0 personal-job-board"})
         return urllib.request.urlopen(r,timeout=20)
-    except urllib.error.HTTPError as e: return e
+    except urllib.error.HTTPError as e:
+        if method=="GET": print("http",e.code,u[:70])
+        return e
     except Exception as e: print("skip",u,e)
 def J(u):
     r=get(u)
@@ -45,7 +47,9 @@ for sub in C.get("reddit",[]):
     try: root=ET.fromstring(r.read())
     except Exception: continue
     for e in root.iter(A+"entry"):
-        add("Reddit",e.findtext(A+"title"),"r/"+sub,e.find(A+"link").get("href"),"Remote (Reddit post)",e.findtext(A+"updated"),e.findtext(A+"content"))
+        add("Reddit",e.findtext(A+"title"),"r/"+sub,e.find(A+"link").get("href"),"Remote",e.findtext(A+"updated"),e.findtext(A+"content"))
+from collections import Counter
+print("raw per source:",dict(Counter(j["source"] for j in jobs)))
 RESTRICT=re.compile(r"(\bus\b|u\.s\.|united states|usa|\buk\b|canada|\beu\b|europe|north america|emea|latam|india)( only|-based| residents| citizens)|must (be )?(located|reside|based|live) in|us citizens?|authorized to work in the (us|united states)",re.I)
 OPEN=re.compile(r"nigeria|africa|worldwide|anywhere|global|world-wide",re.I)
 old={j["url"]:j for j in json.load(open("jobs.json"))["jobs"]} if os.path.exists("jobs.json") else {}
@@ -58,6 +62,7 @@ for j in jobs:
     blob=j["location"]+" "+j["desc"]
     j["open"]=bool(OPEN.search(j["location"]) or re.search(r"nigeria|work from anywhere|worldwide",j["desc"],re.I))
     if (RESTRICT.search(blob) or re.search(r"\b(usa?|united states|canada|uk)\b",j["location"],re.I) and not j["open"]) and not j["open"]: continue
+    if re.sub(r"remote|[^a-z ]","",j["location"].lower()).strip() and not j["open"]: continue
     k=(j["company"].lower(),t)
     if k in seen: continue
     seen.add(k);keep.append(j)
