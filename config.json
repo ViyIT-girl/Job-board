@@ -54,17 +54,15 @@
   "virtual assistant"
  ],
  "greenhouse": [
-  "gitlab",
-  "remotecom",
-  "airtable",
-  "zapier"
+  "automatticcareers",
+  "alpaca"
  ],
- "lever": [
-  "palantir"
- ],
+ "lever": [],
  "ashby": [
-  "ramp",
-  "notion"
+  "Panoptyc",
+  "reka",
+  "elevenlabs",
+  "lovable"
  ],
  "reddit": [
   "forhire",
@@ -73,5 +71,8 @@
   "WorkOnline",
   "VirtualAssistant",
   "remotejobs"
+ ],
+ "workable": [
+  "pearltalent"
  ]
 }
