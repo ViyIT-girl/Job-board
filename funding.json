@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:16:50.819547+00:00",
+ "updated": "2026-11-10T13:36:34.305505+00:00",
  "companies": [
   {
    "company": "AI accounting startup Sumary",
@@ -200,6 +200,15 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "Tanzanian Healthtech Startup Medikea",
+   "stage": "Early",
+   "amount": "$1.2M",
+   "date": "2026-11-05",
+   "headline": "Tanzanian Healthtech Startup Medikea Secures $1.2 Million to Expand Healthcare Services",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXRSN2QtbEFJbEc1VE42ZzZPdzExX3VyV2sxM1dsNy1oTXpYbG9LR3NxRmdiaElmU3kzdlFoQWhGam1iRUd2MlhSSTdxTlJDeXp5ZVpfRmdUWkFLUUhEYUxENW9WX0JrZTFvaXhINmxvamh5OG5PRnctdHVPTGJzSUpJclFZWTVhdTBrWU1IaHBTejJHS3VDRkdxa3p0N1pfN0k3NktOMmhpb3lSdGFTWVRVOGZaMEk?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
    "company": "Kalepa",
    "stage": "Series B",
    "amount": "$75M",
@@ -209,21 +218,21 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "Insurtech Kalepa",
+   "stage": "Series B",
+   "amount": "$75M",
+   "date": "2026-11-05",
+   "headline": "Insurtech Kalepa raises $75 mn in Series B at $470 mn valuation to expand insurance AI platform",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ySjNJWEZBQ3dISEwzSjFIQU9kT1pYN00zUG5XOGs1VnV3YXhXWEpkMGhDa2tKRWRoRzlfOGFwcTFLZFBFSGNUcDJMd3dHOE1yMjhlQk1aT1FlV0R6c0NPN0IySjFLTzNBX3RhZlZ3NW11bnJIbjhmb1I2czl4Qmc?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
    "company": "Firmly",
    "stage": "Series A",
    "amount": "$15M",
    "date": "2026-11-05",
    "headline": "Firmly raises $15M Series A to expand AI-powere...",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaC05QmJhaXVrazdsbXBaekdpY2pyNTdpRXZsSVNfVWE5dE1rTDZuOXFqdFczNlE5YWhMM0FzRGpESnVQZ0xueXhKU0k4czliMG5jek5RaUtWTUZNdnoxb05oaENrdWZiX2otNUllUkRJMVJCNnI1amc4NDZsT0VyaUJ1bU03RGtpeWZqeFhfYnJRMFlaS21lcTJhb2lHU0RYWlRKNDU1Q2tDbWhNU25GbA?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Tanzanian Healthtech Startup Medikea",
-   "stage": "Early",
-   "amount": "$1.2M",
-   "date": "2026-11-05",
-   "headline": "Tanzanian Healthtech Startup Medikea Secures $1.2 Million to Expand Healthcare Services",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXRSN2QtbEFJbEc1VE42ZzZPdzExX3VyV2sxM1dsNy1oTXpYbG9LR3NxRmdiaElmU3kzdlFoQWhGam1iRUd2MlhSSTdxTlJDeXp5ZVpfRmdUWkFLUUhEYUxENW9WX0JrZTFvaXhINmxvamh5OG5PRnctdHVPTGJzSUpJclFZWTVhdTBrWU1IaHBTejJHS3VDRkdxa3p0N1pfN0k3NktOMmhpb3lSdGFTWVRVOGZaMEk?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -438,7 +447,7 @@
    "stage": "Seed",
    "amount": "$3.8M",
    "date": "2026-10-31",
-   "headline": "Minicor Lands $3.8M Seed to Build AI Desktop Agents [2026]",
+   "headline": "Minicor Raises $3.8M Seed for AI Desktop Agents [2026]",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3VTS01sMDVwcldHUlRfLThyd0NHMmUxUHJkaWt2ZDVyY2xtRXRGaEhoc3NHWlpDZGJuMkFVNzB5TS1lVGZQZkU3ZHFpUmM0cHJURUVHQmNEWFVKcUYxN3Jib1FmQjNkSHB4VE9MS3oyV19BamZWcGVMWWZTdnJBMlhNekxJWTZnRFBV?oc=5",
    "first_seen": "2026-11-10"
   },
@@ -578,21 +587,21 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Easol",
-   "stage": "Series A",
-   "amount": "$30M",
-   "date": "2026-10-28",
-   "headline": "Easol Raises $30 Million in Series A Extension, Launches AI Agents for Experience Businesses",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTN0cFdiZVZiQzBNd18yTmxKRXVVRWd1QVR0b051MlJEUGV5elhlZnZndjFOSFptQi14a1RNVS0xOTM5WVA2LWlOTHpCNVBPRkNnTnJuVl9GNDhveUVkVVRtZUdFekJoVHhud3RsaUh5c2s4ckJYeTE3akpNVXgwSFNxZjlnc1R0Y1BGbWhpNFY3SURwZ1hmT1doY2JlS2ZqLVpTRklBMUhJZnVMWTJSNjRGTWs5d2R2SWpzRmFfYkN3bFhJbC14bA?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "Plato",
    "stage": "Series A",
    "amount": "$16M",
    "date": "2026-10-28",
    "headline": "Plato Raises $16 Million Series A to Build Simulated Workplaces for AI Agents",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUhSV1hGR3ktNFpxR0hPc3dENnhKV3IxXzNmemd3TkE3YVR1clJFdGpLNmEyS1hORGFONzdQcXpBS2FyaG5MZkJJSVpDTy1iSDMwZUlmbW1rZVl1TVVUWkd1VTNuUXFCRHZ6SFQ3bzhteE5ndGNZNHc5NFk4WEFuTmNDYzllNE0wYXBaeUNB?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Easol",
+   "stage": "Series A",
+   "amount": "$30M",
+   "date": "2026-10-28",
+   "headline": "Easol Raises $30 Million in Series A Extension, Launches AI Agents for Experience Businesses",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTN0cFdiZVZiQzBNd18yTmxKRXVVRWd1QVR0b051MlJEUGV5elhlZnZndjFOSFptQi14a1RNVS0xOTM5WVA2LWlOTHpCNVBPRkNnTnJuVl9GNDhveUVkVVRtZUdFekJoVHhud3RsaUh5c2s4ckJYeTE3akpNVXgwSFNxZjlnc1R0Y1BGbWhpNFY3SURwZ1hmT1doY2JlS2ZqLVpTRklBMUhJZnVMWTJSNjRGTWs5d2R2SWpzRmFfYkN3bFhJbC14bA?oc=5",
    "first_seen": "2026-11-10"
   },
   {
