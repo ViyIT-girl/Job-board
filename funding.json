@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-11T00:32:50.370864+00:00",
+ "updated": "2026-11-11T06:48:38.469973+00:00",
  "companies": [
+  {
+   "company": "AI startup Trina",
+   "stage": "Seed",
+   "amount": "$112,000M",
+   "date": "2026-11-11",
+   "headline": "AI startup Trina raises $112,000 seed to build team-wide AI tools",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDIzQnNLejJ5TWc5aF95eDlZNXdtOHdPVWM3cWxWS25iZWlBLVZ4bVh3dHlTWHJRcjl6ZlhtbEJmUFhERVVOdE04OFFyMmJ0OVA3Yk8wdjd4d0hMSi10M1haOTA5Q0JLSGhBdHNrZTB5anBWQnlTaTBaZVJmNE11QnVXYjZTcFNzQkUzSEZfcHZMV1hKR01yMjc3anV5N0k?oc=5",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "company": "Lumepay",
+   "stage": "Pre-Seed",
+   "amount": "$6M",
+   "date": "2026-11-11",
+   "headline": "Lumepay raises $6M pre-seed to build Africa's cross-border payment rails",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeEJxWU1oRWlqVDNERTVOZms2dEhaMzM4UTNWSWZXSXZ1NFlyQkFLdFBPd0tNdk1iX0IzbmMtUEhHTWVjVUVicVlUTnJDV3cyanJ2ZXZIVHN0czQ1UXpuSFNDWmVGQll0TE1hMktzeklub0IxSzlYdzZyb2M3TFNWNnFXNzRpcXBqRXhkZHNMM25DQmg4US15LTBqUGxOUldsYVQ4T0tHaGc?oc=5",
+   "first_seen": "2026-11-11"
+  },
   {
    "company": "Daylight",
    "stage": "Series B",
@@ -92,12 +110,39 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "Bay",
+   "stage": "Series A",
+   "amount": "$37M",
+   "date": "2026-11-10",
+   "headline": "Bay Raises $37M Series A to Scale Enterprise AI Agent Security",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkpZc2VvOWRFZUs5b2NNRHRURW8ydzBQbngxYVc3OXVDZ25wQWxMTDJXNjNZM2hFUUZGNlZIYzdRajloYzZ1TGotajg2X0c1T1RLX3pQcmwxTWhqNnNnU2plTEtuMU9PaHJJMjg2ckFSRHBXV0V3MGE4V3VzU3p6NlRralNMN3BHM2Nn?oc=5",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "company": "Charta Health",
+   "stage": "Series B",
+   "amount": "$55M",
+   "date": "2026-11-10",
+   "headline": "Charta Health Raises $55M Series B to Expand AI Chart Review",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEZsYUMyUm1MbmpRSHhVZGxMN2RlMGFGUExHMWRWcVMtN29EYnJfRnJ4alp2VmYxVVdZZmx4SU92ZEtyeDlmWDZ1Ylh2TFFTS2gxWUtReC0tQ09JZkZmMWVvdUktZ29qX2ZNNEsxdmtWV2Y4TldlWU0yYVltT3g0Z0hEZFpUcXgy?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
    "company": "PuppyGraph",
    "stage": "Series A",
    "amount": "$10M",
    "date": "2026-11-10",
    "headline": "PuppyGraph Raises $10M Series A to Help Enterprises Build AI Agents That Query 3,000 Tables in Subseconds",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlNCS1JSVi1ETXhrRkljMmdqdGlINDJNUE9wd1FGdHE5cFpZamVFUHVSZ200N0UwS2JGM2ltVmx6NnRpQl9uSGRTbGZFXy1WelNLOWJjelBYZ2JUMV84UUFsZ0RSaXRXNHd4QXBjblV4aExKWnNNQ1NtR0VPMUFVZTBTcEk1S0RYNnVNTXo3QW1RX3VDWDQ3QW9pR1NIQQ?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Lumbra",
+   "stage": "Series A",
+   "amount": "$25M",
+   "date": "2026-11-10",
+   "headline": "Lumbra Raises $25M Series A to Expand Controlled AI Agent Deployments",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUpqUDRwNjY2TWpFYnVXOTQ1OVdVNG93QVl6WGxMNHE1VnBVUkt3STZ4UThxNFExUUpTVWhzaWlQd3FNV0lMT0s5RHA2US1Ec2ZsOVVWSWJNM0lORUhxVmJJYVFkM1FiZnBBOENCV2hCS1F6MnZVQU02SEMtYkllZFRYZ0FaSlpTMjNzUzRrRWpFVG56?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -110,33 +155,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Charta Health",
-   "stage": "Series B",
-   "amount": "$55M",
-   "date": "2026-11-10",
-   "headline": "Charta Health Raises $55M Series B to Expand AI Chart Review",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2RtMGdYWmdnak1Cdk8wME9IdlJwaEUzdTZWanZ3a3FhRk40UDRkcHF0YWkybEFBNHd3dUtucjFzZVowa1AxWXFyQ0JIcjRqNlQtRi15czMyanNmdDQ5WFJoQ2Q4RlM0VVN1SlQ5akxTRVphVEt1SUVpUGhBVXhraGFnZ2tHOGw0Z0FUdQ?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Lumbra",
-   "stage": "Series A",
-   "amount": "$25M",
-   "date": "2026-11-10",
-   "headline": "Lumbra Raises $25 Million Series A to Expand AI Agent Platform Beyond Defense",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzBHWnd1QUE0UUxEeHhrMTcxdVhsb2pnOEs0OGZPeUZ2dUpWU0lUMnBjZmk0Q3h3U2FiSWtCeHlNT09jWDVCNHpkYkhIazU3bURrWlpoRW9YQ0dQaEZWWERhVldmYXpvWTNmMUgxOXFUaE9fd0FfYmdvX2x4VnVfaHpIVHN4WjU4WFl3b0FEVXQtWlFzUklxbTA4RFlkeVFfSkNPQk1ELTVUSEFEWG9SdEtRcGF4QQ?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Bay",
-   "stage": "Series A",
-   "amount": "$37M",
-   "date": "2026-11-10",
-   "headline": "Bay Raises $37M Series A to Scale Enterprise AI Agent Security",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkpZc2VvOWRFZUs5b2NNRHRURW8ydzBQbngxYVc3OXVDZ25wQWxMTDJXNjNZM2hFUUZGNlZIYzdRajloYzZ1TGotajg2X0c1T1RLX3pQcmwxTWhqNnNnU2plTEtuMU9PaHJJMjg2ckFSRHBXV0V3MGE4V3VzU3p6NlRralNMN3BHM2Nn?oc=5",
-   "first_seen": "2026-11-11"
-  },
-  {
    "company": "WhiteMatter",
    "stage": "Series A",
    "amount": "$20M",
@@ -146,12 +164,12 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Garage",
+   "company": "Zus Health",
    "stage": "Series B",
-   "amount": "$41M",
+   "amount": "$33M",
    "date": "2026-11-10",
-   "headline": "Garage Raises $41M Series B to Scale AI-Powered Marketplace for America's Essential Equipment, Surpassing $100M in Annual Platform Sales",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVZGSjVLZ2dFcjBwQjl2NklLS1hmSkRjRmp5cmJWYnp2NUFfNXMxU29sbVdKeldjcVBfa3Q4WThvT1U5dGZlaWo3SEZObHMwc3RDaGU4SnhPOXlacTJPZHpGbktHS1ZFWEI3RkpfNUxqR0tBenprUzRPMnN3ZExUaXFxUllOdU1zYjA5clZxaW1uRFh6?oc=5",
+   "headline": "Zus Health Raises $33 Million Series B to Expand AI-Powered Healthcare Data Platform",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEdvbTVBWGdKYW5FNTAwTFQ4dThuTUlzWHhLbDhKWUIwUF85VU5ZR1dQYVZhR2ZnMk5aUGE2TS11bV9GUllhQ1dSRF9MZ005NUp2R0dub0VRVlNnX3ZhZGN3QVJhdEhjMWNTZG5BOTlrWE03OXNmaUx1QjEzZjVwQW9qWkRTeGhsSEo0VWFEbS1tMUJwbWFJM3ZzTm5wVnZFUnVkb2pHSkFJUXNkMkJkdXRnamo3NWNsSlU1ZUdLSQ?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -164,12 +182,12 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Zus Health",
+   "company": "Garage",
    "stage": "Series B",
-   "amount": "$33M",
+   "amount": "$41M",
    "date": "2026-11-10",
-   "headline": "Zus Health Raises $33 Million Series B to Expand AI-Powered Healthcare Data Platform",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEdvbTVBWGdKYW5FNTAwTFQ4dThuTUlzWHhLbDhKWUIwUF85VU5ZR1dQYVZhR2ZnMk5aUGE2TS11bV9GUllhQ1dSRF9MZ005NUp2R0dub0VRVlNnX3ZhZGN3QVJhdEhjMWNTZG5BOTlrWE03OXNmaUx1QjEzZjVwQW9qWkRTeGhsSEo0VWFEbS1tMUJwbWFJM3ZzTm5wVnZFUnVkb2pHSkFJUXNkMkJkdXRnamo3NWNsSlU1ZUdLSQ?oc=5",
+   "headline": "Garage Raises $41M Series B to Scale AI-Powered Marketplace for America's Essential Equipment, Surpassing $100M in Annual Platform Sales",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSlVsbk1XYnp5cTJZY2hWYzhBbkFXOTZTazVkYmRaendpYmJqaE1YWlU3VjdYcHpobUJncl8zeUhXVDA3SHE3WjQxLVlYT05CWWxpZnFJcUZMUk05a1NWeVFiZVVFMDA4UWZuRWVuYTlWc2lBczFyUDQ3czBSSl82aEJYWlgwRE91Rkh4bFdsU1F4eUZDbGZDZHhILWIzTWFuYUp6dzVGZnlYSXJsakRZZE5tc2F4dVhKbmVTMENFUHl3Ukh4eFRMc2hWYW04cDdtTE1vRm5PUDRCUWpCRzh4ZmJwSHpBSXNhTVlzV1M4Yk9MTUhRN25fdkxfb1V4bXpmYk04cmVQT3dYVkZZalFLVkd3U0JWMm8?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -200,15 +218,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Dulo",
-   "stage": "Seed",
-   "amount": "$130M",
-   "date": "2026-11-09",
-   "headline": "Dulo Raises $130M Seed Round to Develop AI Models for Engineering, Hardware Design",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGd4QTZ5NWc2ZU5EUElETTNKOVdFWDA3V3RvcmtpT1MwSmE3QzBiYVFkWVNzdkVMU3Rxc3UxMVdrWmxHUlpUTUYyNmZkWmUzbG93OUJObHZYc0FIY09LRTltcFBoUW41eldRZ3l5R21yT0pQalVTU3FWOXRrWWV4UDEwWkxRRUptbWh0c2VNWmRrV1NNeXlUNE8takxObk1ZdjdUZ0RaZURFajdaU0F0RFdEREUxY3RjOHhZ?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "Indian AI Fashion Discovery App Slayd",
    "stage": "Pre-Seed",
    "amount": "$156,400M",
@@ -233,15 +242,6 @@
    "date": "2026-11-09",
    "headline": "Clinics On Cloud raises $12.5 million, plans to make UAE its global expansion hub",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3hPV2NaVUFnRnhGSkVISUxWNHVCQkFvMzdZN2R6cF9CMGxtTkt5dXlJVWhPRDlXRXVJaUVBNURVVHFQZTB6b1FFQXU0N0F0OUd2QU5VLVJKZWZlZEpQZFZjYmNXR0FNb0dYdlpDdUIzVzZ2Z0RWSkJQYldXWTVwbg?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "India's Clinics On Cloud",
-   "stage": "Series A",
-   "amount": "$12.5M",
-   "date": "2026-11-09",
-   "headline": "India's Clinics On Cloud raises $12.5 million in Series A round with Emirati participation",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5JMVd0TldpdFQ3elFJSDdoRVVuZlFTVkdzYnk5cUxsTFd0ZXlMVTlRM0hxcDhrTm8xZWJ3VGxRZw?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -488,6 +488,15 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "Phoenix fintech startup",
+   "stage": "Early",
+   "amount": "$12M",
+   "date": "2026-11-02",
+   "headline": "Phoenix fintech startup raises $12M to expand education savings platform beyond Arizona",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFRJTjlnVmdrVDN4aTQtUWs4RHowWC00eE5Jb1RVaVloX0FIQWxaalNMREw5Um9fN2xWcnI3OGcyaVBLOTJtSTBQUU9CWW91bHlZTzVnVFd4a0ZzVDRXZm8yN0w5cFJLNlBEUTVMSGhKck9uc0ctT0JsQkU5TWYtYWRuYm1HcVZoTUZRWWVyZ1pOdnl0bXRLUGN1a3NaOEFHaURv?oc=5",
+   "first_seen": "2026-11-11"
+  },
+  {
    "company": "Dispute automation platform Casap",
    "stage": "Series B",
    "amount": "$56M",
@@ -537,7 +546,7 @@
    "stage": "Seed",
    "amount": "$3.8M",
    "date": "2026-10-31",
-   "headline": "Minicor Raises $3.8M Seed for AI Desktop Agents [2026]",
+   "headline": "Minicor Lands $3.8M Seed to Build AI Desktop Agents [2026]",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3VTS01sMDVwcldHUlRfLThyd0NHMmUxUHJkaWt2ZDVyY2xtRXRGaEhoc3NHWlpDZGJuMkFVNzB5TS1lVGZQZkU3ZHFpUmM0cHJURUVHQmNEWFVKcUYxN3Jib1FmQjNkSHB4VE9MS3oyV19BamZWcGVMWWZTdnJBMlhNekxJWTZnRFBV?oc=5",
    "first_seen": "2026-11-10"
   },
@@ -603,6 +612,15 @@
    "headline": "VUSE XR raises \u20ac1.2M pre-seed for AI mixed reality training",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYm52VTR5NmdZUW15Ty1EMDJtcjBHVURkM1haVW14LW9NSHplT1EzWXpQbFhTV0t1RnpEV1NpODVkcmVwRW9oUS1RWHFpeUJQSk43czVmUzFqWEwzN0VuVFRxdGFXb0xCTEU4YkFTME9EQjhheDVBWGlNNk9DeEhXaWVjaVRnZHVIR2h2OU93RllxZ1NPaHhR?oc=5",
    "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Dalet Labs",
+   "stage": "Pre-Seed",
+   "amount": "$7M",
+   "date": "2026-10-29",
+   "headline": "Dalet Labs raises $7M pre-seed to sell shopping via AI-image feeds",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTlA1YUVlb1VRZDAyMXpqVHl4NzhMdEVQdmlrYmZ6OUtkc01FamI5b2JoUHM2MVRLUlVaU241elIycDVQTTdQU1BWcjY1a2s5ZExjTzRXOVl4UzdsZ0p0RkVWSXduamxZT0IwUnNBSmFvTk5IcjdldFVjRXRmR2tVTnA2WnRpcVJqUHNFUU10U1piMzVTMktpVjFDcm0zUHla?oc=5",
+   "first_seen": "2026-11-11"
   },
   {
    "company": "Colombian fintech FinMaq",

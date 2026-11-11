@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:32:15.992242+00:00",
+ "updated": "2026-11-11T06:48:05.339927+00:00",
  "jobs": [
   {
    "source": "Workable",
@@ -454,25 +454,6 @@
    "score": -3,
    "salary_hint": false,
    "posted": "2026-11-06",
-   "first_seen": "2026-11-11"
-  },
-  {
-   "source": "Jobicy",
-   "title": "Executive Assistant to the Chief Revenue Officer (CRO)",
-   "company": "EDB",
-   "url": "https://jobicy.com/jobs/154492-executive-assistant-to-the-chief-revenue-officer-cro",
-   "location": "USA",
-   "desc": "  A Little About Us  \n EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led w",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: USA"
-   ],
-   "conflict": false,
-   "open": false,
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-04",
    "first_seen": "2026-11-11"
   }
  ]
