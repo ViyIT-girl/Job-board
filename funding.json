@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-10T23:34:27.981458+00:00",
+ "updated": "2026-11-11T00:32:50.370864+00:00",
  "companies": [
+  {
+   "company": "Daylight",
+   "stage": "Series B",
+   "amount": "$80M",
+   "date": "2026-11-11",
+   "headline": "Daylight Raises $80 Million Series B to Expand AI Security Operations",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHFuRVQtN29Tb3NUTVlxZmd1Yy1pY2NCSGkxcDJVUVQ1UV94c3FhX1ZiZm0wSVVaNnVUUEFhaGthTzZnRWFROUFhb2N3bVdVQmh3RzZEbjFmZExKUHY4elNTNWFKM283U0owSTJWUkZrVHM0Q3NUdmZxNTk0T3EtRUszZFN5UWUyX01kM2xsajMzTUw1NnFpLVFHOA?oc=5",
+   "first_seen": "2026-11-10"
+  },
   {
    "company": "Pay2o",
    "stage": "Seed",
@@ -106,7 +115,7 @@
    "amount": "$55M",
    "date": "2026-11-10",
    "headline": "Charta Health Raises $55M Series B to Expand AI Chart Review",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEZsYUMyUm1MbmpRSHhVZGxMN2RlMGFGUExHMWRWcVMtN29EYnJfRnJ4alp2VmYxVVdZZmx4SU92ZEtyeDlmWDZ1Ylh2TFFTS2gxWUtReC0tQ09JZkZmMWVvdUktZ29qX2ZNNEsxdmtWV2Y4TldlWU0yYVltT3g0Z0hEZFpUcXgy?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2RtMGdYWmdnak1Cdk8wME9IdlJwaEUzdTZWanZ3a3FhRk40UDRkcHF0YWkybEFBNHd3dUtucjFzZVowa1AxWXFyQ0JIcjRqNlQtRi15czMyanNmdDQ5WFJoQ2Q4RlM0VVN1SlQ5akxTRVphVEt1SUVpUGhBVXhraGFnZ2tHOGw0Z0FUdQ?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -117,6 +126,15 @@
    "headline": "Lumbra Raises $25 Million Series A to Expand AI Agent Platform Beyond Defense",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzBHWnd1QUE0UUxEeHhrMTcxdVhsb2pnOEs0OGZPeUZ2dUpWU0lUMnBjZmk0Q3h3U2FiSWtCeHlNT09jWDVCNHpkYkhIazU3bURrWlpoRW9YQ0dQaEZWWERhVldmYXpvWTNmMUgxOXFUaE9fd0FfYmdvX2x4VnVfaHpIVHN4WjU4WFl3b0FEVXQtWlFzUklxbTA4RFlkeVFfSkNPQk1ELTVUSEFEWG9SdEtRcGF4QQ?oc=5",
    "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Bay",
+   "stage": "Series A",
+   "amount": "$37M",
+   "date": "2026-11-10",
+   "headline": "Bay Raises $37M Series A to Scale Enterprise AI Agent Security",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkpZc2VvOWRFZUs5b2NNRHRURW8ydzBQbngxYVc3OXVDZ25wQWxMTDJXNjNZM2hFUUZGNlZIYzdRajloYzZ1TGotajg2X0c1T1RLX3pQcmwxTWhqNnNnU2plTEtuMU9PaHJJMjg2ckFSRHBXV0V3MGE4V3VzU3p6NlRralNMN3BHM2Nn?oc=5",
+   "first_seen": "2026-11-11"
   },
   {
    "company": "WhiteMatter",
@@ -143,15 +161,6 @@
    "date": "2026-11-10",
    "headline": "AI 'amnesia' startup Graphon raises $35M Series A",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNazVzWHd4Ym1vb1ZyY3Y0S0pJbTVlTFBuQzJmeGRsbVBtLWxJTGtMUTEzOVA3aHBQQ3dqdUZHU3d0RFlqek5Mam0tMllPb0pWT1RnYi1pMFJJWjNhcEVGakwyTWI0M19IbDBxdG1vMGVFVFpUSHdncTExeGpjbWJTMmRqWHhFLTA?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Daylight",
-   "stage": "Series B",
-   "amount": "$80M",
-   "date": "2026-11-10",
-   "headline": "Daylight raises $80M Series B at $400M valuation to scale AI-plus-human cyber defence",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMl9OeXFFRTNUX3dzU0ZvT0VJN3hWcnJvLWhHZGN6YngwMFhCdXpVX1VDNnBFNTUwM0dWelRfZVpFbVcyMFJvOHdhNzZsZnd0M29XRm14OGlLZ0o0WnJTWHpBbTBLU1J4dEc1U2JNbFUzX1d0a0xaVzFkSTRWOFVNaXhNRUZnd1EyZ0lBY1dnUVZIRzRYNVpfanI5bWllMkdMUFFpVWpfcFVKT3FZLU5sSU92WjNEcTVo?oc=5",
    "first_seen": "2026-11-10"
   },
   {

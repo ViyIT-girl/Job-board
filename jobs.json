@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:33:50.378213+00:00",
+ "updated": "2026-11-11T00:32:15.992242+00:00",
  "jobs": [
   {
    "source": "Workable",
@@ -9,6 +9,11 @@
    "location": "Remote",
    "desc": "  Work From Anywhere in LATAM or the Philippines    Work Schedule:  ET | 9:00 AM \u2013 6:00 PM     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Our clients have raised over $5B in aggregate and are backed ",
    "direct": true,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Description: Work From Anywhere in LATAM or the Philippi"
+   ],
+   "conflict": false,
    "open": true,
    "score": 4,
    "salary_hint": false,
@@ -23,6 +28,11 @@
    "location": "Remote",
    "desc": "  Work From Anywhere in LATAM or the Philippines    Work Schedule:  ET | 9:00 AM \u2013 6:00 PM     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Our clients have raised over $5B in aggregate and are backed ",
    "direct": true,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Description: Work From Anywhere in LATAM or the Philippi"
+   ],
+   "conflict": false,
    "open": true,
    "score": 4,
    "salary_hint": false,
@@ -37,6 +47,11 @@
    "location": "Remote",
    "desc": "  Work From Anywhere in LATAM    Work Schedule:  EST | Full-time with US Eastern business hours overlap, including early mornings and occasional weekend availability     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with the best startups in t",
    "direct": true,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Description: Work From Anywhere in LATAM Work Schedul"
+   ],
+   "conflict": false,
    "open": true,
    "score": 4,
    "salary_hint": false,
@@ -51,6 +66,11 @@
    "location": "Remote",
    "desc": " Work From Anywhere in LATAM and Philippines  Work Schedule: EST | Approximately 40 hours per week aligned with US Eastern Time, with flexibility for occasional evening and weekend work     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with th",
    "direct": true,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Description: Work From Anywhere in LATAM and Philippines"
+   ],
+   "conflict": false,
    "open": true,
    "score": 4,
    "salary_hint": false,
@@ -65,6 +85,11 @@
    "location": "Anywhere in the World",
    "desc": " \n\n \n   Headquarters:  Mexico City, Mexico\n      URL:   http://superspeciosa.com \n \n\n Location: Fully remote, based in Colombia, Mexico, or Argentina \n Compensation: USD $2,500-$4,500 per month ($30,000-$54,000 annually), depending on relevant experience \n Schedule: Monday-Friday, 9:00 a.m.-5:00 p.m",
    "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Anywhere in the World"
+   ],
+   "conflict": false,
    "open": true,
    "score": 3,
    "salary_hint": true,
@@ -79,11 +104,36 @@
    "location": "Worldwide",
    "desc": "  Basics    Type:  Independent Contractor  Schedule:  Flex-Time (5-15 hours/week)  Education:  Any  Work Experience : Any  Location:  Remote  Motu Novu seeks a virtual assistant fluent in American English who will work remotely as an independent contractor to support the firm\u2019s partners in several d",
    "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Worldwide"
+   ],
+   "conflict": false,
    "open": true,
    "score": 3,
    "salary_hint": true,
    "posted": "2026-11-02",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "Greenhouse",
+   "title": "Project Manager",
+   "company": "alpaca",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6144763004",
+   "location": "Remote - Hong Kong / South Korea / Japan",
+   "desc": " div class= content-intro   p  strong Who We Are: /strong  /p \n p  strong Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure nbsp; /strong for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. br  br Amongst our subsidiaries, Alpaca is a licensed f",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: ers who thrive working from our favorite places around the world, with teammates spanning",
+    "Location lists only: Remote - Hong Kong / South Korea / Japan"
+   ],
+   "conflict": true,
+   "open": false,
+   "score": 3,
+   "salary_hint": true,
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-11"
   },
   {
    "source": "Himalayas",
@@ -93,6 +143,11 @@
    "location": "Worldwide",
    "desc": "  Role Title:  Business Operations Expert   Role Type:  Contractor   Location:  Remote, global   Opportunity Snapshot    Pay:  Up to $90/hour equivalent   Time per task:  ~10 hours per task   Location:  Fully remote \u2014 no geographic restrictions. Strong English required (B2 minimum, C1 preferred)   N",
    "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Worldwide"
+   ],
+   "conflict": false,
    "open": true,
    "score": 3,
    "salary_hint": true,
@@ -107,6 +162,11 @@
    "location": "Worldwide",
    "desc": " At   SafetyWing  (YC W18) , we\u2019re building a global social safety net for remote workers\u2014simple health, insurance, and retirement products designed to replace national welfare systems. Our mission is to remove geographical borders as a barrier to equal opportunity and freedom for everyone. If we su",
    "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Worldwide"
+   ],
+   "conflict": false,
    "open": true,
    "score": 2,
    "salary_hint": false,
@@ -121,6 +181,11 @@
    "location": "Anywhere in the World",
    "desc": "\n\n \n   Headquarters:  \n      URL:   https://gruns.co \n \n\n  We're so happy you're here! Thank you for checking our job out and we hope to have the chance to meet you in our interview process!    About the role  \n  Gr\u00fcns is scaling fast, and our People team needs a hands-on partner who can coach manag",
    "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Anywhere in the World"
+   ],
+   "conflict": false,
    "open": true,
    "score": 2,
    "salary_hint": false,
@@ -135,6 +200,11 @@
    "location": "Worldwide",
    "desc": "  The  Pulitzer Center  champions the power of stories to make complex issues relevant and inspire action. We have a bold vision: to be the venue for the world\u2019s most innovative and consequential reporting, with journalism as the key element for mobilizing society through audience engagement strateg",
    "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Worldwide"
+   ],
+   "conflict": false,
    "open": true,
    "score": 2,
    "salary_hint": false,
@@ -149,6 +219,11 @@
    "location": "Worldwide",
    "desc": "  Job Title:  Virtual Assistant   Job Type:  Full time  Location: Remote     The Role    We\u2019re looking for a proactive, highly organized Virtual Assistant to support day-to-day operations across our distributed team. You\u2019ll own general administrative work, team logistics, and gifting for our interna",
    "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Worldwide"
+   ],
+   "conflict": false,
    "open": true,
    "score": 2,
    "salary_hint": false,
@@ -163,6 +238,11 @@
    "location": "Anywhere in the World",
    "desc": " \n\n \n   Headquarters:  Belgium\n      URL:   http://hubledigital.com \n \n\n Description   Welcome to Huble \ud83d\udc4b,  HubSpot\u2019s 2024 global partner of the year!  We are a global HubSpot, AI, marketing   creative consultancy enabling mid-market and enterprise businesses move faster, adapt smarter, and innovate",
    "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Anywhere in the World"
+   ],
+   "conflict": false,
    "open": true,
    "score": 2,
    "salary_hint": false,
@@ -170,18 +250,23 @@
    "first_seen": "2026-11-10"
   },
   {
-   "source": "Reddit",
-   "title": "Project Manager | London | \u00a345,000-\u00a352,000 [hiring]",
-   "company": "r/hiring",
-   "url": "https://www.reddit.com/r/hiring/comments/1xsn1nw/project_manager_london_4500052000_hiring/",
-   "location": "Remote",
-   "desc": "   Project Manager | London | \u00a345,000-\u00a352,000   I&#39;m recruiting for a Senior Project Manager on behalf of a London-based gifting and brand experience business working with major global brands.   This role will suit someone who has hands-on experience managing custom production and overseas manufa",
-   "direct": false,
+   "source": "Ashby",
+   "title": "Billing Operations Manager",
+   "company": "elevenlabs",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/a2910e63-1dcc-4da2-a8ee-bc2a044e4613",
+   "location": "Remote London",
+   "desc": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like",
+   "direct": true,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Remote London"
+   ],
+   "conflict": false,
    "open": false,
    "score": 0,
-   "salary_hint": false,
+   "salary_hint": true,
    "posted": "2026-11-10",
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-11"
   },
   {
    "source": "RemoteOK",
@@ -191,11 +276,204 @@
    "location": "Remote",
    "desc": " About Mecka AI  Mecka AI is building the data infrastructure layer for robotics and embodied AI. We design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics companies to train and validate humanoid and embodied AI systems",
    "direct": false,
+   "eligibility": "verify",
+   "evidence": [],
+   "conflict": false,
    "open": false,
    "score": 0,
    "salary_hint": false,
    "posted": "2026-11-01",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "Ashby",
+   "title": "Executive Assistant - LATAM",
+   "company": "elevenlabs",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/84641293-96a2-47dc-b3c4-487f33f1485d",
+   "location": "Remote Mexico",
+   "desc": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like",
+   "direct": true,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Remote Mexico"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": 0,
+   "salary_hint": true,
+   "posted": "2026-10-27",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "source": "Ashby",
+   "title": "Enterprise Deployment - Chief of Staff",
+   "company": "elevenlabs",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/a0389dc2-77d8-439b-960b-2acb8712991e",
+   "location": "Remote United States",
+   "desc": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like",
+   "direct": true,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Remote United States"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": 0,
+   "salary_hint": true,
+   "posted": "2026-10-19",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "source": "Ashby",
+   "title": "Partner Operations Manager",
+   "company": "lovable",
+   "url": "https://jobs.ashbyhq.com/lovable/3b4a9b39-b1b9-4ec3-8f43-57f26c16ee66",
+   "location": "Stockholm",
+   "desc": "TL;DR - You'll run the operations behind Lovable's partner business. That covers two motions: our Solution Partner Program, which has grown past 6,000 agencies and consultancies in a matter of months, and our co-sell and marketplace motion with the hyperscalers. You'll keep partners unblocked day to",
+   "direct": true,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Stockholm"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": -1,
+   "salary_hint": false,
+   "posted": "2026-10-16",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "source": "Jobicy",
+   "title": "Implementation Project Manager",
+   "company": "Latent",
+   "url": "https://jobicy.com/jobs/161170-implementation-project-manager",
+   "location": "USA",
+   "desc": "  About  Latent   \n Latent is the enterprise pharmacy intelligence platform, powered by a clinical agentic engine, that enables health systems to grow their pharmacy operations and serve more patients. One engine works across the pharmacy journey to identify patients who qualify for care, improve me",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": -2,
+   "salary_hint": true,
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Offshore Virtual Executive Assistant to the CEO",
+   "company": "Collective Residential",
+   "url": "https://weworkremotely.com/remote-jobs/collective-residential-offshore-virtual-executive-assistant-to-the-ceo",
+   "location": "North America Only",
+   "desc": "\n\n \n   Headquarters:  Mexico\n      URL:   https://jobs.workable.com/company/mtMNHaRbeR9tHWxvLonEZk/jobs-at-collective-residential \n \n\n Applications must be submitted in English to be considered for the role.  Location: Offshore (Remote) \u2013 Must work EST hours (ideally located in EST time zone)   Repo",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: North America Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": -2,
+   "salary_hint": true,
+   "posted": "2026-11-06",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Media Project Manager",
+   "company": "We Are Rosie",
+   "url": "https://weworkremotely.com/remote-jobs/we-are-rosie-media-project-manager",
+   "location": "USA Only",
+   "desc": "\n\n \n   Headquarters:  Palmetto, Georgia, United States\n      URL:   https://wearerosie.com \n \n\n    Company Description    Our client is a commerce marketing agency that helps brands win wherever people shop and buy. Their teams bring together strategy, analytics, creative, media, e-commerce, and tra",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": -2,
+   "salary_hint": true,
+   "posted": "2026-11-06",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Project Manager - Creative - US Remote",
+   "company": "DEPT\u00ae",
+   "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
+   "location": "USA Only",
+   "desc": "\n\n \n   Headquarters:  United States\n      URL:   http://www.deptagency.com \n \n\n  WHY DEPT\u00ae?  \n We are a Growth Invention company built to help the world\u2019s most ambitious brands grow faster. Operating at the intersection of technology and marketing, we create what is next by pioneering ideas, acting ",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-08",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Executive Assistant, Office of the CFO",
+   "company": "GitLab",
+   "url": "https://weworkremotely.com/remote-jobs/gitlab-executive-assistant-office-of-the-cfo",
+   "location": "USA Only",
+   "desc": "\n\n \n   Headquarters:  United States\n      URL:   https://about.gitlab.com \n \n\n  GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-07",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "MEDICAL VIRTUAL ASSISTANT",
+   "company": "Vital Virtuals Global HR Solutions LLC",
+   "url": "https://weworkremotely.com/remote-jobs/vital-virtuals-global-hr-solutions-llc-medical-virtual-assistant",
+   "location": "Latin America Only",
+   "desc": "\n\n \n   Headquarters:  Buenos Aires, Argentina\n      URL:   https://vitalvirtuals.com \n \n\n   NOW HIRING: MEDICAL VIRTUAL ASSISTANT!   \n  Vital Virtuals Global HR  is looking for a reliable and motivated  Medical VA  to join our team! \n  Responsibilities \n  Answer calls and assist patients  Verify ins",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Latin America Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-06",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "source": "Jobicy",
+   "title": "Executive Assistant to the Chief Revenue Officer (CRO)",
+   "company": "EDB",
+   "url": "https://jobicy.com/jobs/154492-executive-assistant-to-the-chief-revenue-officer-cro",
+   "location": "USA",
+   "desc": "  A Little About Us  \n EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led w",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-04",
+   "first_seen": "2026-11-11"
   }
  ]
 }
