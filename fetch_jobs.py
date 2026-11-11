@@ -68,26 +68,22 @@ for s in C.get("workable",[]):
         loc="Remote" if j.get("telecommuting") else ", ".join(x for x in [j.get("city"),j.get("country")] if x)
         add("Workable",j.get("title"),s,j.get("url") or j.get("shortlink"),loc,j.get("published_on") or j.get("created_at"),j.get("description"),True)
 from collections import Counter
+from eligibility import classify
 print("raw per source:",dict(Counter(j["source"] for j in jobs)))
-RESTRICT=re.compile(r"(\bus\b|u\.s\.|united states|usa|\buk\b|canada|\beu\b|europe|north america|emea|latam|india)( only|-based| residents| citizens)|must (be )?(located|reside|based|live) in|us citizens?|authorized to work in the (us|united states)",re.I)
-OPEN=re.compile(r"nigeria|africa|worldwide|anywhere|global|world-wide",re.I)
 old={j["url"]:j for j in json.load(open("jobs.json"))["jobs"]} if os.path.exists("jobs.json") else {}
 seen,keep=set(),[]
-D=Counter()
+D=Counter();E=Counter()
 for j in jobs:
     t=j["title"].lower()
     if not any(x in t for x in C["targets"]) or any(x in t for x in C["exclude_title"]): D["title"]+=1; continue
     if not j["date"] or NOW-j["date"]>timedelta(days=C["max_age_days"]): D["age"]+=1; continue
-    if not j["direct"] and "remote" not in (j["location"]+t+j["desc"][:600]).lower() and not OPEN.search(j["location"]): D["not_remote"]+=1; continue
-    blob=j["location"]+" "+j["desc"]
-    generic=not re.sub(r"remote|[^a-z ]","",j["location"].lower()).strip()
-    j["open"]=bool(OPEN.search(j["location"]) or (generic and re.search(r"nigeria|work from anywhere|worldwide",j["desc"],re.I)))
-    if (RESTRICT.search(blob) or re.search(r"\b(usa?|united states|canada|uk)\b",j["location"],re.I) and not j["open"]) and not j["open"]: D["restricted"]+=1; continue
-    if re.sub(r"remote|[^a-z ]","",j["location"].lower()).strip() and not j["open"]: D["specific_place"]+=1; continue
+    el=classify(j["location"],j["desc"])
+    j.update(eligibility=el["status"],evidence=el["evidence"],conflict=el["conflict"],open=el["status"]=="confirmed")
+    E[el["status"]]+=1
     k=(j["company"].lower(),t)
     if k in seen: D["duplicate"]+=1; continue
     seen.add(k);keep.append(j)
-print("dropped:",dict(D))
+print("dropped:",dict(D));print("eligibility (before dedupe):",dict(E))
 def alive(j):
     r=get(j["url"],"HEAD");return not(r and getattr(r,"status",getattr(r,"code",200)) in(404,410))
 with ThreadPoolExecutor(10) as ex: ok=list(ex.map(alive,keep))
@@ -95,7 +91,7 @@ out=[]
 for j,a in zip(keep,ok):
     if not a: continue
     sal=re.search(r"\$\s?\d{2,3}",j["desc"]) is not None
-    j["score"]=2*j["direct"]+2*j["open"]+sal
+    j["score"]=2*j["direct"]+2*j["open"]+sal-(3 if j["eligibility"]=="excluded" else 0)
     j["salary_hint"]=sal;j["posted"]=j.pop("date").date().isoformat()
     j["first_seen"]=old.get(j["url"],{}).get("first_seen",NOW.date().isoformat())
     j["desc"]=j["desc"][:300]
