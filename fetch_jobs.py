@@ -106,7 +106,7 @@ if not jobs:
     print("No jobs collected from any source; keeping previous data.");sys.exit(1)
 try: old={j["url"]:j for j in json.load(open("jobs.json"))["jobs"]}
 except Exception: old={}
-seen,keep=set(),[]
+cands=[]
 D=Counter();E=Counter()
 for j in jobs:
     t=j["title"].lower()
@@ -115,9 +115,32 @@ for j in jobs:
     el=classify(j["location"],j["desc"],j["title"])
     j.update(eligibility=el["status"],evidence=el["evidence"],conflict=el["conflict"],open=el["status"]=="confirmed")
     E[el["status"]]+=1
-    k=(j["company"].lower(),t)
-    if k in seen: D["duplicate"]+=1; continue
-    seen.add(k);keep.append(j)
+    cands.append(j)
+LEGAL=re.compile(r"\b(inc|llc|ltd|gmbh|corp|corporation|co|limited|plc|sa|bv|ag)\b")
+def nco(s): return re.sub(r"[^a-z0-9]","",LEGAL.sub(" ",re.sub(r"[^a-z0-9 ]"," ",(s or "").lower())))
+def nti(s): return re.sub(r"[^a-z0-9]","",re.sub(r"\b(remote|hiring)\b"," ",(s or "").lower()))
+def nurl(u):
+    p=urllib.parse.urlsplit(u or "");h=p.netloc.lower()
+    return (h[4:] if h.startswith("www.") else h)+p.path.rstrip("/").lower()
+ELR={"confirmed":2,"excluded":2,"verify":0}
+def rank(j): return (ELR[j["eligibility"]],int(j["direct"]),j["date"])
+groups=[];idx={}
+for j in cands:
+    keys=["u:"+nurl(j["url"])]
+    if j["source"]!="Reddit" and nco(j["company"]): keys.append("c:"+nco(j["company"])+"|"+nti(j["title"]))
+    gid=next((idx[k] for k in keys if k in idx),None)
+    if gid is None: gid=len(groups);groups.append({"best":j,"all":[j]})
+    else:
+        g=groups[gid];g["all"].append(j);D["duplicate"]+=1
+        if rank(j)>rank(g["best"]): g["best"]=j
+    for k in keys: idx[k]=gid
+keep=[]
+for g in groups:
+    b=g["best"];sts={x["eligibility"] for x in g["all"]}
+    b["also_on"]=sorted({x["source"] for x in g["all"]}-{b["source"]})
+    if {"confirmed","excluded"}<=sts:
+        b.update(eligibility="verify",conflict=True,open=False,evidence=(b["evidence"]+["Sources disagree about eligibility"])[:4])
+    keep.append(b)
 print("dropped:",dict(D));print("eligibility (before dedupe):",dict(E))
 def alive(j):
     r=get(j["url"],"HEAD");return not(r and getattr(r,"status",getattr(r,"code",200)) in(404,410))
