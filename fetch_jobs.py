@@ -68,8 +68,8 @@ def reddit():
             l=e.find(A+"link")
             add("Reddit",e.findtext(A+"title"),"r/"+sub,l.get("href") if l is not None else None,"Remote",e.findtext(A+"updated"),e.findtext(A+"content"))
 def wwr():
-    for u in ["management-and-finance","all-other","customer-support"]:
-        r=get(f"https://weworkremotely.com/categories/remote-{u}-jobs.rss")
+    for u in ["remote-management-and-finance-jobs","all-other-remote-jobs","remote-customer-support-jobs"]:
+        r=get(f"https://weworkremotely.com/categories/{u}.rss")
         if not r or getattr(r,"status",0)!=200: continue
         try: items=list(ET.fromstring(r.read()).iter("item"))
         except Exception: errs["WeWorkRemotely"].append("parse");continue
