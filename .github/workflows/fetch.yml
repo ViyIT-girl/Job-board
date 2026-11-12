@@ -29,3 +29,9 @@ jobs:
           if f: print(str(len(f))+" newly funded companies to pitch")
           PY
           if [ -s msg.txt ] && [ -n "$NTFY" ]; then curl -s -H "Title: Job board" -d @msg.txt "https://ntfy.sh/$NTFY"; fi
+      - name: Failure alert
+        if: failure()
+        env:
+          NTFY: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          if [ -n "$NTFY" ]; then curl -s -H "Title: Job board failed" -d "Daily job collection failed. Check the Actions tab." "https://ntfy.sh/$NTFY"; fi
