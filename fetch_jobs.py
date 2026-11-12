@@ -33,7 +33,7 @@ for j in (J("https://remoteok.com/api") or [])[1:]:
     add("RemoteOK",j.get("position"),j.get("company"),j.get("url"),j.get("location") or "Remote",j.get("date"),j.get("description"))
 for s in C["greenhouse"]:
     for j in (J(f"https://boards-api.greenhouse.io/v1/boards/{s}/jobs?content=true") or {}).get("jobs",[]):
-        add("Greenhouse",j["title"],s,j["absolute_url"],j["location"]["name"],j.get("updated_at"),j.get("content"),True)
+        add("Greenhouse",j["title"],s,j["absolute_url"],j["location"]["name"],j.get("first_published") or j.get("updated_at"),j.get("content"),True)
 for s in C["lever"]:
     for j in J(f"https://api.lever.co/v0/postings/{s}?mode=json") or []:
         add("Lever",j["text"],s,j["hostedUrl"],j["categories"].get("location"),j.get("createdAt"),j.get("descriptionPlain"),True)
@@ -60,9 +60,9 @@ for u in ["management-and-finance","all-other","customer-support"]:
     except Exception as e: print("parse WWR",e)
 for q in C["remotive_searches"]:
     for j in (J("https://himalayas.app/jobs/api/search?worldwide=true&q="+urllib.parse.quote(q)) or {}).get("jobs",[]):
-        add("Himalayas",j.get("title"),j.get("companyName"),j.get("applicationLink") or j.get("guid"),", ".join(j.get("locationRestrictions") or []) or "Worldwide",j.get("pubDate"),j.get("description"))
+        add("Himalayas",j.get("title"),j.get("companyName"),j.get("applicationLink") or j.get("guid"),", ".join(j.get("locationRestrictions") or []) or "",j.get("pubDate"),j.get("description"))
     for j in (J("https://jobicy.com/api/v2/remote-jobs?count=50&tag="+urllib.parse.quote(q)) or {}).get("jobs",[]):
-        add("Jobicy",j.get("jobTitle"),j.get("companyName"),j.get("url"),j.get("jobGeo") or "Anywhere",j.get("pubDate"),j.get("jobDescription"))
+        add("Jobicy",j.get("jobTitle"),j.get("companyName"),j.get("url"),j.get("jobGeo") or "",j.get("pubDate"),j.get("jobDescription"))
 for s in C.get("workable",[]):
     for j in (J(f"https://apply.workable.com/api/v1/widget/accounts/{s}?details=true") or {}).get("jobs",[]):
         loc="Remote" if j.get("telecommuting") else ", ".join(x for x in [j.get("city"),j.get("country")] if x)
@@ -77,7 +77,7 @@ for j in jobs:
     t=j["title"].lower()
     if not any(x in t for x in C["targets"]) or any(x in t for x in C["exclude_title"]): D["title"]+=1; continue
     if not j["date"] or NOW-j["date"]>timedelta(days=C["max_age_days"]): D["age"]+=1; continue
-    el=classify(j["location"],j["desc"])
+    el=classify(j["location"],j["desc"],j["title"])
     j.update(eligibility=el["status"],evidence=el["evidence"],conflict=el["conflict"],open=el["status"]=="confirmed")
     E[el["status"]]+=1
     k=(j["company"].lower(),t)
