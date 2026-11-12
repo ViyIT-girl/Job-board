@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:26:58.132239+00:00",
+ "updated": "2026-11-12T09:43:27.287634+00:00",
  "companies": [
   {
    "company": "SA fintech startup Lumepay",
@@ -164,6 +164,15 @@
    "first_seen": "2026-11-12"
   },
   {
+   "company": "SA fintech firm Lumepay",
+   "stage": "Early",
+   "amount": "$6M",
+   "date": "2026-11-11",
+   "headline": "SA fintech firm Lumepay bags $6m funding",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV28tV1JlMEd6MmQzTkVvMkY1T3VEaG1UcFktRlc1ekdTRmI2S3hMeDlJemtFZDZSZjFYaVZxZ3h4QjdwN0psbTljd3g5SzlQeFVtZThvZXJTYk1UWWR0Um1ZVEVmY3p0Y0JPYnplXzlzY3JlV1ZSR00wU0pSektCWDFnWUdqNjVoQV9Cb1JDT0V5QQ?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
    "company": "AI accounting startup Sumary",
    "stage": "Seed",
    "amount": "$25M",
@@ -296,15 +305,6 @@
    "date": "2026-11-10",
    "headline": "Swiss Fintech Light Frame Secures $5.1M Seed to Modernise Private Banking Infrastructure",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEhINWEwLUIzb3A3WGp1emVadTlET1pzS1hhVmNYZ2hpY2NlUzJCMUZFenhKbjBDUF9SMVFJTmJMLXQ4R1ltQ2pTbTAzTDVmam94ZlM3RVRZMHhOQk00N3pSemJORFVubU53OEdUZzB3ZGdlZTBHdXIxZ2tJaThVOGNVaU5pSUI1VXNSaUcyVHlqXzZ1X3R4bE90X3lfSzlza0JaLWh5eUhKX1hxWkFPVDlCcw?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Private banking fintech Light Frame",
-   "stage": "Early",
-   "amount": "$5.1M",
-   "date": "2026-11-10",
-   "headline": "Private banking fintech Light Frame raises $5.1m",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcnVoMlZSVVJLTHpZQ2VvNThnYnZxR0hSZDRzclN5S3ZaUlRxUEpsbmpocnBtYnAwSFQzTllSSF9RUnhiSGdVeTNUWFoxX3pMeF81M3BiVUFtU0U3RmRkWGlCOEJ3Qnp4S1p0bGJ0NlhIUlR6UnV0Y2RtVXo0M2hVR3kwbGZ4ZUR5OWpIRkxqMTB3SGc?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -470,6 +470,15 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "Shackleton AI",
+   "stage": "Seed",
+   "amount": "$5M",
+   "date": "2026-11-04",
+   "headline": "Shackleton AI Raises $5 Million Seed to Put AI Agents to Work Across Construction",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenZrQjRGRWhodURSMTV1X1FXcU9ISUZRbHdxWEFHdEJ0U3pkUnpjb3VKNGVDUlJsckVvN1YzZXpNNzh1NU1oamRvbUNtQm5rNVRkTXZqWThIdU43OEtEVkdNSm1iWHJvdTVHVEZZbUFaampsR2hJRmdTQUZkLUhCa2VIc1YzZ0U?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
    "company": "Atmospheric AI",
    "stage": "Seed",
    "amount": "$10.1M",
@@ -485,15 +494,6 @@
    "date": "2026-11-04",
    "headline": "Phaze Raises $8.75M Seed Led by a16z for Human and AI Agent Remote Access",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hN2RNeVB2N3BwRl93YzhONkJXSnFRcDZpZExDNkpibEhEa2tiQ0hQY3VOYThtWTNibDRKUnhKV29OUXI2TjVxSzdPYnp5NlRJMnNMQW5ZenF1YXVVWklqNUM2T3VuWkdkUmtXUzNyTE1RSkZm?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Shackleton AI",
-   "stage": "Seed",
-   "amount": "$5M",
-   "date": "2026-11-04",
-   "headline": "Shackleton AI Raises $5 Million Seed to Put AI Agents to Work Across Construction",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenZrQjRGRWhodURSMTV1X1FXcU9ISUZRbHdxWEFHdEJ0U3pkUnpjb3VKNGVDUlJsckVvN1YzZXpNNzh1NU1oamRvbUNtQm5rNVRkTXZqWThIdU43OEtEVkdNSm1iWHJvdTVHVEZZbUFaampsR2hJRmdTQUZkLUhCa2VIc1YzZ0U?oc=5",
    "first_seen": "2026-11-10"
   },
   {

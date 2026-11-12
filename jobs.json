@@ -1,6 +1,101 @@
 {
- "updated": "2026-11-12T09:26:23.292102+00:00",
+ "updated": "2026-11-12T09:42:51.055068+00:00",
+ "sources": {
+  "Remotive": {
+   "status": "ok",
+   "raw": 84,
+   "errors": [],
+   "invalid": 0
+  },
+  "Arbeitnow": {
+   "status": "ok",
+   "raw": 27,
+   "errors": [],
+   "invalid": 0
+  },
+  "RemoteOK": {
+   "status": "ok",
+   "raw": 98,
+   "errors": [],
+   "invalid": 0
+  },
+  "Greenhouse": {
+   "status": "ok",
+   "raw": 81,
+   "errors": [],
+   "invalid": 0
+  },
+  "Lever": {
+   "status": "empty",
+   "raw": 0,
+   "errors": [],
+   "invalid": 0
+  },
+  "Ashby": {
+   "status": "ok",
+   "raw": 218,
+   "errors": [],
+   "invalid": 0
+  },
+  "Reddit": {
+   "status": "partial",
+   "raw": 200,
+   "errors": [
+    "429"
+   ],
+   "invalid": 0
+  },
+  "WeWorkRemotely": {
+   "status": "partial",
+   "raw": 154,
+   "errors": [
+    "301"
+   ],
+   "invalid": 0
+  },
+  "Himalayas": {
+   "status": "ok",
+   "raw": 44,
+   "errors": [],
+   "invalid": 0
+  },
+  "Jobicy": {
+   "status": "ok",
+   "raw": 119,
+   "errors": [],
+   "invalid": 0
+  },
+  "Workable": {
+   "status": "ok",
+   "raw": 281,
+   "errors": [],
+   "invalid": 0
+  }
+ },
+ "stats": {
+  "raw": 1306,
+  "kept": 24
+ },
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "title": "Crypto Operations Associate  - EMEA Coverage ",
+   "company": "alpaca",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6146994004",
+   "location": "Remote - EMEA",
+   "desc": " div class= content-intro   p  strong Who We Are: /strong  /p \n p  strong Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure nbsp; /strong for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. br  br Amongst our subsidiaries, Alpaca is a licensed f",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Title suggests a region: Crypto Operations Associate  - EMEA Coverage "
+   ],
+   "conflict": false,
+   "open": false,
+   "score": 3,
+   "salary_hint": true,
+   "posted": "2026-11-05",
+   "first_seen": "2026-11-12"
+  },
   {
    "source": "Himalayas",
    "title": "Virtual Assistant (Flex-Time) (Remote/Global)",
@@ -134,6 +229,23 @@
    "first_seen": "2026-11-12"
   },
   {
+   "source": "Reddit",
+   "title": "Project Manager | London | \u00a345,000-\u00a352,000 [hiring]",
+   "company": "r/hiring",
+   "url": "https://www.reddit.com/r/hiring/comments/1xsn1nw/project_manager_london_4500052000_hiring/",
+   "location": "Remote",
+   "desc": "   Project Manager | London | \u00a345,000-\u00a352,000   I&#39;m recruiting for a Senior Project Manager on behalf of a London-based gifting and brand experience business working with major global brands.   This role will suit someone who has hands-on experience managing custom production and overseas manufa",
+   "direct": false,
+   "eligibility": "verify",
+   "evidence": [],
+   "conflict": false,
+   "open": false,
+   "score": 0,
+   "salary_hint": false,
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-12"
+  },
+  {
    "source": "Himalayas",
    "title": "Program Coordinator, AI Initiative",
    "company": "Pulitzer Center",
@@ -203,6 +315,26 @@
    "salary_hint": true,
    "posted": "2026-10-27",
    "first_seen": "2026-11-11"
+  },
+  {
+   "source": "Greenhouse",
+   "title": "Senior Brokerage Operations Associate (Canada)",
+   "company": "alpaca",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6231544004",
+   "location": "Remote - Canada, Remote - India",
+   "desc": " div class= content-intro   p  strong Who We Are: /strong  /p \n p  strong Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure nbsp; /strong for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. br  br Amongst our subsidiaries, Alpaca is a licensed f",
+   "direct": true,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Remote - Canada, Remote - India",
+    "Title suggests a region: Senior Brokerage Operations Associate (Canada)"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": 0,
+   "salary_hint": true,
+   "posted": "2026-10-22",
+   "first_seen": "2026-11-12"
   },
   {
    "source": "Ashby",
