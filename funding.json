@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-11T06:48:38.469973+00:00",
+ "updated": "2026-11-12T06:50:40.243081+00:00",
  "companies": [
+  {
+   "company": "SA fintech startup Lumepay",
+   "stage": "Pre-Seed",
+   "amount": "$6M",
+   "date": "2026-11-12",
+   "headline": "SA fintech startup Lumepay raises $6m pre-seed round -",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUtXazNJUURnUnVUZ1VIUE9qYU1ZWTNsVkMzTXhMcHg1YUsxV2pMQU8xR1RVcFpwMWhVb3ZvejdxeUhNa0xMV3RTNEZGUDNzMWpZRGJrWDBab1g1dzkxZWFfcTR4WVBFWWJua2pmLS0zLU5nR2ZlUVJzSmRnc05jRFVobzVvemNLbjlLdG45Yjc5SGs?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Medell\u00edn Based Fintech",
+   "stage": "Early",
+   "amount": "$14M",
+   "date": "2026-11-12",
+   "headline": "Medell\u00edn Based Fintech Raises US$14 Million to Bring AI and Financial Services to the Real Estate Sector",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLTJfVmF0bVVtakFxRFJTTDRIOXc1cF8zdmhPYXVHNXYtWFExNUt2Y3JjNmhGeFVQTTROVGVRNU4xbmpIaWVMWkNRQk5hTTBJc2hhSVRHenJEdXpPNEJMR1pfUEZWbldFdGtCZUlLLVVRQUJleGlLZVdfU2p3bFRzWkl2TG1MSnJIQV9selRDcFFDbTNFNmEyX2wxWUo3RkdmcEgtNGtJbi1rcXJoY0hYRGxQTjRnUDRiaXRLNlJDSHYxVDRwdmtuMUQ5X2dGcW82WFVxVmxDZG12RWlYbXFaNEpBdWVfWjZpVGfSAeoBQVVfeXFMTy0yX1ZhdG1VbWpBcURSU0w0SDl3NXBfM3ZoT2F1RzV2LVhRMTVLdmNyYzZoRnhVUE00TlRlUTVOMW5qSGllTFpDUUJOYU0wSXNoYUlUR3pyRHV6TzRCTEdaX1BGVm5XRXRrQmVJSy1VUUFCZXhpS2VXX1Nqd2xUc1pJdkxtTEpySEFfbHpUQ3BRQ20zRTZhMl9sMVlKN0ZHZnBILTRrSW4ta3FyaGNIWERsUE40Z1A0Yml0SzZSQ0h2MVQ0cHZrbjFEOV9nRnFvNlhVcVZsQ2RtdkVpWG1xWjRKQXVlX1o2aVRn?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Nebuly",
+   "stage": "Series A",
+   "amount": "$21M",
+   "date": "2026-11-12",
+   "headline": "Nebuly raises $21M Series A to measure the ROI of enterprise AI",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEN2ZIYW0xdXFBa2xEZGN0bmFtWmcxNDdIM0dDM3RZeXhJOUI2TWhpbW1FeUxDY1RGS09RbUVSbWdrT3NrUjZUclJPR1ZwZjZwM3J0T3cxYk1KWkl0aDA2NUUxRkZVU0x5ZWxqUDJIRlREQlk?oc=5",
+   "first_seen": "2026-11-12"
+  },
   {
    "company": "AI startup Trina",
    "stage": "Seed",
@@ -9,6 +36,15 @@
    "headline": "AI startup Trina raises $112,000 seed to build team-wide AI tools",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDIzQnNLejJ5TWc5aF95eDlZNXdtOHdPVWM3cWxWS25iZWlBLVZ4bVh3dHlTWHJRcjl6ZlhtbEJmUFhERVVOdE04OFFyMmJ0OVA3Yk8wdjd4d0hMSi10M1haOTA5Q0JLSGhBdHNrZTB5anBWQnlTaTBaZVJmNE11QnVXYjZTcFNzQkUzSEZfcHZMV1hKR01yMjc3anV5N0k?oc=5",
    "first_seen": "2026-11-11"
+  },
+  {
+   "company": "Plurai",
+   "stage": "Seed",
+   "amount": "$13M",
+   "date": "2026-11-11",
+   "headline": "Plurai Raises $13M Seed and Opens AI Agent Simulation Platform",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0pXcURfYUx2a18weG5PY29FS1VWYlRpeWVJMzdMWENiQnFybWlYaXdlNXU3YkF1Q2V6VHJJcnRBeVlkYURoLWQ4dEV2TUpsMnRETkREVXBWSWlNS0xIV2pnQmxtVHNMRTJla2dUSmU2bHhuWlN3RUVMUHA3VlpKY2U2OWJEcVE3YjAw?oc=5",
+   "first_seen": "2026-11-12"
   },
   {
    "company": "Lumepay",
@@ -20,6 +56,69 @@
    "first_seen": "2026-11-11"
   },
   {
+   "company": "BKN301-owned British FinTech Planky",
+   "stage": "Early",
+   "amount": "$6.9M",
+   "date": "2026-11-11",
+   "headline": "BKN301-owned British FinTech Planky raises \u20ac6.9 million to scale its AI-driven financial data intelligence platform - EU-Startups",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb3AyN0FxcEI1MjdLaXlkS3J1bGg3VXV1bVNzbXhDZTNNTWlwZ0huOGtsTlF1cjR6US0wSWxrMHlZaUI4Q2JwdTI3SEcyVWUydzIxd19FRzdYSk92M2NSUmRZU1E5Q3VsUG1pLWlIQXFScG1EZDhwYXdKZDFYRVR6VExYSE40Rkp0OVctQnVkMmNBTElaMVRYbVJFNXNBRnlsY1Z4S2pTNEZQYXVqVm9kZUw5X1dTdlpqSC0wM1REbkVEUzFVRHlua3Ywd0pDZTV1VnpiMGlDYnAtTG5Xb2Jnai1nYzJlTWc?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Czech Kardi AI",
+   "stage": "Series A",
+   "amount": "$5.3M",
+   "date": "2026-11-11",
+   "headline": "Czech Kardi AI Raises \u20ac5.3M Series A Led by Callisto Health",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWZXUFFYdmlheXMxR0JxSDZ5ZmE1Qkd2ZmowcTA0ZUEwbVhzRGcyeGlKNUxNX3JnRnM5dWx1XzFFWF9vbWxyTzZfSFhTYnR3Z3o3cUgwOWJSeXJFVk4yNTBJZjNKZzd5aXByemJuYXdIcW42Rmc5M0p0Nkc5RlFUem5GOUN0SGxYN3ExbUVqeF8yRDQ4dUE?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Kardi Ai",
+   "stage": "Series A",
+   "amount": "$5.3M",
+   "date": "2026-11-11",
+   "headline": "Kardi Ai raises \u20ac5.3M Series A for predictive heart monitoring",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFB0OHk5WTNHeXNBZ3lMOWpJRzZpWGZyUjFVcFNXcHUzZEZTUktXd3R4N21NdXNsaElyWFFFZFM1Z3F1T1NHRkdaQ1Mxa3VSWG9FMWNITEE4TjNvRHRNNGlnM3c1UUpoc3lfQk53Q2M5aURBR29CaDdvRlU4WHZSaDhEbmZpQUhiZU8tXy1Oam44SURhTHM1Rm1fYw?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Czech medtech Kardi Ai",
+   "stage": "Early",
+   "amount": "$5.3M",
+   "date": "2026-11-11",
+   "headline": "Czech medtech Kardi Ai raises \u20ac5.3M to advance predictive heart monitoring",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWdNM1BtZUZYcHAtb2gzQU5WWHpLOE5QcXNDRTNuUjIxc2dTNkNkOTczTHpkS21zVGRvZ29fajd1T0w4WjU1bUF1c0hCdnhubXZtamNfdkdXRlJ5Yk1FZWJDOEZEN1ZkQTJ5VDk4blhnandVS0VYZEFfZ2pKcm9jczFTT3pfX1c3NWV5RHBLQXpYdHdQOENfd3JaQnJZUm5zeWZaS0ZR?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Rox",
+   "stage": "Series B",
+   "amount": "$100M",
+   "date": "2026-11-11",
+   "headline": "Rox Raises $100M Series B at $1.3B Valuation to Advance AI Research",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWtabkRpSGVkR3FuQkRoTzFWRlo2M3NsdW83emFuVEp2eVBscFdLU3E0MnIxbjVWaGdfdE9Yb1M2dXVYS0NqX1dyU3BrT0RxT29lNXRKeUF0LTZzZ2tQSHc2YVhuYmFDS3poSVBkU0pUNTk2WEpVaEhMRmtaV25SRE5aS3p6ZEo0Q0sxLUJKSko?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Graphon Labs",
+   "stage": "Series A",
+   "amount": "$35M",
+   "date": "2026-11-11",
+   "headline": "Graphon Labs Raises $35M Series A to Give AI Agents Long-Term Memory",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50U2FzNUdwQWRiNXcyRkNJdkdNUnQyS0ZLWElEZzB2YjZCb2lPZ21RY0NZVnRQS1dOT0ZnZ1BMWGkxSVRwdHVJRl9KSnBfQ3F0bFpz?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "company": "PuppyGraph",
+   "stage": "Series A",
+   "amount": "$10M",
+   "date": "2026-11-11",
+   "headline": "PuppyGraph Raises $10 Million Series A Led by Particle Future to Scale Enterprise AI Data Infrastructure",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRFU5OTFPQmNWN0FaMUp4cDEyOE5UV1BlZVhab0t3VU5McTFyV1NHU3BBQ1dETnh3aU1GcVVSM2NIc3ZCZjF1dUF3Tm44aG1VbGxaT3JidWFtcUFQZHAxTnUzZlBfXzlYejA4S1JySFh0cWZyVktLbFEwc2p3VnBYNGZmeFFQa19HV0gyQnRhYnNobnNxdWtDXzlSdXF1VFFuVUpzbXNlVjRGdUFxbjNselhRZWJhdFBsZmhTTHBEX05OQjYzWUg2V05NSjBxZVlCSFBPdHFKTWRPeGRD?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
    "company": "Daylight",
    "stage": "Series B",
    "amount": "$80M",
@@ -29,13 +128,31 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Pay2o",
-   "stage": "Seed",
-   "amount": "$1.08M",
-   "date": "2026-11-10",
-   "headline": "Pay2o raises $1.08M seed to cut recurring-fee payment costs in Japan",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVktKV1pQUEE2cUQxMTdzWm9DWEtBNHJhd3pROWhJSHI3V0MyZFRHS1FfVDduZUVlZ1FfT3htX2ExZl8wU0wyN1p5VDVVcU9FRlY0UEtMai1lcm45TEdjSmVrVF9RNlo3ZlNsdTRjQkxKN09HRnVkTUpOMjdjbFRHNTNxcXlnazcyZ25xWkg2ejJxSERjTjlyMXVBQkNkQ3IzdkR3?oc=5",
-   "first_seen": "2026-11-10"
+   "company": "XpertDox",
+   "stage": "Series A",
+   "amount": "$20M",
+   "date": "2026-11-11",
+   "headline": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDk3NjdpUTlfQk4xdGhlMW1oUkZGalprWGplcGRfdV9VT3FreG9lMGdqckhITmRqU2t1TU5EUGhiTkR5bEtKS1RKbVFGeTlRaXBWODhPQzZBbldySUZhWkktSmp2LU9kMnFMMk1CRGhvLVVQUUFIYjM2QkF5T1g5c19XdDlrWEI0ZHJnaGM2SWFEWXY3Q21WXzZWSnBoZEIxMGZkMGxuNDBfLU1mTmJ0eFZ5NTBGd3lRV3FkRTZ0TXg?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "TheWealthNet - Swiss fintech",
+   "stage": "Early",
+   "amount": "$5.1M",
+   "date": "2026-11-11",
+   "headline": "TheWealthNet - Swiss fintech raises $5.1mn for private banking technology",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWtFeWhpcDFKWVlnSzlsbVRQb285dDVOamtDMlY0YldiWC1nV1hmeGpKNk5PMlZoX0tOaVNOS3I2RW8zU0NHeUtiVlRjSDR3UllIc2NoLW5tdG83elNXLVh2N2RhbmxjVnFyam9xcXdnalBtRnJoWFlLNmJHXzNuZ1kwZzJtdnBoMXhqWS1TN253dklDU2UtbHVvVQ?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Cape Town fintech startup Lumepay",
+   "stage": "Early",
+   "amount": "$6M",
+   "date": "2026-11-11",
+   "headline": "Cape Town fintech startup Lumepay raises $6m to build African payments network",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1ZMZUl2cUlFZzFEdzRNc0NYbkpGYnREZlpLQVI0VnJra25SdDRjSXh5VVcwUFVWRTFuRWUxZ2xFckdiTW8yQTBJSmJFNy01QjR5Y1JxM1A1bGpRdGx2aUM2UVRLeUtJejF5bTJXR01LdGRxQXYzU1ZVUHdYT0pEbGYwOFBNM2JWYU10MGQxdXRGM0NSOUVOaWs4QWs2M0FQLW1aV3JfemhVREpWNE9CZExuYUZFOUxtcjduakQ5NA?oc=5",
+   "first_seen": "2026-11-12"
   },
   {
    "company": "AI accounting startup Sumary",
@@ -92,15 +209,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Multipolitan",
-   "stage": "Early",
-   "amount": "$2M",
-   "date": "2026-11-10",
-   "headline": "Multipolitan raises $2 million to develop cross-border mobility platform",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFBpRHNZUFFHZnNtVXc2QnJNZjkwem42TUhFdFdraGFjX25TLUdKWEZzMHFMX1pJbk5qQ3RBVnBZeGhrVmUxU201Sk90WmR3ZmJ2RHBEN2taSGt2VnRTblZHLWZIZmd1d1BUTXV5V0xMWjRBTExYc1hQZFIxRTd2ZVN3OXY1UUNzYUlyVzliek9pbkJ4c3BRcG93UjZsQ1E?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "South African Fintech Lumepay",
    "stage": "Pre-Seed",
    "amount": "$6M",
@@ -119,24 +227,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "company": "Charta Health",
-   "stage": "Series B",
-   "amount": "$55M",
-   "date": "2026-11-10",
-   "headline": "Charta Health Raises $55M Series B to Expand AI Chart Review",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEZsYUMyUm1MbmpRSHhVZGxMN2RlMGFGUExHMWRWcVMtN29EYnJfRnJ4alp2VmYxVVdZZmx4SU92ZEtyeDlmWDZ1Ylh2TFFTS2gxWUtReC0tQ09JZkZmMWVvdUktZ29qX2ZNNEsxdmtWV2Y4TldlWU0yYVltT3g0Z0hEZFpUcXgy?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "PuppyGraph",
-   "stage": "Series A",
-   "amount": "$10M",
-   "date": "2026-11-10",
-   "headline": "PuppyGraph Raises $10M Series A to Help Enterprises Build AI Agents That Query 3,000 Tables in Subseconds",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlNCS1JSVi1ETXhrRkljMmdqdGlINDJNUE9wd1FGdHE5cFpZamVFUHVSZ200N0UwS2JGM2ltVmx6NnRpQl9uSGRTbGZFXy1WelNLOWJjelBYZ2JUMV84UUFsZ0RSaXRXNHd4QXBjblV4aExKWnNNQ1NtR0VPMUFVZTBTcEk1S0RYNnVNTXo3QW1RX3VDWDQ3QW9pR1NIQQ?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "Lumbra",
    "stage": "Series A",
    "amount": "$25M",
@@ -146,12 +236,12 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Graphon Labs",
-   "stage": "Series A",
-   "amount": "$35M",
+   "company": "Charta Health",
+   "stage": "Series B",
+   "amount": "$55M",
    "date": "2026-11-10",
-   "headline": "Graphon Labs Raises $35M Series A to Scale Persistent AI Memory",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWJXTWY3UlBDTmZFU19zcFFGM0FPQkdJQ3FxX212N0txVFJFaXhVR3NGOVF0N0pZTzQ4b0RsdmZSMFJCUFFncTBQYU1FYUJLb1BRRl9FYkpHbFJQSjMyaUloNTEyUnNHdTRvMkpLUnhKcGxXeERRNUlRMklSeG5BR1hlY0h5OXUyZG9MTg?oc=5",
+   "headline": "Charta Health Raises $55M Series B to Expand AI Chart Review",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEZsYUMyUm1MbmpRSHhVZGxMN2RlMGFGUExHMWRWcVMtN29EYnJfRnJ4alp2VmYxVVdZZmx4SU92ZEtyeDlmWDZ1Ylh2TFFTS2gxWUtReC0tQ09JZkZmMWVvdUktZ29qX2ZNNEsxdmtWV2Y4TldlWU0yYVltT3g0Z0hEZFpUcXgy?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -209,33 +299,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Venomics AI",
-   "stage": "Pre-Seed",
-   "amount": "$2.7M",
-   "date": "2026-11-09",
-   "headline": "Venomics AI Raises $2.7M in Pre-Seed Funding",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTG8yZmdsYTF1eDg2eWhNcmRvMERrcjN0UWQycDVudlRqdC1yLWUydTI3cE9ZbDlScXJ2eEgyM2VmNWI1TWZybklPTUs3VGstWEdKQzFDa2tyRlVpSVZ3eVNoejhpbFF4NndPTXU0NnRlTi1lVk9yMEtSM2E2UU9YVUpvOU1HbUE?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Indian AI Fashion Discovery App Slayd",
-   "stage": "Pre-Seed",
-   "amount": "$156,400M",
-   "date": "2026-11-09",
-   "headline": "Indian AI Fashion Discovery App Slayd Raises $156,400 in Pre-Seed Funding",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdklvbWtnQ2wxTkFfX0EyYlZJQW96dTh0c0p6YUpwOXZKcVBhelN2ZXFDazVxZkZRUHlLbXU0SWtHS044YlRnQmtFOU00VkN4TlNsRHcySjNvQ0xZQ0ZCWF9OYjhaUjY0THRuUmhCcHllRTdVcnpoWV9FVURuM3NsRTB6a2lfLUlzcXRZN3pjZ0VXSlJMZEJhSlQ1WQ?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Stablecoin remittance fintech Seva Money",
-   "stage": "Seed",
-   "amount": "$5M",
-   "date": "2026-11-09",
-   "headline": "Stablecoin remittance fintech Seva Money raises $5 million seed co-led by Blockwall and Revent",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTQllJV20wM0lWZGJFb3FFb2NBVTMtNHV3dmlQNTRYSnJzSTIzZGdKMkNsNHJpcFFHanNvZ1Z3T2tDSmhrZFJ2ZlVXSGtxbXJ0Ykhpd082X0RNLVdrbmpnUnFqeDBPR2hDRS1HY0ItSUI?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "Clinics On Cloud",
    "stage": "Early",
    "amount": "$12.5M",
@@ -263,6 +326,15 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "Stablecoin remittance fintech Seva Money",
+   "stage": "Seed",
+   "amount": "$5M",
+   "date": "2026-11-09",
+   "headline": "Stablecoin remittance fintech Seva Money raises $5 million seed co-led by Blockwall and Revent",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTQllJV20wM0lWZGJFb3FFb2NBVTMtNHV3dmlQNTRYSnJzSTIzZGdKMkNsNHJpcFFHanNvZ1Z3T2tDSmhrZFJ2ZlVXSGtxbXJ0Ykhpd082X0RNLVdrbmpnUnFqeDBPR2hDRS1HY0ItSUI?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
    "company": "Guava",
    "stage": "Seed",
    "amount": "$12.5M",
@@ -278,24 +350,6 @@
    "date": "2026-11-08",
    "headline": "Darwin raises $3.6M pre-seed to put robots inside AI data centers",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMDVSNDdPM280eHM3bEhoWXJndlFuYmg2azRCQXdzNFB0TGNLUW50NzJ3SEpOWEQ4U2EyVWpqanBYYkRGd2ZiRkxBa3hlU2lseFhLXzUxS21wM1Z4VXJ1VThMR3RTTGhlblF4aXFfdnpNV2E0RlI2R0ZqdlI5YWc1TU9wX3hhMXRkcEE5ZFg5NVc4WnJBMGxFSHhaMElrTlk?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Traversal",
-   "stage": "Series B",
-   "amount": "$120M",
-   "date": "2026-11-08",
-   "headline": "Traversal Raises $120 Million In Series B Funding At $1 Billion Valuation To Expand AI-Powered Software Reliability Platform",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUk3N3R0d3RGRHhYSGZ3Q0VqUDc4MGYyX0QzbFFrY0lNZW52cXAtc3J0Q1BjeEtnQjVDMUx1eG5DVEw0SjMycDFVQmRMTk1zSFhveko4eEx4YVhnN3ZGNjd4LWJ0TDNOVk5tbmFqQy05TnJzcWl0cnA4ZE91SVlxeFBJSFNoNjBRRU1EMndMaExLMnBBU1NjOS1pQXJwdHpEekItTVVjY0ZnazM3MGFQQ1FNWVlmR0l2RTRJaEZUeTVpdWtMREN2dnFyRXhMckpadEFVQUt5Vk9uQQ?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Bioliberty",
-   "stage": "Series A",
-   "amount": "$3.3M",
-   "date": "2026-11-08",
-   "headline": "Bioliberty Raises $3.3 Million In Series A Extension To Expand AI-Powered Rehabilitation Technology",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNy03UGMyQTRNYnMxNnhjRW4ydkNYNEYydkNlYmdoVWgwYUpFT18xOTdJajBLUVhIT2NnZFJkSFdYemIzWVJPR3l3UUdPQjJ1NWdGRHFNQl8wZlZjZW1tN3ZEQjQ4d0pQNzRxVU5YX0kyanYzdXd3WVRvRnFsQ3oyRnBKalVlMzlESjlyU2VJZnVrYklqQ1B5ZUJrYjBEZTdFWVJxMW1feGk4R0N2OWk4YWZuWWhLeWViaUE?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -326,21 +380,21 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Cowboy",
-   "stage": "Seed",
-   "amount": "$5M",
-   "date": "2026-11-05",
-   "headline": "Cowboy Raises $5 Million In Seed Funding To Launch AI Agent Marketplace And Developer Platform",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFUxUFl0WTRsRUptb0pRYk9rYm8xNk1STjJ3NkxZUTc4cm0tT0pUYld2YzVKcTVRWHNTSGZ2R2NkelhzcXRMZ0dfLXNfOExKanRjWFRlOTlSb0hPWTA2amlKMEFWaGxyaHhYS3VPc1hESFpBR3VhNmRYbzBhRmxWa3pFQnBGUnplMDd0TVpoeEJIeHJjemlYRHdiZENuZlgyRGhEbDBGamY0Z1BONm0yZGhPZw?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "Bio-tech startup Venomics AI",
    "stage": "Pre-Seed",
    "amount": "$2.7M",
    "date": "2026-11-05",
    "headline": "Bio-tech startup Venomics AI raises $2.7 Mn in pre-seed round",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXZ4LTh1bnRiM0E2UU05UXZUem56WDRJUVJIRHBPS2V5NzBlRnprX0FLQm1pd3kxWFlIa0Fic3RpY3o4R3NMeWFtSlV5UXJUamtTVkZSTWV4YkRMcm52cWI2NW0wS3V3WC1sdlpfdk9Od1NTOGhiYk4wdlV0cDNFY21HTUZrRGdKVF9qMzV6V25qSFVlRndsQTFxajB0V1nSAZ8BQVVfeXFMUEF2eC04dW50YjNBNlFNOVF2VHpuelg0SVFSSERwT0tleTcwZUZ6a19BS0JtaXd5MVhZSGtBYnN0aWN6OEdzTHlhbUpVeVFyVGprU1ZGUk1leGJETHJudnFiNjVtMEt1d1gtbHZaX3ZPTndTUzhoYmJOMHZVdHAzRWNtR01Ga0RnSlRfajM1elduakhVZUZ3bEExcWowdFdZ?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Cowboy",
+   "stage": "Seed",
+   "amount": "$5M",
+   "date": "2026-11-05",
+   "headline": "Cowboy Raises $5 Million In Seed Funding To Launch AI Agent Marketplace And Developer Platform",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFUxUFl0WTRsRUptb0pRYk9rYm8xNk1STjJ3NkxZUTc4cm0tT0pUYld2YzVKcTVRWHNTSGZ2R2NkelhzcXRMZ0dfLXNfOExKanRjWFRlOTlSb0hPWTA2amlKMEFWaGxyaHhYS3VPc1hESFpBR3VhNmRYbzBhRmxWa3pFQnBGUnplMDd0TVpoeEJIeHJjemlYRHdiZENuZlgyRGhEbDBGamY0Z1BONm0yZGhPZw?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -360,6 +414,15 @@
    "headline": "Kalepa Raises $75M Series B at $470M Valuation to Expand Insurance AI",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqdHllM3ptbTdDVHAxbFpKYjVaTlZFZGdNQnA1LUhqcmRkVXdnMlprbV9JUmJkVUFQN3MxQWZNYmJ0VzFVN3MxUHEwVGZrT1VkUElnZUQ4QldXQ3o0Q00tQ3FfZ0NOUjE0b1BtVGdn?oc=5",
    "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Insurtech Kalepa",
+   "stage": "Series B",
+   "amount": "$75M",
+   "date": "2026-11-05",
+   "headline": "Insurtech Kalepa raises $75 mn in Series B at $470 mn valuation to expand insurance AI platform",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ySjNJWEZBQ3dISEwzSjFIQU9kT1pYN00zUG5XOGs1VnV3YXhXWEpkMGhDa2tKRWRoRzlfOGFwcTFLZFBFSGNUcDJMd3dHOE1yMjhlQk1aT1FlV0R6c0NPN0IySjFLTzNBX3RhZlZ3NW11bnJIbjhmb1I2czl4Qmc?oc=5",
+   "first_seen": "2026-11-12"
   },
   {
    "company": "Firmly",
@@ -425,6 +488,24 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "TechNovaTime",
+   "stage": "Pre-Seed",
+   "amount": "$3.4M",
+   "date": "2026-11-04",
+   "headline": "TechNovaTime raises $3.4M pre-seed to fuel hiring, expand its healthcare automation platform",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT1lHWXp6SnRKUWNGQndZV0pFd09tR1FVSHp2OUZ1bVNuTjUwUm9mNEp0cHl4ZVJ4NGxSRk40eGFUMEFwX0pjMzRQZnZ5RFU4N2o2dDJNekpacDdObEhCVFlTdG5xbURXYWtRTlFSSE5va2d6QWNzeTZpTkJGUG9oSl9YUWpYVkZUNThPWWZQeERKWGNxX29SQVdsM3lDQTR6Zmc?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Paediatric health brand Primerry",
+   "stage": "Pre-Seed",
+   "amount": "$760,000M",
+   "date": "2026-11-04",
+   "headline": "Paediatric health brand Primerry raises $760,000 pre-seed round",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUxUWWxmTVRXNlp6VlZ5VFVFSHpwd2dfZW10M2dNQmlDY0Rwa3NsN3I2WGdSVFZqeUFKdlV0Tng3b2hnVHZoN2ZlTWZ6TGdoRFdPUzM0WFRPZW03WGhka1ZjVTRXcU94X0JSaE1pV3J1aDRwVHR0cFBMY0lBVWVUOHA3aXRaWXBnTTRqNTdXd0V1ZDFQSVZRaHJNeXY?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
    "company": "Fintech Crediflow AI",
    "stage": "Early",
    "amount": "$1.5M",
@@ -452,21 +533,21 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Pune health-tech startup clinics on cloud",
-   "stage": "Early",
-   "amount": "$12.5M",
+   "company": "CareLumi",
+   "stage": "Pre-Seed",
+   "amount": "$2.5M",
    "date": "2026-11-03",
-   "headline": "Pune health-tech startup clinics on cloud raises $12.5 million as it sets sights on global expansion",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS09uT1d0aWsxeFJVRFlaUXFTQ1FZbWR6TVRFWmdHTzZ0WkdNdE9kQ3RZUmxiRTFmZW82TGxQM244MnRaZThIWnpRYW10dzAyck1RV3NVTEozVnJITkhfdF9EcTdia1dyWmFCZ0VPTEJ3Z1dTS3REUUwtSExLOGJzdWlvWFhDbFUwNGwzYzFnTVRLZFJNbnJ0Q3p5VXVuQ3MxbzBaQkxuUHFNakZoaGVqN09oSWxFQ1hIVHM4RTcyM3ZaYzRqbHhpM1FsYmNUQkpoYVg3UW5rakMzVFo1VlHSAeQBQVVfeXFMUGhKc1hBRkE1ZklaaC04WnFxQnI0RUI1cEhKM1owSXR2ekp5R0NwVWZITkVnZzVXWEdDeWVMMEV6djU0bjViN2xSMWZYcHRKcGJ6aExWTlQtT194S2gzLXB2cnIxSzl6Q3ZjT3JlUjZ1TjdVZUFkUUs3ekR4bjlYaGFyTHQ5WXRjM1o0T0lQa3J0QURkLWcyd01YWE4zVVJ6SFh6cE9vdjNLNTRzXzhIQUx5dnp0dTRtc3RXQ3RNNE82ZldlRkkzdWRPTTl4dGVrUEQ3VjFuZ0M1bzl1S2wtaThtZVZS?oc=5",
-   "first_seen": "2026-11-10"
+   "headline": "CareLumi Raises $2.5 Million Pre-Seed Round To Build Verification Layer For Healthcare AI",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXBvS000VTFYYlRnT3ppelVuVkpJTTlKNm9jNFBsZFhPTjlzX3JPd05tampSWXlHYXlDM1FyOHJkTFRYZlg0RU1qNWs0XzRzNnhfT0tLMXBVV19vX1FCMk5DTl94TXgzZ0tRT2x0b0pZSUppb1A3LU1MZWEwVDFha2pOcThOSGxiR0lMOUZtekRDUWxjdF9NbkFuWXp3Snp5dDVycEo3dTJSNnBT?oc=5",
+   "first_seen": "2026-11-12"
   },
   {
-   "company": "Xinju",
-   "stage": "Series A",
-   "amount": "$14.9M",
+   "company": "Traversal",
+   "stage": "Series B",
+   "amount": "$120M",
    "date": "2026-11-03",
-   "headline": "Xinju raises $14.9M Series A to expand AI chip substrate production",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHpjZjZxQ002M19ZZzFtN24zSFBHaC11MkxwUmFxeEExckg4WEFiaE5pcmpaQXduaW1KV1RrNnFHTmZlcUdDWnFPN3UtMDc4ZnQtSHZaMFQ3cVRNUGhiZ1VDc09QTjdXTlludHl6MmdiVEwyVUhZaXV3RTdMdjZ4Z24tTjlReU9IWWhreFlPUjRHMl9mZ2ZqQTB4WTJsM3BuQnc?oc=5",
+   "headline": "Traversal Raises $120M Series B at $1B Valuation to Expand AI SRE",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVNxdUptbk9hOUI0aEZycF9Ya2J2Rno1bktkNUFLQktNbzVLdDBITk9id0Y4VTFtR0VjcmloTnF2dFFEcldka3Q2ZnRSRVdzbGtVWll3N2dxWURza0V4V2ttdURqVzlHUEs0QTd0OVk2UVVpcWZvT2IwN2NIQjhDazRXdV9CdE1OVmtIQWhn?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -486,15 +567,6 @@
    "headline": "Marble Cognition Raises $3.75M: AI Learns Your Job [2026]",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDRrLWVZS19tTTd4XzdrQThfVlpKV25RSXB6VE93LTZkUTZjaXB3aXlWYklWQUVIaXVzOW9NaFNZRlVjTThUUG94T0x1UC04T05tWnZXZWswMzdfVlNSWDNrNzBNbnR1ZnRSenRIbmREMHBHQ3JncWFneVlOcFhQc25FZFg1eGt1YmlpSlBn?oc=5",
    "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Phoenix fintech startup",
-   "stage": "Early",
-   "amount": "$12M",
-   "date": "2026-11-02",
-   "headline": "Phoenix fintech startup raises $12M to expand education savings platform beyond Arizona",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFRJTjlnVmdrVDN4aTQtUWs4RHowWC00eE5Jb1RVaVloX0FIQWxaalNMREw5Um9fN2xWcnI3OGcyaVBLOTJtSTBQUU9CWW91bHlZTzVnVFd4a0ZzVDRXZm8yN0w5cFJLNlBEUTVMSGhKck9uc0ctT0JsQkU5TWYtYWRuYm1HcVZoTUZRWWVyZ1pOdnl0bXRLUGN1a3NaOEFHaURv?oc=5",
-   "first_seen": "2026-11-11"
   },
   {
    "company": "Dispute automation platform Casap",
@@ -531,6 +603,15 @@
    "headline": "Larridin Raises $30 Million in Series A to Prove AI\u2019s Impact Across the Human and Agent Workforce",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV1JJbnhyNkhDdWZxYXFlV2dkcEdiUkdPYkxBYjY0MDNnLTcyZ0RRcG9zSDAzSEVIcVd3S3QzYWNyM1UzaEttOVB1V0c5WnhvakxrSDE0cUdxcjZ5S1Y5WkNEcEI4N0pGbmgyWFhHLUt0ZEZnUGxpQ3VkVG9IMTZRMVJjbkZBRWlTZGRiZjd3ZW1CemFhTzJWZUlYZjUydw?oc=5",
    "first_seen": "2026-11-10"
+  },
+  {
+   "company": "WINN.AI",
+   "stage": "Series A",
+   "amount": "$18M",
+   "date": "2026-11-02",
+   "headline": "WINN.AI raises $18 million Series A to expand sales AI platform",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qdTFnOHBnd2IxNGNHRU1OeVRtYlZOd0NCZm1lWmxXRXQtSzRJRHlraDgybjR2MFM5czU1TU5KUndnRnFBeU5iT3NHOFFnRy05UHZpbUFKODJndmRQcFk3TjNB?oc=5",
+   "first_seen": "2026-11-12"
   },
   {
    "company": "Nigerian co-founded AI startup Minicor",
@@ -578,13 +659,22 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Dream",
-   "stage": "Seed",
-   "amount": "$17M",
-   "date": "2026-10-29",
-   "headline": "Dream Raises $17M in Seed to Teach AI How to Understand \u2013 and Build \u2013 the Physical World",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMUFNWDNXUkc2UTlUUlJSUkR2WmgzenR4ZzF2aTlPM0EzSHFaRkdJak9QZ2pJc05uRzBTMTJpRU9TOW14U2Y0bWQ2UUZSTm5Hb08zd1RfaDhKenJISGhWYjhGTHlkcTB2WEw5S1ZYMnplTWJCdUpZNzBJUm1xUmJsY09wcXpyZHZRV3h5dnl6dFhScTV6Y2c?oc=5",
-   "first_seen": "2026-11-10"
+   "company": "Wrapped Health",
+   "stage": "Pre-Seed",
+   "amount": "$2.1M",
+   "date": "2026-10-30",
+   "headline": "Wrapped Health Raises $2.1 Million Pre-Seed Funding To Connect Clinical Care And Consumer Health",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUhZWC1XajhZNGFTVEtYQ3JzOGh2RFNWSXJ2aE92eFVZeGh2N2Z3eHJlVGJLQlYweU1HSmZ3VWxGSV9Zcm1LWThOelF3ZmZqbjNmNjNLNTVPOXgyVUZKaHFPc0hpLTctWkNJaHMtdVZLLWlZOUEtU1FGV25fT1VBaTVqVUs2aFJFWENseWZ5X08xQ0MxM05kaXpNbTlYQ2x4dDZIdUJCSDFIVEN0NENfb24tdmI1dw?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Bloomsco",
+   "stage": "Pre-Seed",
+   "amount": "$1M",
+   "date": "2026-10-30",
+   "headline": "Bloomsco raises $1 million pre-seed from BDC, Telegraph for military training platform",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeHNFd3pPNlR0cGdxWnVBWk5BZnljQzJFSldiNUgtQjZYeWpPamI4bWRvdGc0SkM4RTJmanRXSVFWU1Y0TW5TcTBQUWpxeWVWWUFzRmQzR0I4NFNXZ0NQbi1xdWtKc0M1YkNNU3Z3OTZRZXZCWGo5UnBqQmliWksxcXBVWGpFS3YxM2NUdF9meHJxNjVBUDVUVkRZSDNKUW9nbC1fZmZqbXI?oc=5",
+   "first_seen": "2026-11-12"
   },
   {
    "company": "ShareWillow",
@@ -602,6 +692,15 @@
    "date": "2026-10-29",
    "headline": "Ravical Raises $17M Seed to Scale Accounting Expertise With AI",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FTlJnWC1SU2pYMmdQSnBxdzQ0cUNEYlZmSEpFaTFZWXVFZXRhOWNscnNTOFVhSElfUFFIdlFCMGsyY1IyV3BNOVlRMm41NkVHclBhejhaLU9rVDcxczRzZjdYMjdhZ1JaTW9KWk5fMFR5NFVRbWFj?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Dream",
+   "stage": "Seed",
+   "amount": "$17M",
+   "date": "2026-10-29",
+   "headline": "Dream Raises $17M in Seed to Teach AI How to Understand \u2013 and Build \u2013 the Physical World",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbG5GYVBIU2dBZjJGYVAwUy1id0JzQzE3UlFSRlFPcUZMMFdqSjA2a0ppd0wtMTk4NVhKMWJxWXNVMmk2em9UMjBtV2ZUOWIwUnZmdDlaU2RNTUZjWkdQN0lBTnk2dzBmUW03ZFlrenZPTlFfUUF0Qk1yTUpMZlIzOHVqMW00WkNfRWdkaEtUbzQ0eWZCWTVpVGJyc2cxNkF0QmN3Sk4wRVRTdXM3eGtOTVYyN0NsMkF4cjAyNHZHVGRJOTBaZUppTzVyRzQyMTZyQ2s4Unpha29kaGc?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -674,42 +773,6 @@
    "date": "2026-10-29",
    "headline": "AI-training startup Plato raises $16M Series A led by Nava Ventures",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXZCenZxWDJQNm16RVZKZmhBcXZmTFBzOHRIR3BCWnVrZ2dPY2gwOHB3ejdnV3kyamNvQzV2Y1VTclRRVHRHa2hSRVhhbVRvcld4RzNKekMtdjQ3aWdWVFZMX2hnWGZhQVRYeks3Qy0tcF9JeWhEUDJrSDlEdERrdkJnMUc0OUU5WWxhSjAtb29vVnRpemlfdDJXS090TG1sSXc?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Enterprise AI Startup QwikBuild",
-   "stage": "Pre-Seed",
-   "amount": "$2.3M",
-   "date": "2026-10-28",
-   "headline": "Enterprise AI Startup QwikBuild Raises $2.3 Mn In Pre-seed Funding",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1oxbEg2QzBvSzlOTUdUaWJPLURwYVpKSG1OQzQ4Q2NVeDJxcE9JN2VsZWU2SkZ0UDVDOHM4NXBlT2h1d2ZFLTYycmcwLWdmdFpSdGczZm1famhsZjE4T19iVE5jRElveWIwVGN2SEU5S3RMX2x0OV9OVUNpU2hwVlRSMjltdDRJTHE3MzFxc1ROUHdVaEhzcFUzNng1aVFLem1SM2RhYm9Mdw?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "AI enterprise startup QwikBuild",
-   "stage": "Pre-Seed",
-   "amount": "$2.3M",
-   "date": "2026-10-28",
-   "headline": "AI enterprise startup QwikBuild raises $2.3 Mn in pre-seed round",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlR2RkVZbE1zQnBIUWNGRVZwdmhwUkMzaUtxY0xGcFBtMDZsRW1HTnhRSWlPbG9Da1JyT0E2YXBiVnFSSG9wNC16VEVUQU5Rby1qME5YMzFON2hHblR5QlFQV3FPOU8ycXkySmV2ekFLRmkxeUhoN28zS0lSNldJcE0wcmxTVW82VnFPekhjNWRpOEc5anZNZHBncll1aFRXeVlZ0gGjAUFVX3lxTFBmVHZGRVlsTXNCcEhRY0ZFVnB2aHBSQzNpS3FjTEZwUG0wNmxFbUdOeFFJaU9sb0NrUnJPQTZhcGJWcVJIb3A0LXpURVRBTlFvLWowTlgzMU43aEduVHlCUVBXcU85TzJxeTJKZXZ6QUtGaTF5SGg3bzNLSVI2V0lwTTBybFNVbzZWcU96SGM1ZGk4Rzlqdk1kcGdyWXVoVFd5WVk?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Plato",
-   "stage": "Series A",
-   "amount": "$16M",
-   "date": "2026-10-28",
-   "headline": "Plato Raises $16 Million Series A to Build Simulated Workplaces for AI Agents",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUhSV1hGR3ktNFpxR0hPc3dENnhKV3IxXzNmemd3TkE3YVR1clJFdGpLNmEyS1hORGFONzdQcXpBS2FyaG5MZkJJSVpDTy1iSDMwZUlmbW1rZVl1TVVUWkd1VTNuUXFCRHZ6SFQ3bzhteE5ndGNZNHc5NFk4WEFuTmNDYzllNE0wYXBaeUNB?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Easol",
-   "stage": "Series A",
-   "amount": "$30M",
-   "date": "2026-10-28",
-   "headline": "Easol Raises $30 Million in Series A Extension, Launches AI Agents for Experience Businesses",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTN0cFdiZVZiQzBNd18yTmxKRXVVRWd1QVR0b051MlJEUGV5elhlZnZndjFOSFptQi14a1RNVS0xOTM5WVA2LWlOTHpCNVBPRkNnTnJuVl9GNDhveUVkVVRtZUdFekJoVHhud3RsaUh5c2s4ckJYeTE3akpNVXgwSFNxZjlnc1R0Y1BGbWhpNFY3SURwZ1hmT1doY2JlS2ZqLVpTRklBMUhJZnVMWTJSNjRGTWs5d2R2SWpzRmFfYkN3bFhJbC14bA?oc=5",
    "first_seen": "2026-11-10"
   }
  ]

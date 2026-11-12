@@ -1,25 +1,6 @@
 {
- "updated": "2026-11-11T06:48:05.339927+00:00",
+ "updated": "2026-11-12T06:50:03.357201+00:00",
  "jobs": [
-  {
-   "source": "Workable",
-   "title": "Operations Coordinator - B104 (SR)",
-   "company": "pearltalent",
-   "url": "https://apply.workable.com/j/520D87A1F1",
-   "location": "Remote",
-   "desc": "  Work From Anywhere in LATAM or the Philippines    Work Schedule:  ET | 9:00 AM \u2013 6:00 PM     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Our clients have raised over $5B in aggregate and are backed ",
-   "direct": true,
-   "eligibility": "confirmed",
-   "evidence": [
-    "Description: Work From Anywhere in LATAM or the Philippi"
-   ],
-   "conflict": false,
-   "open": true,
-   "score": 4,
-   "salary_hint": false,
-   "posted": "2026-11-09",
-   "first_seen": "2026-11-10"
-  },
   {
    "source": "Workable",
    "title": "Remote Operations Coordinator",
@@ -250,25 +231,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "source": "Ashby",
-   "title": "Billing Operations Manager",
-   "company": "elevenlabs",
-   "url": "https://jobs.ashbyhq.com/ElevenLabs/a2910e63-1dcc-4da2-a8ee-bc2a044e4613",
-   "location": "Remote London",
-   "desc": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like",
-   "direct": true,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: Remote London"
-   ],
-   "conflict": false,
-   "open": false,
-   "score": 0,
-   "salary_hint": true,
-   "posted": "2026-11-10",
-   "first_seen": "2026-11-11"
-  },
-  {
    "source": "RemoteOK",
    "title": "Partner Operations Manager",
    "company": "Mecka",
@@ -398,6 +360,44 @@
    "salary_hint": true,
    "posted": "2026-11-06",
    "first_seen": "2026-11-11"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Vehicle Sourcing & Import Operations Manager",
+   "company": "Smart Suites",
+   "url": "https://weworkremotely.com/remote-jobs/smart-suites-vehicle-sourcing-import-operations-manager",
+   "location": "Asia Only",
+   "desc": "\n\n \n   Headquarters:  National Capital District, Philippines\n      URL:   https://smartsuites.com.au \n \n\n  About the Company   \n Smart Suites manages a portfolio of over 100 rooms for short-term vacation rentals across Rocklea, Sunnybank, Acacia Ridge, Carina, and Kuraby in Queensland, Australia. Gu",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Asia Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "E-commerce & Operations Coordinator (Pharma/Supplements) - NZ",
+   "company": "D2B",
+   "url": "https://weworkremotely.com/remote-jobs/d2b-e-commerce-operations-coordinator-pharma-supplements-nz",
+   "location": "Asia Only",
+   "desc": "\n\n \n   Headquarters:  Manila, Metro Manila, Philippines\n      URL:   https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b \n \n\nAbout the Company The client is a New Zealand-based wellness brand specialising in nutritional supplements and wellness products. The company is committed to ",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Asia Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-12"
   },
   {
    "source": "WeWorkRemotely",
