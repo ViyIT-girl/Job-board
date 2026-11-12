@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T08:55:26.265144+00:00",
+ "updated": "2026-11-12T09:20:12.896787+00:00",
  "companies": [
   {
    "company": "SA fintech startup Lumepay",
@@ -506,15 +506,6 @@
    "first_seen": "2026-11-12"
   },
   {
-   "company": "Paediatric health brand Primerry",
-   "stage": "Pre-Seed",
-   "amount": "$760,000M",
-   "date": "2026-11-04",
-   "headline": "Paediatric health brand Primerry raises $760,000 pre-seed round",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUxUWWxmTVRXNlp6VlZ5VFVFSHpwd2dfZW10M2dNQmlDY0Rwa3NsN3I2WGdSVFZqeUFKdlV0Tng3b2hnVHZoN2ZlTWZ6TGdoRFdPUzM0WFRPZW03WGhka1ZjVTRXcU94X0JSaE1pV3J1aDRwVHR0cFBMY0lBVWVUOHA3aXRaWXBnTTRqNTdXd0V1ZDFQSVZRaHJNeXY?oc=5",
-   "first_seen": "2026-11-12"
-  },
-  {
    "company": "Fintech Crediflow AI",
    "stage": "Early",
    "amount": "$1.5M",
@@ -540,15 +531,6 @@
    "headline": "Startup Athena raises $2.5M in pre-seed funding to revamp the revenue model for legal AI",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEZXTVZSaEVYbXJ2aHlGdWg3QWRYLWJCazlYTk1UMDA5TUpiT29hMkRTLWFjV2RjUDVDWl9OTkE1bXE3MFBaRkdoVGp5aEtrdVRGSm1jSWRBa0pwSWxLamtiTWFuN2haNDlwdXRIMG44T3puU09IWTQxYVhXOEx3U2JBM21zN1BQZGlDRldKdTVxLWtkLUFhZ3h4RDRkN09vS0VXeVI3Y2ZtTllJTmpfSDdTSHM4eU5LeEl4TEFmMWZzZw?oc=5",
    "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Legal AI Startup Athena",
-   "stage": "Pre-Seed",
-   "amount": "$2.5M",
-   "date": "2026-11-03",
-   "headline": "Legal AI Startup Athena Raises $2.5M Pre-Seed Funding",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFFiWjZWRDhoZUVkOUFKS3lBR3JrZy1hT0E4NWViaTN2MUphWmwyTHlDT0Z0Sjl5VnlpblJPdDhIUk9IbHhOQklFT3pmcnpIQk83S2M3RmZLVTdVOTg0Z2x0MHBwZzdRQjNfd215X1lfa0pVZGhEY3JDdGVJaTYyYXpMVWtlZnhGUGQwVGZiTzgtd0F6UnhEUWxTSXByOWdpYUxoeFhCZmN4U09kNnfSAV5BVV95cUxNV29xZTA0R1NrbjRlUk9DT1l5dFhrNF95c21fY3Rnc3NaVkl4Mnd5MHhnSlZPVW96WjZ1LWR6ZHhRTmhJUTQwUDktaHV5RGhlRlpEcXhhalN3ZEVYUE1R?oc=5",
-   "first_seen": "2026-11-12"
   },
   {
    "company": "Traversal",
@@ -668,6 +650,15 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "Wrapped Health",
+   "stage": "Pre-Seed",
+   "amount": "$2.1M",
+   "date": "2026-10-30",
+   "headline": "Wrapped Health Raises $2.1 Million Pre-Seed Funding To Connect Clinical Care And Consumer Health",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUhZWC1XajhZNGFTVEtYQ3JzOGh2RFNWSXJ2aE92eFVZeGh2N2Z3eHJlVGJLQlYweU1HSmZ3VWxGSV9Zcm1LWThOelF3ZmZqbjNmNjNLNTVPOXgyVUZKaHFPc0hpLTctWkNJaHMtdVZLLWlZOUEtU1FGV25fT1VBaTVqVUs2aFJFWENseWZ5X08xQ0MxM05kaXpNbTlYQ2x4dDZIdUJCSDFIVEN0NENfb24tdmI1dw?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
    "company": "Bloomsco",
    "stage": "Pre-Seed",
    "amount": "$1M",
@@ -684,15 +675,6 @@
    "headline": "Ravical Raises $17M Seed to Scale Accounting Expertise With AI",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FTlJnWC1SU2pYMmdQSnBxdzQ0cUNEYlZmSEpFaTFZWXVFZXRhOWNscnNTOFVhSElfUFFIdlFCMGsyY1IyV3BNOVlRMm41NkVHclBhejhaLU9rVDcxczRzZjdYMjdhZ1JaTW9KWk5fMFR5NFVRbWFj?oc=5",
    "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Wrapped Health",
-   "stage": "Pre-Seed",
-   "amount": "$2.1M",
-   "date": "2026-10-29",
-   "headline": "Wrapped Health Raises $2.1 Million Pre-Seed Round Co-Led by Lightbank and Arteria Capital",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZHd6RU1kcjJkQy1ONnQwUExkWmRPVW5Gc2RzbjFOc25aVVhVS254QTB5dG9OeTREQTN5RFpGd2MwMEEyVVE4bFo1d0JOaFZEUmt0RUlHNGZJWmRqbU5keTZVdGpIa0I1X3dMVHFQdjNVZVFjOUQzUmFJekpBQl9xMkZpMGFCUFlIZGtIYlVPZkIzTGpDNXZZd0RkY1RGNTFDbnMxS21NSVRtYXJKaDAzSkZPZ2VfYXhWZ3B0RFRsVHlwSU12Rmc?oc=5",
-   "first_seen": "2026-11-12"
   },
   {
    "company": "VUSE XR",
