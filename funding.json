@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T10:04:43.775362+00:00",
+ "updated": "2026-11-12T10:17:47.694484+00:00",
  "companies": [
   {
    "company": "SA fintech startup Lumepay",
@@ -92,30 +92,21 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Czech Kardi AI",
-   "stage": "Series A",
-   "amount": "$5.3M",
-   "date": "2026-11-11",
-   "headline": "Czech Kardi AI Raises \u20ac5.3M Series A Led by Callisto Health",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWZXUFFYdmlheXMxR0JxSDZ5ZmE1Qkd2ZmowcTA0ZUEwbVhzRGcyeGlKNUxNX3JnRnM5dWx1XzFFWF9vbWxyTzZfSFhTYnR3Z3o3cUgwOWJSeXJFVk4yNTBJZjNKZzd5aXByemJuYXdIcW42Rmc5M0p0Nkc5RlFUem5GOUN0SGxYN3ExbUVqeF8yRDQ4dUE?oc=5",
-   "first_seen": "2026-11-12"
-  },
-  {
-   "company": "Kardi Ai",
-   "stage": "Series A",
-   "amount": "$5.3M",
-   "date": "2026-11-11",
-   "headline": "Kardi Ai raises \u20ac5.3M Series A for predictive heart monitoring",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFB0OHk5WTNHeXNBZ3lMOWpJRzZpWGZyUjFVcFNXcHUzZEZTUktXd3R4N21NdXNsaElyWFFFZFM1Z3F1T1NHRkdaQ1Mxa3VSWG9FMWNITEE4TjNvRHRNNGlnM3c1UUpoc3lfQk53Q2M5aURBR29CaDdvRlU4WHZSaDhEbmZpQUhiZU8tXy1Oam44SURhTHM1Rm1fYw?oc=5",
-   "first_seen": "2026-11-12"
-  },
-  {
    "company": "Czech medtech Kardi Ai",
    "stage": "Early",
    "amount": "$5.3M",
    "date": "2026-11-11",
    "headline": "Czech medtech Kardi Ai raises \u20ac5.3M to advance predictive heart monitoring",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWdNM1BtZUZYcHAtb2gzQU5WWHpLOE5QcXNDRTNuUjIxc2dTNkNkOTczTHpkS21zVGRvZ29fajd1T0w4WjU1bUF1c0hCdnhubXZtamNfdkdXRlJ5Yk1FZWJDOEZEN1ZkQTJ5VDk4blhnandVS0VYZEFfZ2pKcm9jczFTT3pfX1c3NWV5RHBLQXpYdHdQOENfd3JaQnJZUm5zeWZaS0ZR?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "company": "XpertDox",
+   "stage": "Series A",
+   "amount": "$20M",
+   "date": "2026-11-11",
+   "headline": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDk3NjdpUTlfQk4xdGhlMW1oUkZGalprWGplcGRfdV9VT3FreG9lMGdqckhITmRqU2t1TU5EUGhiTkR5bEtKS1RKbVFGeTlRaXBWODhPQzZBbldySUZhWkktSmp2LU9kMnFMMk1CRGhvLVVQUUFIYjM2QkF5T1g5c19XdDlrWEI0ZHJnaGM2SWFEWXY3Q21WXzZWSnBoZEIxMGZkMGxuNDBfLU1mTmJ0eFZ5NTBGd3lRV3FkRTZ0TXg?oc=5",
    "first_seen": "2026-11-12"
   },
   {
@@ -146,12 +137,12 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "XpertDox",
+   "company": "Czech Kardi AI",
    "stage": "Series A",
-   "amount": "$20M",
+   "amount": "$5.3M",
    "date": "2026-11-11",
-   "headline": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDk3NjdpUTlfQk4xdGhlMW1oUkZGalprWGplcGRfdV9VT3FreG9lMGdqckhITmRqU2t1TU5EUGhiTkR5bEtKS1RKbVFGeTlRaXBWODhPQzZBbldySUZhWkktSmp2LU9kMnFMMk1CRGhvLVVQUUFIYjM2QkF5T1g5c19XdDlrWEI0ZHJnaGM2SWFEWXY3Q21WXzZWSnBoZEIxMGZkMGxuNDBfLU1mTmJ0eFZ5NTBGd3lRV3FkRTZ0TXg?oc=5",
+   "headline": "Czech Kardi AI Raises \u20ac5.3M Series A Led by Callisto Health",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWZXUFFYdmlheXMxR0JxSDZ5ZmE1Qkd2ZmowcTA0ZUEwbVhzRGcyeGlKNUxNX3JnRnM5dWx1XzFFWF9vbWxyTzZfSFhTYnR3Z3o3cUgwOWJSeXJFVk4yNTBJZjNKZzd5aXByemJuYXdIcW42Rmc5M0p0Nkc5RlFUem5GOUN0SGxYN3ExbUVqeF8yRDQ4dUE?oc=5",
    "first_seen": "2026-11-12"
   },
   {
@@ -245,6 +236,24 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "Zus Health",
+   "stage": "Series B",
+   "amount": "$33M",
+   "date": "2026-11-10",
+   "headline": "Zus Health Raises $33 Million Series B to Expand AI-Powered Healthcare Data Platform",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEdvbTVBWGdKYW5FNTAwTFQ4dThuTUlzWHhLbDhKWUIwUF85VU5ZR1dQYVZhR2ZnMk5aUGE2TS11bV9GUllhQ1dSRF9MZ005NUp2R0dub0VRVlNnX3ZhZGN3QVJhdEhjMWNTZG5BOTlrWE03OXNmaUx1QjEzZjVwQW9qWkRTeGhsSEo0VWFEbS1tMUJwbWFJM3ZzTm5wVnZFUnVkb2pHSkFJUXNkMkJkdXRnamo3NWNsSlU1ZUdLSQ?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Charta Health",
+   "stage": "Series B",
+   "amount": "$55M",
+   "date": "2026-11-10",
+   "headline": "Charta Health Raises $55 Million Series B to Establish a Shared Standard of Accuracy in Healthcare Billing",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUFl6eVhLWmRxc0VQcWRUamtYMk1vUm9iUkxWdUl1NW9kQmpSRHRldVVQdk0xSXF1WTJjc2ZycU9ZU0t1MU9TMXcxeno2WEd1bXBNa05UQzZXVE5GcDA3ZGx0UFNVRllSbS1feUctN19JbXFrWGpVcEIwU0xCM2xBa00tWE9CTzVnLTd4VHJvdi1SWFdfOUIxU2dSeU90Rl9yRkh5dmdEczEtWEJaZHdoNWY3QXMwN2Q1aGlLZ3FBN2ljUVp2cGNhSW9qV0UyY0NCT0owZmRYWHlvRG1OclNRTkFZd214Zzk4NUZWRjJPbmJ0b3M?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
    "company": "Bay",
    "stage": "Series A",
    "amount": "$37M",
@@ -263,30 +272,12 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Charta Health",
-   "stage": "Series B",
-   "amount": "$55M",
-   "date": "2026-11-10",
-   "headline": "Charta Health Raises $55M Series B to Expand AI Chart Review",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEZsYUMyUm1MbmpRSHhVZGxMN2RlMGFGUExHMWRWcVMtN29EYnJfRnJ4alp2VmYxVVdZZmx4SU92ZEtyeDlmWDZ1Ylh2TFFTS2gxWUtReC0tQ09JZkZmMWVvdUktZ29qX2ZNNEsxdmtWV2Y4TldlWU0yYVltT3g0Z0hEZFpUcXgy?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "WhiteMatter",
    "stage": "Series A",
    "amount": "$20M",
    "date": "2026-11-10",
    "headline": "WhiteMatter Raises $20 Million Series A to Expand Enterprise AI Agent Security Platform",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFlSU3NqTUJxOHRlM0RXVFQ5SVZhWHRVU3dvWVh0UHhjNVF2NU1kbmxPck41bmkyN0dXcmFmSEVtQ1FDQWoyS0FfazZSSEM0UTlTYXlMRTdrQWNRQWtQOWJXamQ5WmQzc0ZsUjMyYmVHUWpNZW9aVUc4MkRLSzRKV0tNNjU2ZXd2RGE2emdCOC1qTFBxeWhTb3dFY0ZzYW1oN2VvVFh1c2tidDNTczVDZXVLWEVRQkM5azllQmZMdE02Q1E?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Zus Health",
-   "stage": "Series B",
-   "amount": "$33M",
-   "date": "2026-11-10",
-   "headline": "Zus Health Raises $33 Million Series B to Expand AI-Powered Healthcare Data Platform",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEdvbTVBWGdKYW5FNTAwTFQ4dThuTUlzWHhLbDhKWUIwUF85VU5ZR1dQYVZhR2ZnMk5aUGE2TS11bV9GUllhQ1dSRF9MZ005NUp2R0dub0VRVlNnX3ZhZGN3QVJhdEhjMWNTZG5BOTlrWE03OXNmaUx1QjEzZjVwQW9qWkRTeGhsSEo0VWFEbS1tMUJwbWFJM3ZzTm5wVnZFUnVkb2pHSkFJUXNkMkJkdXRnamo3NWNsSlU1ZUdLSQ?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -314,15 +305,6 @@
    "date": "2026-11-10",
    "headline": "Swiss Fintech Light Frame Secures $5.1M Seed to Modernise Private Banking Infrastructure",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEhINWEwLUIzb3A3WGp1emVadTlET1pzS1hhVmNYZ2hpY2NlUzJCMUZFenhKbjBDUF9SMVFJTmJMLXQ4R1ltQ2pTbTAzTDVmam94ZlM3RVRZMHhOQk00N3pSemJORFVubU53OEdUZzB3ZGdlZTBHdXIxZ2tJaThVOGNVaU5pSUI1VXNSaUcyVHlqXzZ1X3R4bE90X3lfSzlza0JaLWh5eUhKX1hxWkFPVDlCcw?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Clinics On Cloud",
-   "stage": "Early",
-   "amount": "$12.5M",
-   "date": "2026-11-09",
-   "headline": "Clinics On Cloud raises $12.5 million, plans to make UAE its global expansion hub",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3hPV2NaVUFnRnhGSkVISUxWNHVCQkFvMzdZN2R6cF9CMGxtTkt5dXlJVWhPRDlXRXVJaUVBNURVVHFQZTB6b1FFQXU0N0F0OUd2QU5VLVJKZWZlZEpQZFZjYmNXR0FNb0dYdlpDdUIzVzZ2Z0RWSkJQYldXWTVwbg?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -416,15 +398,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Tanzanian Healthtech Startup Medikea",
-   "stage": "Early",
-   "amount": "$1.2M",
-   "date": "2026-11-05",
-   "headline": "Tanzanian Healthtech Startup Medikea Secures $1.2 Million to Expand Healthcare Services",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXRSN2QtbEFJbEc1VE42ZzZPdzExX3VyV2sxM1dsNy1oTXpYbG9LR3NxRmdiaElmU3kzdlFoQWhGam1iRUd2MlhSSTdxTlJDeXp5ZVpfRmdUWkFLUUhEYUxENW9WX0JrZTFvaXhINmxvamh5OG5PRnctdHVPTGJzSUpJclFZWTVhdTBrWU1IaHBTejJHS3VDRkdxa3p0N1pfN0k3NktOMmhpb3lSdGFTWVRVOGZaMEk?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "Kalepa",
    "stage": "Series B",
    "amount": "$75M",
@@ -461,6 +434,15 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "Tanzanian Healthtech Startup Medikea",
+   "stage": "Early",
+   "amount": "$1.2M",
+   "date": "2026-11-05",
+   "headline": "Tanzanian Healthtech Startup Medikea Secures $1.2 Million to Expand Healthcare Services",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXRSN2QtbEFJbEc1VE42ZzZPdzExX3VyV2sxM1dsNy1oTXpYbG9LR3NxRmdiaElmU3kzdlFoQWhGam1iRUd2MlhSSTdxTlJDeXp5ZVpfRmdUWkFLUUhEYUxENW9WX0JrZTFvaXhINmxvamh5OG5PRnctdHVPTGJzSUpJclFZWTVhdTBrWU1IaHBTejJHS3VDRkdxa3p0N1pfN0k3NktOMmhpb3lSdGFTWVRVOGZaMEk?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
    "company": "SmallClaims",
    "stage": "Seed",
    "amount": "$2M",
@@ -488,21 +470,21 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Shackleton AI",
-   "stage": "Seed",
-   "amount": "$5M",
-   "date": "2026-11-04",
-   "headline": "Shackleton AI Raises $5 Million Seed to Put AI Agents to Work Across Construction",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenZrQjRGRWhodURSMTV1X1FXcU9ISUZRbHdxWEFHdEJ0U3pkUnpjb3VKNGVDUlJsckVvN1YzZXpNNzh1NU1oamRvbUNtQm5rNVRkTXZqWThIdU43OEtEVkdNSm1iWHJvdTVHVEZZbUFaampsR2hJRmdTQUZkLUhCa2VIc1YzZ0U?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "Phaze",
    "stage": "Seed",
    "amount": "$8.75M",
    "date": "2026-11-04",
    "headline": "Phaze Raises $8.75M Seed Led by a16z for Human and AI Agent Remote Access",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hN2RNeVB2N3BwRl93YzhONkJXSnFRcDZpZExDNkpibEhEa2tiQ0hQY3VOYThtWTNibDRKUnhKV29OUXI2TjVxSzdPYnp5NlRJMnNMQW5ZenF1YXVVWklqNUM2T3VuWkdkUmtXUzNyTE1RSkZm?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Shackleton AI",
+   "stage": "Seed",
+   "amount": "$5M",
+   "date": "2026-11-04",
+   "headline": "Shackleton AI Raises $5 Million Seed to Put AI Agents to Work Across Construction",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenZrQjRGRWhodURSMTV1X1FXcU9ISUZRbHdxWEFHdEJ0U3pkUnpjb3VKNGVDUlJsckVvN1YzZXpNNzh1NU1oamRvbUNtQm5rNVRkTXZqWThIdU43OEtEVkdNSm1iWHJvdTVHVEZZbUFaampsR2hJRmdTQUZkLUhCa2VIc1YzZ0U?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -522,6 +504,15 @@
    "headline": "Fintech Crediflow AI raises \u00a31.5 mn to automate commercial loan processing",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yWlI5cENpdEp5VEgyX1JfdmI5dmlfZWIxMENOUk1ZNExZb1V3cDd4QWZBOWFmeGFhZ2dUMUd4SHMwN3Y2NzVVM3pTejBLX0pEMFhQeGE2TlY2WlZ1Qnp3aC1JZUFXaUhudmJKdA?oc=5",
    "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Sopoong Ventures",
+   "stage": "Early",
+   "amount": "$10M",
+   "date": "2026-11-04",
+   "headline": "Sopoong Ventures raises $10M fund for Gangwon climate tech and healthcare startups",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkI2WENGdlZlX09sNUpkQlo5ek94WG1ucTZrUEdERGw4ei12ajVqUmNtRC00OFkycUM0dTFsLXJyd01TVVIzS0xMc0ktNUVldWlDYjBhT3NwUmxHcWlKTF9haERhVnB6OTdDd1lfSlQ0Znc0VHF1aDZDWTJVVVJJTW9jMGdfQWZiS2lUU3VnVFN6VkVvcFo5cjUxdHpFSlZ0TGZZZjhvVEV6WUN3THRnZ0NKc241dw?oc=5",
+   "first_seen": "2026-11-12"
   },
   {
    "company": "Omani fintech mamun",
@@ -551,12 +542,12 @@
    "first_seen": "2026-11-12"
   },
   {
-   "company": "Traversal",
-   "stage": "Series B",
-   "amount": "$120M",
+   "company": "Clinics on Cloud",
+   "stage": "Series A",
+   "amount": "$12.5M",
    "date": "2026-11-03",
-   "headline": "Traversal Raises $120M Series B at $1B Valuation to Expand AI SRE",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVNxdUptbk9hOUI0aEZycF9Ya2J2Rno1bktkNUFLQktNbzVLdDBITk9id0Y4VTFtR0VjcmloTnF2dFFEcldka3Q2ZnRSRVdzbGtVWll3N2dxWURza0V4V2ttdURqVzlHUEs0QTd0OVk2UVVpcWZvT2IwN2NIQjhDazRXdV9CdE1OVmtIQWhn?oc=5",
+   "headline": "Clinics on Cloud raises $12.5 Mn in Series A funding",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYUY0X0NXdnVUT1VxOFRRTFhmUjNvYm52SmU4Vm5wbWdZQ2RnVXViZXZtZkxMRG9hSXdXTEpIVlRlMHllOGstQWtvSzdxVE91MF8yaXVuenRDN1RPUk9kN19rdTlzWFpIQXR2YmxuTU4weERfRVMyZFJ6aURBbXVlUkE4WTNlbDFmS2ZYYjMxVXA2VU43eFlsQkhIbUw2bk9OX2E2RkRGTXg3cjZtaUxmc2duc0FVZVlQU0JfM9IBwgFBVV95cUxOUDFCTlY2eWpBaEJtNUxmcV94djNBcllwTXR2X0hlS3hDYk5DR2JqT1BkNGs1WTNYU3JtdU1ieXkxTF9wd1BQTmxsZ0EzZUNzaktJTkptNHFHNVEzV2VfTnRZdnA0emRZTldNel81c2V3UWp1UFdOZExtdlVHdDIwU0FTN2IwQXN6NkJXWVJhZGgwck1yNXNRZ090V1d3NDZneEFkTFJoYTg2S3BhQjB4VlFCcnhCODE1dF9oTjF6WTdLUQ?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -593,24 +584,6 @@
    "date": "2026-11-02",
    "headline": "Dispute automation platform Casap bags $56m Series B",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmdhQXVyYkhZV2hVeVdiX2lTTkFISzFHTG9GT1lCMmlmTXpyZGdoaGFMUGd4QlR3S21fWlJTOVhydkhycl9aeVB5UFV3dzBoX1FzSUVxYjlkVkE4RVhURzJhV2xuY2RUOHVhODJ3WFVRSmtxV2hfYVpkelpkQXR1OWg4Y1Y?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "company": "Health-tech startup Clinics On Cloud",
-   "stage": "Series A",
-   "amount": "$12.5M",
-   "date": "2026-11-02",
-   "headline": "Health-tech startup Clinics On Cloud raises $12.5 Mn in Series A round",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzUwQWRVSEwxUGhyWEh1QmxyN1p3bWVKQ1V0OFdkTXZwaHdwR09MZlhTTExKMVF0UHItSTl3M3o4VkhHRUp6S3VSaG5tLTBMS04zWXdHMU10dnU1Ty1pakdYMEp3ZDBUMWItNnhOZjc1OUhVZEI3VnVkenVlYVZscjhIZDBtVmFfeUg2bklwYTdtT0x0RVppRE45bHVOOEN4NE9vMTV30gGmAUFVX3lxTFBLNTBBZFVITDFQaHJYSHVCbHI3WndtZUpDVXQ4V2RNdnBod3BHT0xmWFNMTEoxUXRQci1JOXczejhWSEdFSnpLdVJobm0tMExLTjNZd0cxTXR2dTVPLWlqR1gwSndkMFQxYi02eE5mNzU5SFVkQjdWdWR6dWVhVmxyOEhkMG1WYV95SDZuSXBhN21PTHRFWmlETjlsdU44Q3g0T28xNXc?oc=5",
-   "first_seen": "2026-11-12"
-  },
-  {
-   "company": "India Clinics On Cloud",
-   "stage": "Series A",
-   "amount": "$12.5M",
-   "date": "2026-11-02",
-   "headline": "India Clinics On Cloud Raises $12.5 Million in Series A Funding Deal",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcVNoLUctSEw5V2xWN2JrbGNrTVlBdFZBRGQ5bzh0MGVGcjNrZTZGcXR6YkJFSDNHMkVyV2JHSnotVWZ2bmd2OUg3bC0yNlNjN3Q1QmtDSHFNc2xxM0hHWGdvQ3NwZTFZa2FpYTBhMmlEdnZwcWZUVmhRa1Y0aFdnSWQ3cHVQYXJNcUdHaWVQWG5nS0RiWWFOUkRLTjR2OGlmMU1YTlZCZVpacDc4bUdZN00tNHphZi1jQ211NVZwUFI?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -677,15 +650,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Wrapped Health",
-   "stage": "Pre-Seed",
-   "amount": "$2.1M",
-   "date": "2026-10-30",
-   "headline": "Wrapped Health Raises $2.1 Million Pre-Seed Funding To Connect Clinical Care And Consumer Health",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUhZWC1XajhZNGFTVEtYQ3JzOGh2RFNWSXJ2aE92eFVZeGh2N2Z3eHJlVGJLQlYweU1HSmZ3VWxGSV9Zcm1LWThOelF3ZmZqbjNmNjNLNTVPOXgyVUZKaHFPc0hpLTctWkNJaHMtdVZLLWlZOUEtU1FGV25fT1VBaTVqVUs2aFJFWENseWZ5X08xQ0MxM05kaXpNbTlYQ2x4dDZIdUJCSDFIVEN0NENfb24tdmI1dw?oc=5",
-   "first_seen": "2026-11-12"
-  },
-  {
    "company": "Bloomsco",
    "stage": "Pre-Seed",
    "amount": "$1M",
@@ -702,6 +666,15 @@
    "headline": "Ravical Raises $17M Seed to Scale Accounting Expertise With AI",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FTlJnWC1SU2pYMmdQSnBxdzQ0cUNEYlZmSEpFaTFZWXVFZXRhOWNscnNTOFVhSElfUFFIdlFCMGsyY1IyV3BNOVlRMm41NkVHclBhejhaLU9rVDcxczRzZjdYMjdhZ1JaTW9KWk5fMFR5NFVRbWFj?oc=5",
    "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Wrapped Health",
+   "stage": "Pre-Seed",
+   "amount": "$2.1M",
+   "date": "2026-10-29",
+   "headline": "Wrapped Health Raises $2.1 Million Pre-Seed Round Co-Led by Lightbank and Arteria Capital",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZHd6RU1kcjJkQy1ONnQwUExkWmRPVW5Gc2RzbjFOc25aVVhVS254QTB5dG9OeTREQTN5RFpGd2MwMEEyVVE4bFo1d0JOaFZEUmt0RUlHNGZJWmRqbU5keTZVdGpIa0I1X3dMVHFQdjNVZVFjOUQzUmFJekpBQl9xMkZpMGFCUFlIZGtIYlVPZkIzTGpDNXZZd0RkY1RGNTFDbnMxS21NSVRtYXJKaDAzSkZPZ2VfYXhWZ3B0RFRsVHlwSU12Rmc?oc=5",
+   "first_seen": "2026-11-12"
   },
   {
    "company": "VUSE XR",
