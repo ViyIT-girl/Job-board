@@ -4,9 +4,11 @@ ROOT=os.path.abspath(os.path.join(os.path.dirname(__file__),".."))
 sys.path.insert(0,ROOT)
 NOW=datetime.now(timezone.utc).isoformat()
 class R(io.BytesIO): status=200
-def run_pipeline(routes,prev=None):
+def run_pipeline(routes,prev=None,cfg=None):
     d=tempfile.mkdtemp()
     shutil.copy(os.path.join(ROOT,"config.json"),d)
+    if cfg:
+        p=os.path.join(d,"config.json");c=json.load(open(p));c.update(cfg);json.dump(c,open(p,"w"))
     if prev is not None: json.dump(prev,open(os.path.join(d,"jobs.json"),"w"))
     def fake(req,timeout=None):
         for k,v in routes.items():
