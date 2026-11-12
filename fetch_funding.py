@@ -30,9 +30,11 @@ for f in FEEDS:
         if stage.lower().startswith(("series c","series d")): continue
         if not stage and (a is None or a>25): continue
         if not SECTOR.search(title): continue
+        lk=(it.findtext("link") or "").strip()
+        if not lk.startswith(("http://","https://")): continue
         co=m["co"].strip(" -");k=co.lower()
         if k in found and found[k]["date"]>=d.date().isoformat(): continue
-        found[k]=dict(company=co,stage=stage or "Early",amount=f"${m['n']}{(m['u'] or 'M')[0].upper()}",date=d.date().isoformat(),headline=title,link=it.findtext("link"),first_seen=old.get(k,{}).get("first_seen",NOW.date().isoformat()))
+        found[k]=dict(company=co,stage=stage or "Early",amount=f"${m['n']}{(m['u'] or 'M')[0].upper()}",date=d.date().isoformat(),headline=title,link=lk,first_seen=old.get(k,{}).get("first_seen",NOW.date().isoformat()))
 out=sorted(found.values(),key=lambda c:c["date"],reverse=True)
-json.dump({"updated":NOW.isoformat(),"companies":out},open("funding.json","w"),indent=1)
+json.dump({"schema":1,"updated":NOW.isoformat(),"companies":out},open("funding.json","w"),indent=1)
 print(len(out),"funded companies")
