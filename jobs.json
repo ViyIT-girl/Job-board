@@ -1,6 +1,7 @@
 {
  "schema": 1,
- "updated": "2026-11-12T11:04:06.594401+00:00",
+ "updated": "2026-11-12T13:19:24.345472+00:00",
+ "unrecognised_urls": [],
  "sources": {
   "Remotive": {
    "status": "ok",
@@ -10,19 +11,19 @@
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 25,
+   "raw": 22,
    "errors": [],
    "invalid": 0
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 98,
+   "raw": 359,
    "errors": [],
    "invalid": 0
   },
   "Greenhouse": {
    "status": "ok",
-   "raw": 81,
+   "raw": 80,
    "errors": [],
    "invalid": 0
   },
@@ -34,7 +35,7 @@
   },
   "Ashby": {
    "status": "ok",
-   "raw": 219,
+   "raw": 221,
    "errors": [],
    "invalid": 0
   },
@@ -69,10 +70,52 @@
    "raw": 281,
    "errors": [],
    "invalid": 0
+  },
+  "WorkingNomads": {
+   "status": "ok",
+   "raw": 37,
+   "errors": [],
+   "invalid": 0
+  },
+  "HackerNews": {
+   "status": "ok",
+   "raw": 4,
+   "errors": [],
+   "invalid": 0
+  },
+  "Recruitee": {
+   "status": "empty",
+   "raw": 0,
+   "errors": [],
+   "invalid": 0
+  },
+  "SmartRecruiters": {
+   "status": "empty",
+   "raw": 0,
+   "errors": [],
+   "invalid": 0
+  },
+  "Teamtailor": {
+   "status": "empty",
+   "raw": 0,
+   "errors": [],
+   "invalid": 0
+  },
+  "Personio": {
+   "status": "empty",
+   "raw": 0,
+   "errors": [],
+   "invalid": 0
+  },
+  "Breezy": {
+   "status": "empty",
+   "raw": 0,
+   "errors": [],
+   "invalid": 0
   }
  },
  "stats": {
-  "raw": 1296,
+  "raw": 1596,
   "kept": 24
  },
  "jobs": [
