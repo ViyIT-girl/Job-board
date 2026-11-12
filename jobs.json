@@ -1,62 +1,24 @@
 {
- "updated": "2026-11-12T06:50:03.357201+00:00",
+ "updated": "2026-11-12T08:54:54.416729+00:00",
  "jobs": [
   {
-   "source": "Workable",
-   "title": "Remote Operations Coordinator",
-   "company": "pearltalent",
-   "url": "https://apply.workable.com/j/1BF07B81F3",
-   "location": "Remote",
-   "desc": "  Work From Anywhere in LATAM or the Philippines    Work Schedule:  ET | 9:00 AM \u2013 6:00 PM     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Our clients have raised over $5B in aggregate and are backed ",
+   "source": "Greenhouse",
+   "title": "Project Manager",
+   "company": "alpaca",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6212198004",
+   "location": "Remote - EMEA",
+   "desc": " div class= content-intro   p  strong Who We Are: /strong  /p \n p  strong Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure nbsp; /strong for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. br  br Amongst our subsidiaries, Alpaca is a licensed f",
    "direct": true,
    "eligibility": "confirmed",
    "evidence": [
-    "Description: Work From Anywhere in LATAM or the Philippi"
+    "Description: ers who thrive working from our favorite places around the world, with teammates spanning"
    ],
    "conflict": false,
    "open": true,
-   "score": 4,
-   "salary_hint": false,
-   "posted": "2026-11-09",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "source": "Workable",
-   "title": "Remote Chief of Staff",
-   "company": "pearltalent",
-   "url": "https://apply.workable.com/j/C998687407",
-   "location": "Remote",
-   "desc": "  Work From Anywhere in LATAM    Work Schedule:  EST | Full-time with US Eastern business hours overlap, including early mornings and occasional weekend availability     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with the best startups in t",
-   "direct": true,
-   "eligibility": "confirmed",
-   "evidence": [
-    "Description: Work From Anywhere in LATAM Work Schedul"
-   ],
-   "conflict": false,
-   "open": true,
-   "score": 4,
-   "salary_hint": false,
-   "posted": "2026-11-05",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "source": "Workable",
-   "title": "Remote Senior Executive Assistant",
-   "company": "pearltalent",
-   "url": "https://apply.workable.com/j/89DF432D85",
-   "location": "Remote",
-   "desc": " Work From Anywhere in LATAM and Philippines  Work Schedule: EST | Approximately 40 hours per week aligned with US Eastern Time, with flexibility for occasional evening and weekend work     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with th",
-   "direct": true,
-   "eligibility": "confirmed",
-   "evidence": [
-    "Description: Work From Anywhere in LATAM and Philippines"
-   ],
-   "conflict": false,
-   "open": true,
-   "score": 4,
-   "salary_hint": false,
-   "posted": "2026-10-27",
-   "first_seen": "2026-11-10"
+   "score": 5,
+   "salary_hint": true,
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-12"
   },
   {
    "source": "WeWorkRemotely",
@@ -97,26 +59,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "source": "Greenhouse",
-   "title": "Project Manager",
-   "company": "alpaca",
-   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6144763004",
-   "location": "Remote - Hong Kong / South Korea / Japan",
-   "desc": " div class= content-intro   p  strong Who We Are: /strong  /p \n p  strong Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure nbsp; /strong for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. br  br Amongst our subsidiaries, Alpaca is a licensed f",
-   "direct": true,
-   "eligibility": "verify",
-   "evidence": [
-    "Description: ers who thrive working from our favorite places around the world, with teammates spanning",
-    "Location lists only: Remote - Hong Kong / South Korea / Japan"
-   ],
-   "conflict": true,
-   "open": false,
-   "score": 3,
-   "salary_hint": true,
-   "posted": "2026-10-30",
-   "first_seen": "2026-11-11"
-  },
-  {
    "source": "Himalayas",
    "title": "Business Operations Expert",
    "company": "micro1",
@@ -133,6 +75,26 @@
    "score": 3,
    "salary_hint": true,
    "posted": "2026-10-25",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "source": "Workable",
+   "title": "Remote Operations Coordinator",
+   "company": "pearltalent",
+   "url": "https://apply.workable.com/j/1BF07B81F3",
+   "location": "Remote",
+   "desc": "  Work From Anywhere in LATAM or the Philippines    Work Schedule:  ET | 9:00 AM \u2013 6:00 PM     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Our clients have raised over $5B in aggregate and are backed ",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: the top 1% of candidates from around the world and connects them with t",
+    "Description: Work From Anywhere in LATAM or the Philippines Wo"
+   ],
+   "conflict": true,
+   "open": false,
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-09",
    "first_seen": "2026-11-10"
   },
   {
@@ -193,6 +155,26 @@
    "first_seen": "2026-11-10"
   },
   {
+   "source": "Workable",
+   "title": "Remote Chief of Staff",
+   "company": "pearltalent",
+   "url": "https://apply.workable.com/j/C998687407",
+   "location": "Remote",
+   "desc": "  Work From Anywhere in LATAM    Work Schedule:  EST | Full-time with US Eastern business hours overlap, including early mornings and occasional weekend availability     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with the best startups in t",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: the top 1% of candidates from around the world and connects them with t",
+    "Description: Work From Anywhere in LATAM Work Schedule: EST |"
+   ],
+   "conflict": true,
+   "open": false,
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-05",
+   "first_seen": "2026-11-10"
+  },
+  {
    "source": "Himalayas",
    "title": "Virtual Assistant",
    "company": "micro1",
@@ -209,6 +191,26 @@
    "score": 2,
    "salary_hint": false,
    "posted": "2026-10-30",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "source": "Workable",
+   "title": "Remote Senior Executive Assistant",
+   "company": "pearltalent",
+   "url": "https://apply.workable.com/j/89DF432D85",
+   "location": "Remote",
+   "desc": " Work From Anywhere in LATAM and Philippines  Work Schedule: EST | Approximately 40 hours per week aligned with US Eastern Time, with flexibility for occasional evening and weekend work     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with th",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: the top 1% of candidates from around the world and connects them with t",
+    "Description: Work From Anywhere in LATAM and Philippines Work Sc"
+   ],
+   "conflict": true,
+   "open": false,
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-10-27",
    "first_seen": "2026-11-10"
   },
   {
@@ -229,6 +231,23 @@
    "salary_hint": false,
    "posted": "2026-10-13",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "Arbeitnow",
+   "title": "Senior Professional Services Project Manager, Paris",
+   "company": "gitlab",
+   "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-senior-professional-services-project-manager-paris-101297",
+   "location": "Remote Remote",
+   "desc": " div class= content-intro   p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered u",
+   "direct": false,
+   "eligibility": "verify",
+   "evidence": [],
+   "conflict": false,
+   "open": false,
+   "score": 0,
+   "salary_hint": false,
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-12"
   },
   {
    "source": "RemoteOK",
@@ -371,6 +390,7 @@
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
+    "Description: a. You will work remotely from the Philippines, partnering with auction",
     "Location lists only: Asia Only"
    ],
    "conflict": false,
