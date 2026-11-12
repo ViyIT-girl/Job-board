@@ -108,7 +108,13 @@ try: old={j["url"]:j for j in json.load(open("jobs.json"))["jobs"]}
 except Exception: old={}
 cands=[]
 D=Counter();E=Counter()
+def ok_url(u):
+    try:
+        p=urllib.parse.urlsplit(u);return p.scheme in("http","https") and bool(p.netloc)
+    except Exception: return False
+REQ=("source","title","company","url","location","direct","open","eligibility","evidence","conflict","score","salary_hint","posted","first_seen","desc")
 for j in jobs:
+    if not ok_url(j["url"]) or not 3<=len(j["title"])<=200: D["invalid"]+=1; continue
     t=j["title"].lower()
     if not any(x in t for x in C["targets"]) or any(x in t for x in C["exclude_title"]): D["title"]+=1; continue
     if not j["date"] or NOW-j["date"]>timedelta(days=C["max_age_days"]): D["age"]+=1; continue
@@ -153,7 +159,8 @@ for j,a in zip(keep,ok):
     j["salary_hint"]=sal;j["posted"]=j.pop("date").date().isoformat()
     j["first_seen"]=old.get(j["url"],{}).get("first_seen",NOW.date().isoformat())
     j["desc"]=j["desc"][:300]
+    if any(k not in j for k in REQ): D["invalid"]+=1; continue
     out.append(j)
 out.sort(key=lambda j:(j["score"],j["posted"]),reverse=True)
-json.dump({"updated":NOW.isoformat(),"sources":health,"stats":{"raw":len(jobs),"kept":len(out)},"jobs":out},open("jobs.json","w"),indent=1)
+json.dump({"schema":1,"updated":NOW.isoformat(),"sources":health,"stats":{"raw":len(jobs),"kept":len(out)},"jobs":out},open("jobs.json","w"),indent=1)
 print(len(out),"jobs saved")
