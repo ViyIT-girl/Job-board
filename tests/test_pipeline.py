@@ -12,7 +12,7 @@ def run_pipeline(routes,prev=None):
         for k,v in routes.items():
             if k in req.full_url:
                 if isinstance(v,Exception): raise v
-                return R(json.dumps(v).encode())
+                return R(v if isinstance(v,bytes) else json.dumps(v).encode())
         if req.get_method()=="HEAD": return R(b"")
         raise urllib.error.URLError("offline")
     ro,rs,cwd=urllib.request.urlopen,time.sleep,os.getcwd()
