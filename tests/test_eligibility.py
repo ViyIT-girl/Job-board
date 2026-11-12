@@ -40,4 +40,13 @@ class T(unittest.TestCase):
         self.assertEqual(s("Remote","Work From Anywhere in the world."),"confirmed")
         self.assertEqual(s("Remote","Remote in the US."),"excluded")
         self.assertEqual(s("Remote","Work from anywhere in Africa."),"confirmed")
+    def test_culture_blurb_not_eligibility(self):
+        self.assertEqual(s("Remote - EMEA","We love working from our favorite places around the world, with teammates spanning continents."),"verify")
+    def test_title_region_conflict(self):
+        r=classify("Anywhere in the World","","Supply Chain & Operations Manager - LATAM")
+        self.assertEqual(r["status"],"verify");self.assertTrue(r["conflict"])
+        self.assertEqual(classify("Remote","","Operations Manager - UK")["status"],"verify")
+    def test_title_global_marker(self):
+        self.assertEqual(classify("","","Virtual Assistant (Remote/Global)")["status"],"confirmed")
+        self.assertEqual(classify("","","Global Operations Manager")["status"],"verify")
 if __name__=="__main__": unittest.main()
