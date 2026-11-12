@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:20:12.896787+00:00",
+ "updated": "2026-11-12T09:26:58.132239+00:00",
  "companies": [
   {
    "company": "SA fintech startup Lumepay",
@@ -506,6 +506,15 @@
    "first_seen": "2026-11-12"
   },
   {
+   "company": "Paediatric health brand Primerry",
+   "stage": "Pre-Seed",
+   "amount": "$760,000M",
+   "date": "2026-11-04",
+   "headline": "Paediatric health brand Primerry raises $760,000 pre-seed round",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUxUWWxmTVRXNlp6VlZ5VFVFSHpwd2dfZW10M2dNQmlDY0Rwa3NsN3I2WGdSVFZqeUFKdlV0Tng3b2hnVHZoN2ZlTWZ6TGdoRFdPUzM0WFRPZW03WGhka1ZjVTRXcU94X0JSaE1pV3J1aDRwVHR0cFBMY0lBVWVUOHA3aXRaWXBnTTRqNTdXd0V1ZDFQSVZRaHJNeXY?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
    "company": "Fintech Crediflow AI",
    "stage": "Early",
    "amount": "$1.5M",
@@ -560,15 +569,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Phoenix fintech startup",
-   "stage": "Early",
-   "amount": "$12M",
-   "date": "2026-11-02",
-   "headline": "Phoenix fintech startup raises $12M to expand education savings platform beyond Arizona",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFRJTjlnVmdrVDN4aTQtUWs4RHowWC00eE5Jb1RVaVloX0FIQWxaalNMREw5Um9fN2xWcnI3OGcyaVBLOTJtSTBQUU9CWW91bHlZTzVnVFd4a0ZzVDRXZm8yN0w5cFJLNlBEUTVMSGhKck9uc0ctT0JsQkU5TWYtYWRuYm1HcVZoTUZRWWVyZ1pOdnl0bXRLUGN1a3NaOEFHaURv?oc=5",
-   "first_seen": "2026-11-12"
-  },
-  {
    "company": "Dispute automation platform Casap",
    "stage": "Series B",
    "amount": "$56M",
@@ -576,6 +576,15 @@
    "headline": "Dispute automation platform Casap bags $56m Series B",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmdhQXVyYkhZV2hVeVdiX2lTTkFISzFHTG9GT1lCMmlmTXpyZGdoaGFMUGd4QlR3S21fWlJTOVhydkhycl9aeVB5UFV3dzBoX1FzSUVxYjlkVkE4RVhURzJhV2xuY2RUOHVhODJ3WFVRSmtxV2hfYVpkelpkQXR1OWg4Y1Y?oc=5",
    "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Phoenix fintech startup",
+   "stage": "Early",
+   "amount": "$12M",
+   "date": "2026-11-02",
+   "headline": "Phoenix fintech startup raises $12M to expand education savings platform beyond Arizona",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFRJTjlnVmdrVDN4aTQtUWs4RHowWC00eE5Jb1RVaVloX0FIQWxaalNMREw5Um9fN2xWcnI3OGcyaVBLOTJtSTBQUU9CWW91bHlZTzVnVFd4a0ZzVDRXZm8yN0w5cFJLNlBEUTVMSGhKck9uc0ctT0JsQkU5TWYtYWRuYm1HcVZoTUZRWWVyZ1pOdnl0bXRLUGN1a3NaOEFHaURv?oc=5",
+   "first_seen": "2026-11-12"
   },
   {
    "company": "India Clinics On Cloud",
