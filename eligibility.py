@@ -9,18 +9,23 @@ PLACE=r"(us|u\.s\.|usa|united states|uk|united kingdom|canada|australia|eu|europ
 NEG_ONLY=re.compile(r"\b"+PLACE+r"(?!\w)(\s+only|\s+residents?\b|\s+citizens?\b|[- ]based\s+(candidates|applicants|only))|\b(us|u\.s\.|united states)\s+work\s+authori[sz]ation",FL)
 MUST_BE=re.compile(r"(must|need to|required to|have to)\s+(be\s+)?(located|based|reside|live|living|residing|resident|physically located)\s+(in|within)\s+(the\s+)?([a-z][a-z .,'&/-]{2,40})",FL)
 AUTH=re.compile(r"(authori[sz]ed|eligible|legally entitled|right) to work (in|within) (the )?([a-z][a-z .'&/-]{1,30})",FL)
+REMOTE_IN=re.compile(r"\b(anywhere|remote(?:ly)?|work remotely)\s+(in|within|from)\s+(the\s+)?"+PLACE+r"(?!\w)",FL)
+REGION_AFTER=re.compile(r"\s+(in|within|from)\s+(the\s+)?"+PLACE+r"(?!\w)",FL)
 OK_PLACE=re.compile(r"nigeria|africa|worldwide|anywhere|global|any country",FL)
 FILLER=re.compile(r"\b(remote|hybrid|fully|work from home|wfh|flexible|telecommute)\b|[^a-z ]",FL)
 def snip(m,text):
     s=re.sub(r"\s+"," ",text[max(0,m.start()-15):m.end()+25]).strip()
-    return s[:90]
+    return s[:100]
 def classify(location,description):
     loc=location or "";desc=description or ""
     pos=[];neg=[];hard=False
     if LOC_POS.search(loc): pos.append("Location: "+loc[:60])
     for m in DESC_POS.finditer(desc):
+        if REGION_AFTER.match(desc,m.end()): continue
         pos.append("Description: "+snip(m,desc))
         break
+    for m in REMOTE_IN.finditer(desc):
+        neg.append("Description: "+snip(m,desc));break
     for m in NEG_NIGERIA.finditer(desc):
         neg.append("Description: "+snip(m,desc));hard=True;break
     for m in NEG_ONLY.finditer(desc):
