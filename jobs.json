@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:42:51.055068+00:00",
+ "updated": "2026-11-12T10:04:10.659701+00:00",
  "sources": {
   "Remotive": {
    "status": "ok",
@@ -39,18 +39,16 @@
   },
   "Reddit": {
    "status": "partial",
-   "raw": 200,
+   "raw": 100,
    "errors": [
     "429"
    ],
    "invalid": 0
   },
   "WeWorkRemotely": {
-   "status": "partial",
-   "raw": 154,
-   "errors": [
-    "301"
-   ],
+   "status": "ok",
+   "raw": 245,
+   "errors": [],
    "invalid": 0
   },
   "Himalayas": {
@@ -73,8 +71,8 @@
   }
  },
  "stats": {
-  "raw": 1306,
-  "kept": 24
+  "raw": 1297,
+  "kept": 23
  },
  "jobs": [
   {
@@ -226,23 +224,6 @@
    "score": 0,
    "salary_hint": false,
    "posted": "2026-11-12",
-   "first_seen": "2026-11-12"
-  },
-  {
-   "source": "Reddit",
-   "title": "Project Manager | London | \u00a345,000-\u00a352,000 [hiring]",
-   "company": "r/hiring",
-   "url": "https://www.reddit.com/r/hiring/comments/1xsn1nw/project_manager_london_4500052000_hiring/",
-   "location": "Remote",
-   "desc": "   Project Manager | London | \u00a345,000-\u00a352,000   I&#39;m recruiting for a Senior Project Manager on behalf of a London-based gifting and brand experience business working with major global brands.   This role will suit someone who has hands-on experience managing custom production and overseas manufa",
-   "direct": false,
-   "eligibility": "verify",
-   "evidence": [],
-   "conflict": false,
-   "open": false,
-   "score": 0,
-   "salary_hint": false,
-   "posted": "2026-11-10",
    "first_seen": "2026-11-12"
   },
   {
