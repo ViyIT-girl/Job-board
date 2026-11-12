@@ -35,4 +35,9 @@ class T(unittest.TestCase):
     def test_evidence_present(self):
         for loc,d in [("Worldwide",""),("Remote","US only")]:
             self.assertTrue(classify(loc,d)["evidence"])
+    def test_region_limited_anywhere(self):
+        self.assertEqual(s("Remote","Work From Anywhere in LATAM or the Philippines."),"excluded")
+        self.assertEqual(s("Remote","Work From Anywhere in the world."),"confirmed")
+        self.assertEqual(s("Remote","Remote in the US."),"excluded")
+        self.assertEqual(s("Remote","Work from anywhere in Africa."),"confirmed")
 if __name__=="__main__": unittest.main()
