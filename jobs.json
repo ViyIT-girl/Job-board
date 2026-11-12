@@ -1,5 +1,6 @@
 {
- "updated": "2026-11-12T10:17:10.988671+00:00",
+ "schema": 1,
+ "updated": "2026-11-12T11:04:06.594401+00:00",
  "sources": {
   "Remotive": {
    "status": "ok",
@@ -9,7 +10,7 @@
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 27,
+   "raw": 25,
    "errors": [],
    "invalid": 0
   },
@@ -33,7 +34,7 @@
   },
   "Ashby": {
    "status": "ok",
-   "raw": 218,
+   "raw": 219,
    "errors": [],
    "invalid": 0
   },
@@ -71,8 +72,8 @@
   }
  },
  "stats": {
-  "raw": 1297,
-  "kept": 23
+  "raw": 1296,
+  "kept": 24
  },
  "jobs": [
   {
@@ -373,6 +374,26 @@
    "salary_hint": false,
    "posted": "2026-10-16",
    "first_seen": "2026-11-11"
+  },
+  {
+   "source": "Arbeitnow",
+   "title": "Human Factors Project Manager (m/f/d) (part-time contractor, 3-month review)",
+   "company": "Hilobyaktiia",
+   "url": "https://www.arbeitnow.com/jobs/companies/hilobyaktiia/remote-human-factors-project-manager-part-time-contractor-3-month-review-germany-76560",
+   "location": "Remote Germany",
+   "desc": "   About Hilo by Aktiia    High blood pressure is the world's most common disease, causing 18M deaths each year. At Hilo by Aktiia, we're building a world where no lives are lost to its effects \u2014 with technology that helps people take control of their health.   We're a venture-backed scale-up with $",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Remote Germany"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -2,
+   "salary_hint": true,
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-12"
   },
   {
    "source": "Jobicy",
