@@ -1,7 +1,16 @@
 {
  "schema": 1,
- "updated": "2026-11-13T05:06:22.037255+00:00",
+ "updated": "2026-11-13T06:50:36.566566+00:00",
  "companies": [
+  {
+   "company": "AI Lab Mirendil",
+   "stage": "Series A",
+   "amount": "$1B",
+   "date": "2026-11-13",
+   "headline": "AI Lab Mirendil Raises $1B Series A: Release Names No Valuation, Cites Only Company Tests",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdU9vQUtLamZ3Ymh3QTU1N2pZYk1TX3FYenFhWEg3akY1NGhBVDNIbXJCcW03RkdqUUJ3UWFORWlnSC1mREZXQUdva1BtOE9JaFpZLWxQR0FCeVluOGJFYzFtTkgzczFYUk5iTDFTckFDZi15NG5aeHdlaFdHdXlfam1wQXR5NEJ5ZVpuVDVSdE9iMUdJX3hLU2dvOUZGaHRMeHhrZGdacDFIQTl4dTJvbUJBR1k5bjFvMFBNdUdnSmdUdy1fVHBINHNyd3BWYi16aUpRMHFR?oc=5",
+   "first_seen": "2026-11-13"
+  },
   {
    "company": "Mondrio",
    "stage": "Early",
@@ -111,15 +120,6 @@
    "first_seen": "2026-11-13"
   },
   {
-   "company": "Luminal",
-   "stage": "Series A",
-   "amount": "$25M",
-   "date": "2026-11-12",
-   "headline": "Luminal raises $25M Series A to cut AI inference costs beyond Nvidia GPUs",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNem9fdGZEN2tPS3QtNTRySC1qb3htazZJZnZUV1UtMTB5RVotTWtfWkdMWU43eUQwdUhBclNZd2ppa1U5ekdnN1hQM2JaNGs3c1N5b3JkaDA4NHFiSEtySGpGQ0JkdFBKcXBKNFZvTXlfTmhWdHMxcGxYRlJ4aGlPakxjXzh3NWg3M0N5bURRbmgwWVJ1Ynk0N01xQ1R4OTI3ZGRDVVp4YVl2TWo4?oc=5",
-   "first_seen": "2026-11-13"
-  },
-  {
    "company": "Mirendil",
    "stage": "Series A",
    "amount": "$1B",
@@ -136,6 +136,15 @@
    "headline": "4Minds Raises $15M Series A at $500M Valuation to Advance Its AI Platform",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2RBVU1UQmNCNWxqUVFJYWE4VzdYdm4yU1B6OWw2UTdOLXhucmtpS0JNZm1DRkZVSUVlWUNoVEFrY2VlVDNFMllIbkVKVWc0UnNWdTgtM1VkNWk5aGU2YkhkNHVHTHVwRzR4ZGZlX2E4bDh1b3hFSnp1Z0ZoSGQxNHFWV2lsdUlDcXRIZmNJWU1VamxoVzNESA?oc=5",
    "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Luminal",
+   "stage": "Series A",
+   "amount": "$25M",
+   "date": "2026-11-12",
+   "headline": "Luminal raises $25M Series A to cut AI inference costs beyond Nvidia GPUs",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNem9fdGZEN2tPS3QtNTRySC1qb3htazZJZnZUV1UtMTB5RVotTWtfWkdMWU43eUQwdUhBclNZd2ppa1U5ekdnN1hQM2JaNGs3c1N5b3JkaDA4NHFiSEtySGpGQ0JkdFBKcXBKNFZvTXlfTmhWdHMxcGxYRlJ4aGlPakxjXzh3NWg3M0N5bURRbmgwWVJ1Ynk0N01xQ1R4OTI3ZGRDVVp4YVl2TWo4?oc=5",
+   "first_seen": "2026-11-13"
   },
   {
    "company": "Nebuly",
@@ -300,15 +309,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "XpertDox",
-   "stage": "Series A",
-   "amount": "$20M",
-   "date": "2026-11-11",
-   "headline": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNTB1SlBvaWpybzRrMWxWLXdaMVVYZ0JwaVh0TEFwekI0OW42cDd2MlJGTXZqSmhYbXVWUVZfdEZkWm5jSGdaYk90NkdUUENWc2E1emlRSFBMOU9rYnpQaUEyMFZzMWZicW1MeldIRk5pSFhycjNDOE43MDVXWkQ4SWxGSXMwX1laY3FoR0hzNmVtUkQ1T1l3RFdva2FUSGtHYnp0OXlDby1NY0NNQ1NFNFlnQXpiUWhTZWtsTFhpSHh3NFNUcDh2aHNDQ1E5N2VkRU9TcFNfRTVQbkt2TTJEb2ZYcXJlZlloODV3VW1BcGYxT28?oc=5",
-   "first_seen": "2026-11-12"
-  },
-  {
    "company": "TheWealthNet - Swiss fintech",
    "stage": "Early",
    "amount": "$5.1M",
@@ -403,8 +403,8 @@
    "stage": "Series A",
    "amount": "$25M",
    "date": "2026-11-10",
-   "headline": "Lumbra Raises $25 Million Series A to Expand AI Agent Platform Beyond Defense",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzBHWnd1QUE0UUxEeHhrMTcxdVhsb2pnOEs0OGZPeUZ2dUpWU0lUMnBjZmk0Q3h3U2FiSWtCeHlNT09jWDVCNHpkYkhIazU3bURrWlpoRW9YQ0dQaEZWWERhVldmYXpvWTNmMUgxOXFUaE9fd0FfYmdvX2x4VnVfaHpIVHN4WjU4WFl3b0FEVXQtWlFzUklxbTA4RFlkeVFfSkNPQk1ELTVUSEFEWG9SdEtRcGF4QQ?oc=5",
+   "headline": "Lumbra Raises $25M Series A to Expand Controlled AI Agent Deployments",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUpqUDRwNjY2TWpFYnVXOTQ1OVdVNG93QVl6WGxMNHE1VnBVUkt3STZ4UThxNFExUUpTVWhzaWlQd3FNV0lMT0s5RHA2US1Ec2ZsOVVWSWJNM0lORUhxVmJJYVFkM1FiZnBBOENCV2hCS1F6MnZVQU02SEMtYkllZFRYZ0FaSlpTMjNzUzRrRWpFVG56?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -552,13 +552,13 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Phaze",
+   "company": "Brava Security",
    "stage": "Seed",
-   "amount": "$8.75M",
+   "amount": "$15M",
    "date": "2026-11-04",
-   "headline": "Phaze Raises $8.75M Seed Led by a16z for Human and AI Agent Remote Access",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hN2RNeVB2N3BwRl93YzhONkJXSnFRcDZpZExDNkpibEhEa2tiQ0hQY3VOYThtWTNibDRKUnhKV29OUXI2TjVxSzdPYnp5NlRJMnNMQW5ZenF1YXVVWklqNUM2T3VuWkdkUmtXUzNyTE1RSkZm?oc=5",
-   "first_seen": "2026-11-10"
+   "headline": "Brava Security Raises $15M Seed to Expand AI SecOps in North America",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNkh1eFhvWWhMcTk1bmYwMFBSZWs2dUcxdDNSbVhFNUxlREd1RE84aV80Wi1zRjZJaVF2Q1lza29DUmNERjF4R09IbFN3a3A3eG9pMXYzUmQyQkZFRDhkQ25tWVBRYVViX1liaC0wMlI5TU8xSlMzWkFZdmd5Q1pQR1I3ZnRMVFhZZ3pYM0dST2RISW8?oc=5",
+   "first_seen": "2026-11-13"
   },
   {
    "company": "Atmospheric AI",
@@ -567,6 +567,15 @@
    "date": "2026-11-04",
    "headline": "Atmospheric AI raises $10.1M seed to map raw-material supply chains",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTTZjMGt6LVhLSmVGUVppakVYSkh0WUU4WjZRTHVtN1dDZTJTSkdna0tJS29Fdm1KM3JreDdfNkZJTExkb1dBck5NdGN0OUl6dzBhZUNnR3JNSTJ0OENEQXJpREpIQWt0b2dLZUNGelU1aXVKQWRnR0NrUGpOa2JmYW9TOVluYzhta05GQlhNZTZLeXpjZkkzeERYUDlCQ1k0V3c?oc=5",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Phaze",
+   "stage": "Seed",
+   "amount": "$8.75M",
+   "date": "2026-11-04",
+   "headline": "Phaze Raises $8.75M Seed Led by a16z for Human and AI Agent Remote Access",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hN2RNeVB2N3BwRl93YzhONkJXSnFRcDZpZExDNkpibEhEa2tiQ0hQY3VOYThtWTNibDRKUnhKV29OUXI2TjVxSzdPYnp5NlRJMnNMQW5ZenF1YXVVWklqNUM2T3VuWkdkUmtXUzNyTE1RSkZm?oc=5",
    "first_seen": "2026-11-10"
   },
   {
@@ -642,15 +651,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Legal AI Startup Athena",
-   "stage": "Pre-Seed",
-   "amount": "$2.5M",
-   "date": "2026-11-03",
-   "headline": "Legal AI Startup Athena Raises $2.5M Pre-Seed Funding",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFFiWjZWRDhoZUVkOUFKS3lBR3JrZy1hT0E4NWViaTN2MUphWmwyTHlDT0Z0Sjl5VnlpblJPdDhIUk9IbHhOQklFT3pmcnpIQk83S2M3RmZLVTdVOTg0Z2x0MHBwZzdRQjNfd215X1lfa0pVZGhEY3JDdGVJaTYyYXpMVWtlZnhGUGQwVGZiTzgtd0F6UnhEUWxTSXByOWdpYUxoeFhCZmN4U09kNnfSAV5BVV95cUxNV29xZTA0R1NrbjRlUk9DT1l5dFhrNF95c21fY3Rnc3NaVkl4Mnd5MHhnSlZPVW96WjZ1LWR6ZHhRTmhJUTQwUDktaHV5RGhlRlpEcXhhalN3ZEVYUE1R?oc=5",
-   "first_seen": "2026-11-12"
-  },
-  {
    "company": "CareLumi",
    "stage": "Pre-Seed",
    "amount": "$2.5M",
@@ -669,15 +669,6 @@
    "first_seen": "2026-11-12"
   },
   {
-   "company": "Xinju",
-   "stage": "Series A",
-   "amount": "$14.9M",
-   "date": "2026-11-03",
-   "headline": "Xinju raises $14.9M Series A to expand AI chip substrate production",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHpjZjZxQ002M19ZZzFtN24zSFBHaC11MkxwUmFxeEExckg4WEFiaE5pcmpaQXduaW1KV1RrNnFHTmZlcUdDWnFPN3UtMDc4ZnQtSHZaMFQ3cVRNUGhiZ1VDc09QTjdXTlludHl6MmdiVEwyVUhZaXV3RTdMdjZ4Z24tTjlReU9IWWhreFlPUjRHMl9mZ2ZqQTB4WTJsM3BuQnc?oc=5",
-   "first_seen": "2026-11-13"
-  },
-  {
    "company": "Swedish startup",
    "stage": "Seed",
    "amount": "$3.1M",
@@ -687,6 +678,15 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "Clark",
+   "stage": "Seed",
+   "amount": "$11M",
+   "date": "2026-11-02",
+   "headline": "Clark Raises $11M Seed to Bring AI Audit Employees to More CPA Firms",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdXlsTEFSdHZrUl9UWWdqSGRDUTdCSW1ZdVRVYURoQWVqNXY3RkRET01mY1RoWHUyeURVWUtyU0VGNlhEZXNNWHpackJXaGJ6cTJER09TWEswenhmMWJDdUlUUGt4WjBxOHVMREd1WUJ4clV6T2ZpRm56LWJzOC1rRXRKX0M0S01DdmNfQnBUdDdOcEE?oc=5",
+   "first_seen": "2026-11-13"
+  },
+  {
    "company": "Marble Cognition",
    "stage": "Early",
    "amount": "$3.75M",
@@ -694,6 +694,15 @@
    "headline": "Marble Cognition Raises $3.75M: AI Learns Your Job [2026]",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDRrLWVZS19tTTd4XzdrQThfVlpKV25RSXB6VE93LTZkUTZjaXB3aXlWYklWQUVIaXVzOW9NaFNZRlVjTThUUG94T0x1UC04T05tWnZXZWswMzdfVlNSWDNrNzBNbnR1ZnRSenRIbmREMHBHQ3JncWFneVlOcFhQc25FZFg1eGt1YmlpSlBn?oc=5",
    "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Tanzanian healthtech Medikea",
+   "stage": "Pre-Seed",
+   "amount": "$1.2M",
+   "date": "2026-11-02",
+   "headline": "Tanzanian healthtech Medikea raises $1.2m pre-seed round",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWnhDOXJRamdBU01VU21MWVZ5RU1Qc0dOZTB6dE4xWEJaR090ZkpLLVUwSTdlQkN2alNtWTRvXzNCN2F0LUUwckVsakJRM0pLSHJNVkd4OVduWXlsQm54Q1lWcEhiVkhXMlV5WFo4RkdJSmtIaE1uLUFPWVRfSnE0TjdzZw?oc=5",
+   "first_seen": "2026-11-13"
   },
   {
    "company": "Dispute automation platform Casap",
@@ -741,15 +750,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "Larridin",
-   "stage": "Series A",
-   "amount": "$30M",
-   "date": "2026-11-02",
-   "headline": "Larridin Raises $30 Million in Series A to Prove AI\u2019s Impact Across the Human and Agent Workforce",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV1JJbnhyNkhDdWZxYXFlV2dkcEdiUkdPYkxBYjY0MDNnLTcyZ0RRcG9zSDAzSEVIcVd3S3QzYWNyM1UzaEttOVB1V0c5WnhvakxrSDE0cUdxcjZ5S1Y5WkNEcEI4N0pGbmgyWFhHLUt0ZEZnUGxpQ3VkVG9IMTZRMVJjbkZBRWlTZGRiZjd3ZW1CemFhTzJWZUlYZjUydw?oc=5",
-   "first_seen": "2026-11-10"
-  },
-  {
    "company": "WINN.AI",
    "stage": "Series A",
    "amount": "$18M",
@@ -757,6 +757,15 @@
    "headline": "WINN.AI raises $18 million Series A to expand sales AI platform",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qdTFnOHBnd2IxNGNHRU1OeVRtYlZOd0NCZm1lWmxXRXQtSzRJRHlraDgybjR2MFM5czU1TU5KUndnRnFBeU5iT3NHOFFnRy05UHZpbUFKODJndmRQcFk3TjNB?oc=5",
    "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Larridin",
+   "stage": "Series A",
+   "amount": "$30M",
+   "date": "2026-11-02",
+   "headline": "Larridin Raises $30 Million in Series A to Prove AI\u2019s Impact Across the Human and Agent Workforce",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV1JJbnhyNkhDdWZxYXFlV2dkcEdiUkdPYkxBYjY0MDNnLTcyZ0RRcG9zSDAzSEVIcVd3S3QzYWNyM1UzaEttOVB1V0c5WnhvakxrSDE0cUdxcjZ5S1Y5WkNEcEI4N0pGbmgyWFhHLUt0ZEZnUGxpQ3VkVG9IMTZRMVJjbkZBRWlTZGRiZjd3ZW1CemFhTzJWZUlYZjUydw?oc=5",
+   "first_seen": "2026-11-10"
   },
   {
    "company": "Nigerian co-founded AI startup Minicor",
@@ -772,7 +781,7 @@
    "stage": "Seed",
    "amount": "$3.8M",
    "date": "2026-10-31",
-   "headline": "Minicor Lands $3.8M Seed to Build AI Desktop Agents [2026]",
+   "headline": "Minicor Raises $3.8M Seed for AI Desktop Agents [2026]",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3VTS01sMDVwcldHUlRfLThyd0NHMmUxUHJkaWt2ZDVyY2xtRXRGaEhoc3NHWlpDZGJuMkFVNzB5TS1lVGZQZkU3ZHFpUmM0cHJURUVHQmNEWFVKcUYxN3Jib1FmQjNkSHB4VE9MS3oyV19BamZWcGVMWWZTdnJBMlhNekxJWTZnRFBV?oc=5",
    "first_seen": "2026-11-10"
   },
@@ -793,6 +802,15 @@
    "headline": "AI agent security startup AIR raises $50M seed, lands on Fortune Cyber 60",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOVBDUlpJWW1nQk5SLWFLMjI4NVdveEUwRlFQU3FRNmh3eS1OcHVCUVFRM19tU01MbVBHeTVoa09TSmFLYWFHbjVqaEItREk4a0czanZBdzBPUW94Y1BRbjdOX0xheG1QM1FwTURydXFITkJzYzlpcjlvYVU1WjBFNGpUMmlVcnI5cWItTnV5Snl1d3ZLbmp4bkE3dEFiM0w3dVNLUmJTYzE?oc=5",
    "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Wrapped Health",
+   "stage": "Pre-Seed",
+   "amount": "$2.1M",
+   "date": "2026-10-30",
+   "headline": "Wrapped Health Raises $2.1 Million Pre-Seed Funding To Connect Clinical Care And Consumer Health",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUhZWC1XajhZNGFTVEtYQ3JzOGh2RFNWSXJ2aE92eFVZeGh2N2Z3eHJlVGJLQlYweU1HSmZ3VWxGSV9Zcm1LWThOelF3ZmZqbjNmNjNLNTVPOXgyVUZKaHFPc0hpLTctWkNJaHMtdVZLLWlZOUEtU1FGV25fT1VBaTVqVUs2aFJFWENseWZ5X08xQ0MxM05kaXpNbTlYQ2x4dDZIdUJCSDFIVEN0NENfb24tdmI1dw?oc=5",
+   "first_seen": "2026-11-13"
   },
   {
    "company": "Bloomsco",
