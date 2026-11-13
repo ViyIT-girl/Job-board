@@ -101,6 +101,21 @@
   "project-manager",
   "chief-of-staff"
  ],
- "company_urls": [],
+ "company_urls": [
+  "https://job-boards.greenhouse.io/moniepoint",
+  "https://job-boards.greenhouse.io/oneacrefundnigeria",
+  "https://job-boards.greenhouse.io/canonical",
+  "https://boards.greenhouse.io/gitlab",
+  "https://jobs.ashbyhq.com/zapier",
+  "https://jobs.ashbyhq.com/oyster",
+  "https://jobs.ashbyhq.com/cyber.fund",
+  "https://jobs.ashbyhq.com/Scale%20Army%20Careers",
+  "https://apply.workable.com/doist",
+  "https://apply.workable.com/renmoney",
+  "https://jobs.lever.co/assist-world",
+  "https://jobs.smartrecruiters.com/peopleconsults",
+  "https://bamboo.teamtailor.com",
+  "https://recruitmentroomltdnew.teamtailor.com"
+ ],
  "rss_feeds": []
 }
