@@ -11,7 +11,7 @@ WN=[{"title":"Operations Coordinator","company_name":"WN Co","url":"https://wn.t
 ROK=[{"legal":"x"},{"position":"Virtual Assistant","company":"RC","url":"https://rok.test/1","location":"Worldwide","date":NOW,"description":"y"}]
 class T(unittest.TestCase):
     def setUp(self):
-        self.code,self.out=run_pipeline({"workingnomads.com":WN,"search?query=who":HN_STORY,"search_by_date":HN_COMMENTS,"remoteok.com/api":ROK})
+        self.code,self.out=run_pipeline({"workingnomads.com":WN,"query=who%20is%20hiring":HN_STORY,"tags=comment":HN_COMMENTS,"remoteok.com/api":ROK})
     def test_run_ok(self): self.assertEqual(self.code,0)
     def test_working_nomads(self):
         j=[x for x in self.out["jobs"] if x["source"]=="WorkingNomads"]
