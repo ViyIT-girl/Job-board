@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-14T02:08:05.731118+00:00",
+ "updated": "2026-11-14T06:37:32.940241+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
@@ -11,7 +11,7 @@
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 20,
+   "raw": 17,
    "errors": [],
    "invalid": 0
   },
@@ -41,7 +41,7 @@
   },
   "Reddit": {
    "status": "partial",
-   "raw": 100,
+   "raw": 200,
    "errors": [
     "429"
    ],
@@ -49,7 +49,7 @@
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 252,
+   "raw": 251,
    "errors": [],
    "invalid": 0
   },
@@ -61,7 +61,7 @@
   },
   "Jobicy": {
    "status": "ok",
-   "raw": 120,
+   "raw": 128,
    "errors": [],
    "invalid": 0
   },
@@ -115,7 +115,7 @@
   }
  },
  "stats": {
-  "raw": 2475,
+  "raw": 2579,
   "kept": 36
  },
  "jobs": [
