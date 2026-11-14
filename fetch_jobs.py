@@ -62,7 +62,7 @@ def workingnomads():
         add("WorkingNomads",j.get("title"),j.get("company_name") or j.get("companyName"),j.get("url"),j.get("location") or "",j.get("pub_date") or j.get("pubDate"),j.get("description"))
 def plain(s): return re.sub(r"\s+"," ",re.sub(r"<[^>]+>"," ",html.unescape(s or ""))).strip()
 def hn_hiring():
-    hits=(J("https://hn.algolia.com/api/v1/search?query=who%20is%20hiring&tags=story,author_whoishiring&hitsPerPage=5") or {}).get("hits",[])
+    hits=(J("https://hn.algolia.com/api/v1/search_by_date?query=who%20is%20hiring&tags=story,author_whoishiring&hitsPerPage=5") or {}).get("hits",[])
     threads=[h for h in hits if (h.get("title") or "").lower().startswith("ask hn: who is hiring")][:1]
     for th in threads:
         sid=str(th.get("objectID"));pages=1;pg=0
@@ -128,8 +128,10 @@ def workable():
 def rss_jobs(src,url,direct=False,co=None):
     r=get(url)
     if not r or getattr(r,"status",0)!=200: return
-    try: items=list(ET.fromstring(r.read()).iter("item"))
-    except Exception: errs[src].append("parse");return
+    body=r.read()
+    try: items=list(ET.fromstring(body).iter("item"))
+    except Exception: errs[src].append("parse");print("unparseable feed",url,body[:120]);return
+    if not items: print("empty feed",url,body[:150])
     for it in items:
         t=(it.findtext("title") or "").strip();c=co or ""
         if not co:
@@ -183,7 +185,8 @@ if not jobs:
 try: old={j["url"]:j for j in json.load(open("jobs.json"))["jobs"]}
 except Exception: old={}
 cands=[]
-D=Counter();E=Counter()
+D=Counter();E=Counter();near=[]
+NEAR=re.compile(r"assistant|coordinator|operations|chief of staff|admin|project|program|founder|business partner",re.I)
 def ok_url(u):
     try:
         p=urllib.parse.urlsplit(u);return p.scheme in("http","https") and bool(p.netloc)
@@ -192,7 +195,10 @@ REQ=("source","title","company","url","location","direct","open","eligibility","
 for j in jobs:
     if not ok_url(j["url"]) or not 3<=len(j["title"])<=200: D["invalid"]+=1; continue
     t=j["title"].lower()
-    if not any(x in t for x in C["targets"]) or any(x in t for x in C["exclude_title"]): D["title"]+=1; continue
+    if not any(x in t for x in C["targets"]) or any(x in t for x in C["exclude_title"]):
+        D["title"]+=1
+        if NEAR.search(j["title"]): near.append(j["source"]+": "+j["title"][:70])
+        continue
     if not j["date"] or NOW-j["date"]>timedelta(days=C["max_age_days"]): D["age"]+=1; continue
     el=classify(j["location"],j["desc"],j["title"])
     j.update(eligibility=el["status"],evidence=el["evidence"],conflict=el["conflict"],open=el["status"]=="confirmed")
@@ -223,7 +229,7 @@ for g in groups:
     if {"confirmed","excluded"}<=sts:
         b.update(eligibility="verify",conflict=True,open=False,evidence=(b["evidence"]+["Sources disagree about eligibility"])[:4])
     keep.append(b)
-print("dropped:",dict(D));print("eligibility (before dedupe):",dict(E))
+print("dropped:",dict(D));print("near-miss titles dropped (sample):",sorted(set(near))[:30]);print("eligibility (before dedupe):",dict(E))
 def alive(j):
     r=get(j["url"],"HEAD");return not(r and getattr(r,"status",getattr(r,"code",200)) in(404,410))
 with ThreadPoolExecutor(10) as ex: ok=list(ex.map(alive,keep))
