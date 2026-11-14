@@ -49,4 +49,8 @@ class T(unittest.TestCase):
     def test_title_global_marker(self):
         self.assertEqual(classify("","","Virtual Assistant (Remote/Global)")["status"],"confirmed")
         self.assertEqual(classify("","","Global Operations Manager")["status"],"verify")
+    def test_nigerian_cities(self):
+        for loc in ["Lagos","Remote - Lagos, Nigeria","Abuja","Port Harcourt","Remote, Ibadan"]:
+            self.assertEqual(s(loc),"confirmed",loc)
+        self.assertEqual(s("Lagos, Portugal"),"excluded")
 if __name__=="__main__": unittest.main()
