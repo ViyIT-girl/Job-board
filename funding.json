@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-14T02:01:00.243035+00:00",
+ "updated": "2026-11-14T02:08:49.556585+00:00",
  "companies": [
   {
    "company": "Vumedi",
@@ -84,15 +84,6 @@
    "first_seen": "2026-11-13"
   },
   {
-   "company": "Lumepay",
-   "stage": "Pre-Seed",
-   "amount": "$6M",
-   "date": "2026-11-12",
-   "headline": "Lumepay Raises $6M Pre-Seed to Scale African Cross-Border Payments",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR29FWUpCX0FmNzJhdDJQQmJDaWh6X3FsQ19HWThxOUc2LUkwbnpabE8yU0pPbl9JYThhZ2FER01LbGFHWE5PRldpY1lUNUkxNkpHMk9OWUVDTVBKaXUwbXV6cGE4Wk9zd3p2THNTWWVFaFU2NTZJMWlDWEFTTnFXaFNHZlhpbnM3NF9uaWdBd2R6b1BIa3o1Y1BB?oc=5",
-   "first_seen": "2026-11-11"
-  },
-  {
    "company": "SA fintech startup Lumepay",
    "stage": "Pre-Seed",
    "amount": "$6M",
@@ -100,6 +91,15 @@
    "headline": "SA fintech startup Lumepay raises $6m pre-seed round -",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUtXazNJUURnUnVUZ1VIUE9qYU1ZWTNsVkMzTXhMcHg1YUsxV2pMQU8xR1RVcFpwMWhVb3ZvejdxeUhNa0xMV3RTNEZGUDNzMWpZRGJrWDBab1g1dzkxZWFfcTR4WVBFWWJua2pmLS0zLU5nR2ZlUVJzSmRnc05jRFVobzVvemNLbjlLdG45Yjc5SGs?oc=5",
    "first_seen": "2026-11-12"
+  },
+  {
+   "company": "Lumepay",
+   "stage": "Pre-Seed",
+   "amount": "$6M",
+   "date": "2026-11-12",
+   "headline": "Lumepay Raises $6M Pre-Seed to Scale African Cross-Border Payments",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR29FWUpCX0FmNzJhdDJQQmJDaWh6X3FsQ19HWThxOUc2LUkwbnpabE8yU0pPbl9JYThhZ2FER01LbGFHWE5PRldpY1lUNUkxNkpHMk9OWUVDTVBKaXUwbXV6cGE4Wk9zd3p2THNTWWVFaFU2NTZJMWlDWEFTTnFXaFNHZlhpbnM3NF9uaWdBd2R6b1BIa3o1Y1BB?oc=5",
+   "first_seen": "2026-11-11"
   },
   {
    "company": "Fintech Griffin",
@@ -246,6 +246,33 @@
    "first_seen": "2026-11-11"
   },
   {
+   "company": "Athena",
+   "stage": "Pre-Seed",
+   "amount": "$2.5M",
+   "date": "2026-11-11",
+   "headline": "Athena Secures $2.5M Pre-Seed From a16z Speedrun to Scale AI Agents for Commercial Real Estate Law",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYlc2MlZTcWNlclVvOThtZXNHMktyTkRuLVl2VTBYdjl6ZEF2NmwwSWR0US12cWlZM0ZTMEdTV1hNbkxreHRnRHQ3XzhXdTNFc195UVI5aW5BZTFoRVVfeXhKU0RWYkV6VUg2SGlJcVJ6RzRZdkZobld5dnBjSVFEOW16UV81T3Jld2ZTUWVPZlYzWDF5YVRHU0pyT0luVkVHVUNwWWVhNG1aanNRVUpYRmF4S2tTNmpiNk9LdGN1VVlIdE0yWnVqOWRXZW1oSVg0?oc=5",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "company": "Guava",
+   "stage": "Seed",
+   "amount": "$12.5M",
+   "date": "2026-11-11",
+   "headline": "Guava secures $12.5 million seed funding to scale its AI voice agent platform",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcld6M1NXRjlhUTBicnVhZU1OeVJTNEJIV1JDR2FLUWRCN3N6R0tfc2RfVklKQmUwUHhwOVlmX2ZHX2VNdms0SWRobG5zcnkxenlTbWFHZHVzVW9BTXJpMGd4eVdONUdBdnJ1Z1R0b21Ra2Iwb1dBQkRRN1Q2MmJoXzFxOUY4WEtCNFdPSjZfUjRlS0ZKUmNrbUdyOHR2eUlzMEdUczJlMGFiTE1DTklvVE53?oc=5",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "company": "SA fintech firm Lumepay",
+   "stage": "Early",
+   "amount": "$6M",
+   "date": "2026-11-11",
+   "headline": "SA fintech firm Lumepay bags $6m funding",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV28tV1JlMEd6MmQzTkVvMkY1T3VEaG1UcFktRlc1ekdTRmI2S3hMeDlJemtFZDZSZjFYaVZxZ3h4QjdwN0psbTljd3g5SzlQeFVtZThvZXJTYk1UWWR0Um1ZVEVmY3p0Y0JPYnplXzlzY3JlV1ZSR00wU0pSektCWDFnWUdqNjVoQV9Cb1JDT0V5QQ?oc=5",
+   "first_seen": "2026-11-12"
+  },
+  {
    "company": "BKN301-owned British FinTech Planky",
    "stage": "Early",
    "amount": "$6.9M",
@@ -300,15 +327,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "company": "XpertDox",
-   "stage": "Series A",
-   "amount": "$20M",
-   "date": "2026-11-11",
-   "headline": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNTB1SlBvaWpybzRrMWxWLXdaMVVYZ0JwaVh0TEFwekI0OW42cDd2MlJGTXZqSmhYbXVWUVZfdEZkWm5jSGdaYk90NkdUUENWc2E1emlRSFBMOU9rYnpQaUEyMFZzMWZicW1MeldIRk5pSFhycjNDOE43MDVXWkQ4SWxGSXMwX1laY3FoR0hzNmVtUkQ1T1l3RFdva2FUSGtHYnp0OXlDby1NY0NNQ1NFNFlnQXpiUWhTZWtsTFhpSHh3NFNUcDh2aHNDQ1E5N2VkRU9TcFNfRTVQbkt2TTJEb2ZYcXJlZlloODV3VW1BcGYxT28?oc=5",
-   "first_seen": "2026-11-14"
-  },
-  {
    "company": "Daylight",
    "stage": "Series B",
    "amount": "$80M",
@@ -318,6 +336,15 @@
    "first_seen": "2026-11-10"
   },
   {
+   "company": "XpertDox",
+   "stage": "Series A",
+   "amount": "$20M",
+   "date": "2026-11-11",
+   "headline": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNTB1SlBvaWpybzRrMWxWLXdaMVVYZ0JwaVh0TEFwekI0OW42cDd2MlJGTXZqSmhYbXVWUVZfdEZkWm5jSGdaYk90NkdUUENWc2E1emlRSFBMOU9rYnpQaUEyMFZzMWZicW1MeldIRk5pSFhycjNDOE43MDVXWkQ4SWxGSXMwX1laY3FoR0hzNmVtUkQ1T1l3RFdva2FUSGtHYnp0OXlDby1NY0NNQ1NFNFlnQXpiUWhTZWtsTFhpSHh3NFNUcDh2aHNDQ1E5N2VkRU9TcFNfRTVQbkt2TTJEb2ZYcXJlZlloODV3VW1BcGYxT28?oc=5",
+   "first_seen": "2026-11-14"
+  },
+  {
    "company": "TheWealthNet - Swiss fintech",
    "stage": "Early",
    "amount": "$5.1M",
@@ -325,15 +352,6 @@
    "headline": "TheWealthNet - Swiss fintech raises $5.1mn for private banking technology",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWtFeWhpcDFKWVlnSzlsbVRQb285dDVOamtDMlY0YldiWC1nV1hmeGpKNk5PMlZoX0tOaVNOS3I2RW8zU0NHeUtiVlRjSDR3UllIc2NoLW5tdG83elNXLVh2N2RhbmxjVnFyam9xcXdnalBtRnJoWFlLNmJHXzNuZ1kwZzJtdnBoMXhqWS1TN253dklDU2UtbHVvVQ?oc=5",
    "first_seen": "2026-11-13"
-  },
-  {
-   "company": "SA fintech firm Lumepay",
-   "stage": "Early",
-   "amount": "$6M",
-   "date": "2026-11-11",
-   "headline": "SA fintech firm Lumepay bags $6m funding",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV28tV1JlMEd6MmQzTkVvMkY1T3VEaG1UcFktRlc1ekdTRmI2S3hMeDlJemtFZDZSZjFYaVZxZ3h4QjdwN0psbTljd3g5SzlQeFVtZThvZXJTYk1UWWR0Um1ZVEVmY3p0Y0JPYnplXzlzY3JlV1ZSR00wU0pSektCWDFnWUdqNjVoQV9Cb1JDT0V5QQ?oc=5",
-   "first_seen": "2026-11-12"
   },
   {
    "company": "AI accounting startup Sumary",
@@ -379,6 +397,15 @@
    "headline": "South African Fintech Lumepay Raises $6M Pre-Seed to Build Africa\u2019s Institutional Cross-Border Payments Rails",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM1VHYmQtZDBGUEVuYWQwcEF3WmRvekV4eHcwcUp0ZGgwaExJR2QxZlhtM3JOaklBQWZiRFpnWEVJcnNDaHhXUnUwYnRfaXRHQ2FUYkM1QVBndzg3aGZDLXVzUjhlLUFuMGl0cXlWVlUtSndCSVlRVW5IMW16WWZMc0xtTUYyeHdVX05zTkFiZmc3eThZV2hiRUFtbUZGalp4d0dlMHFhcjlILVlpYXdEMzV6QlY3XzViUzhYN2pDWjNJa3c4MmZoOGVZVVdSZ2gtYmhqVjZSQmMwZFFYMktENld3?oc=5",
    "first_seen": "2026-11-10"
+  },
+  {
+   "company": "Private banking fintech Light Frame",
+   "stage": "Early",
+   "amount": "$5.1M",
+   "date": "2026-11-10",
+   "headline": "Private banking fintech Light Frame raises $5.1m",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcnVoMlZSVVJLTHpZQ2VvNThnYnZxR0hSZDRzclN5S3ZaUlRxUEpsbmpocnBtYnAwSFQzTllSSF9RUnhiSGdVeTNUWFoxX3pMeF81M3BiVUFtU0U3RmRkWGlCOEJ3Qnp4S1p0bGJ0NlhIUlR6UnV0Y2RtVXo0M2hVR3kwbGZ4ZUR5OWpIRkxqMTB3SGc?oc=5",
+   "first_seen": "2026-11-14"
   },
   {
    "company": "Bay",
@@ -615,15 +642,6 @@
    "first_seen": "2026-11-12"
   },
   {
-   "company": "Paediatric health brand Primerry",
-   "stage": "Pre-Seed",
-   "amount": "$760,000M",
-   "date": "2026-11-04",
-   "headline": "Paediatric health brand Primerry raises $760,000 pre-seed round",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUxUWWxmTVRXNlp6VlZ5VFVFSHpwd2dfZW10M2dNQmlDY0Rwa3NsN3I2WGdSVFZqeUFKdlV0Tng3b2hnVHZoN2ZlTWZ6TGdoRFdPUzM0WFRPZW03WGhka1ZjVTRXcU94X0JSaE1pV3J1aDRwVHR0cFBMY0lBVWVUOHA3aXRaWXBnTTRqNTdXd0V1ZDFQSVZRaHJNeXY?oc=5",
-   "first_seen": "2026-11-12"
-  },
-  {
    "company": "Fintech Crediflow AI",
    "stage": "Early",
    "amount": "$1.5M",
@@ -676,15 +694,6 @@
    "headline": "Audit AI Startup Clark Raises $11M Seed Round",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcW1iMmZMSTJKUzhBVjhfdURrUHlWcVpvclZvMEZsejRtbXI2LU95cUp0SWtfbEVqY2xmY3lqSU4yOHRMV2J2VDRMamQ5X0o2OXVOWE9XLThndGpzRWI2MExnUzJ2RkQ3MHNZVW5MVE13eWgtWmVIakFJYmtoYVJwTkM0dHppOWJJeXpSVDdPLUlZNUE?oc=5",
    "first_seen": "2026-11-14"
-  },
-  {
-   "company": "CareLumi",
-   "stage": "Pre-Seed",
-   "amount": "$2.5M",
-   "date": "2026-11-03",
-   "headline": "CareLumi Raises $2.5 Million Pre-Seed Round To Build Verification Layer For Healthcare AI",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXBvS000VTFYYlRnT3ppelVuVkpJTTlKNm9jNFBsZFhPTjlzX3JPd05tampSWXlHYXlDM1FyOHJkTFRYZlg0RU1qNWs0XzRzNnhfT0tLMXBVV19vX1FCMk5DTl94TXgzZ0tRT2x0b0pZSUppb1A3LU1MZWEwVDFha2pOcThOSGxiR0lMOUZtekRDUWxjdF9NbkFuWXp3Snp5dDVycEo3dTJSNnBT?oc=5",
-   "first_seen": "2026-11-13"
   },
   {
    "company": "India Clinics On Cloud",
