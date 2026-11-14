@@ -2,7 +2,7 @@
 status: confirmed (explicitly open, no conflict) | verify (not enough evidence, or conflicting) | excluded (explicit or location-based restriction)."""
 import re
 FL=re.I
-LOC_POS=re.compile(r"nigeria|(?<!south )(?<!east )(?<!north )(?<!central )(?<!southern )africa|worldwide|world-wide|anywhere|global|any country|all countries",FL)
+LOC_POS=re.compile(r"nigeria|\b(lagos(?!,?\s*portugal)|abuja|ibadan|port harcourt|kaduna|enugu|benin city|lekki|ikoyi|victoria island)\b|(?<!south )(?<!east )(?<!north )(?<!central )(?<!southern )africa|worldwide|world-wide|anywhere|global|any country|all countries",FL)
 DESC_POS=re.compile(r"(applicants?|candidates?|hir\w+|open to|residents? of)[^.\n]{0,50}?\b(nigeria|(?<!south )africa|worldwide|globally|anywhere|around the world)\b|\b(based|located|residing|living) in[^.\n]{0,30}\b(nigeria|(?<!south )africa)\b|\b(anywhere in the world|work from anywhere|fully global|global(?:ly)? remote|worldwide remote)\b",FL)
 NEG_NIGERIA=re.compile(r"\b(not|no|cannot|can't|unable|excluding|except|ineligible|outside)\b[^.\n]{0,60}nigeria|nigeria[^.\n]{0,40}(not (eligible|supported|available|accepted)|excluded|ineligible)",FL)
 PLACE=r"(us|u\.s\.|usa|united states|uk|united kingdom|canada|australia|eu|europe|european union|north america|latin america|latam|india|germany|france|spain|netherlands|ireland|brazil|mexico|philippines|poland|portugal|israel|uae|singapore|asia|apac|new zealand)"
