@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-14T06:37:32.940241+00:00",
+ "updated": "2026-11-15T06:41:37.499400+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
@@ -11,13 +11,13 @@
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 17,
+   "raw": 14,
    "errors": [],
    "invalid": 0
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 358,
+   "raw": 357,
    "errors": [],
    "invalid": 0
   },
@@ -49,19 +49,19 @@
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 251,
+   "raw": 250,
    "errors": [],
    "invalid": 0
   },
   "Himalayas": {
    "status": "ok",
-   "raw": 44,
+   "raw": 40,
    "errors": [],
    "invalid": 0
   },
   "Jobicy": {
    "status": "ok",
-   "raw": 128,
+   "raw": 127,
    "errors": [],
    "invalid": 0
   },
@@ -73,7 +73,7 @@
   },
   "WorkingNomads": {
    "status": "ok",
-   "raw": 36,
+   "raw": 34,
    "errors": [],
    "invalid": 0
   },
@@ -115,7 +115,7 @@
   }
  },
  "stats": {
-  "raw": 2579,
+  "raw": 2567,
   "kept": 36
  },
  "jobs": [
@@ -295,24 +295,6 @@
    "score": 0,
    "salary_hint": false,
    "posted": "2026-11-01",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "source": "Himalayas",
-   "title": "Virtual Assistant",
-   "company": "micro1",
-   "url": "https://himalayas.app/companies/micro1/jobs/virtual-assistant?utm_source=api",
-   "location": "",
-   "desc": "  Job Title:  Virtual Assistant   Job Type:  Full time  Location: Remote     The Role    We\u2019re looking for a proactive, highly organized Virtual Assistant to support day-to-day operations across our distributed team. You\u2019ll own general administrative work, team logistics, and gifting for our interna",
-   "direct": false,
-   "eligibility": "verify",
-   "evidence": [],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": 0,
-   "salary_hint": false,
-   "posted": "2026-10-30",
    "first_seen": "2026-11-10"
   },
   {
@@ -559,27 +541,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "source": "Lever",
-   "title": "Virtual Executive Assistant - US-based telehealth",
-   "company": "assist-world",
-   "url": "https://jobs.lever.co/assist-world/c6a57928-da08-45cb-be8b-32a6f4eff527",
-   "location": "South Africa",
-   "desc": "",
-   "direct": true,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: South Africa",
-    "Title suggests a region: Virtual Executive Assistant - US-based telehealth"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -1,
-   "salary_hint": false,
-   "posted": "2026-10-15",
-   "first_seen": "2026-11-13"
-  },
-  {
    "source": "Jobicy",
    "title": "Implementation Project Manager",
    "company": "Latent",
@@ -659,6 +620,46 @@
    "salary_hint": true,
    "posted": "2026-11-06",
    "first_seen": "2026-11-14"
+  },
+  {
+   "source": "Jobicy",
+   "title": "Business Operations Manager",
+   "company": "Motive",
+   "url": "https://jobicy.com/jobs/155401-business-operations-manager",
+   "location": "USA",
+   "desc": "  Who we are:  \n Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. ",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-15",
+   "first_seen": "2026-11-15"
+  },
+  {
+   "source": "Jobicy",
+   "title": "Contract Operations Associate",
+   "company": "Elation Health",
+   "url": "https://jobicy.com/jobs/162187-contract-operations-associate",
+   "location": "USA",
+   "desc": " Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we've been focused on building a world-class technology solution that creates an experience of delight and ease for physicians, and that our users love. \n",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-14",
+   "first_seen": "2026-11-15"
   },
   {
    "source": "WeWorkRemotely",
