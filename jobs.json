@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-16T07:49:58.457777+00:00",
+ "updated": "2026-11-17T15:00:51.566258+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
@@ -11,31 +11,31 @@
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 19,
+   "raw": 5,
    "errors": [],
    "invalid": 0
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 356,
+   "raw": 352,
    "errors": [],
    "invalid": 0
   },
   "Greenhouse": {
    "status": "ok",
-   "raw": 723,
+   "raw": 716,
    "errors": [],
    "invalid": 0
   },
   "Lever": {
    "status": "ok",
-   "raw": 35,
+   "raw": 38,
    "errors": [],
    "invalid": 0
   },
   "Ashby": {
    "status": "ok",
-   "raw": 303,
+   "raw": 298,
    "errors": [],
    "invalid": 0
   },
@@ -49,7 +49,7 @@
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 261,
+   "raw": 259,
    "errors": [],
    "invalid": 0
   },
@@ -61,19 +61,19 @@
   },
   "Jobicy": {
    "status": "ok",
-   "raw": 134,
+   "raw": 144,
    "errors": [],
    "invalid": 0
   },
   "Workable": {
    "status": "ok",
-   "raw": 388,
+   "raw": 389,
    "errors": [],
    "invalid": 0
   },
   "WorkingNomads": {
    "status": "ok",
-   "raw": 34,
+   "raw": 35,
    "errors": [],
    "invalid": 0
   },
@@ -115,8 +115,8 @@
   }
  },
  "stats": {
-  "raw": 2492,
-  "kept": 38
+  "raw": 2475,
+  "kept": 41
  },
  "jobs": [
   {
@@ -158,6 +158,27 @@
    "salary_hint": true,
    "posted": "2026-11-02",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "Ashby",
+   "title": "Property Operations Coordinator",
+   "company": "Scale%20Army%20Careers",
+   "url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/bd3d2c02-f67e-4d54-83bd-ae6b9694b9fc",
+   "location": "Remote Egypt",
+   "desc": "This role is open to candidates based in LATAM, Africa, and Eastern Europe. Please note that as this role supports U.S.-based clients, candidates must be available to work during U.S. business hours aligned with the client\u2019s time zone.\n\n\u00a0\n\nOur client is a hospitality and property management company ",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: This role is open to candidates based in LATAM, Africa, and Eastern Europe. Ple",
+    "Location lists only: Remote Egypt"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-17"
   },
   {
    "source": "Workable",
@@ -355,6 +376,46 @@
    "salary_hint": true,
    "posted": "2026-10-19",
    "first_seen": "2026-11-11"
+  },
+  {
+   "source": "Greenhouse",
+   "title": "Enablement Operations Manager",
+   "company": "gitlab",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8943456002",
+   "location": "Remote, United States",
+   "desc": " div class= content-intro   p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered u",
+   "direct": true,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Remote, United States"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -1,
+   "salary_hint": false,
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-17"
+  },
+  {
+   "source": "Greenhouse",
+   "title": "Senior Executive Assistant, Marketing",
+   "company": "gitlab",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937764002",
+   "location": "Remote, Canada; Remote, United States",
+   "desc": " div class= content-intro   p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered u",
+   "direct": true,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Remote, Canada; Remote, United States"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -1,
+   "salary_hint": false,
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-17"
   },
   {
    "source": "Lever",
@@ -598,11 +659,11 @@
   },
   {
    "source": "Jobicy",
-   "title": "Business Strategy & Operations Manager",
-   "company": "Motive",
-   "url": "https://jobicy.com/jobs/155446-business-strategy-operations-manager",
+   "title": "Marketplace Operations Manager II",
+   "company": "Wheel",
+   "url": "https://jobicy.com/jobs/153335-marketplace-operations-manager-ii",
    "location": "USA",
-   "desc": "  Who we are:  \n Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. ",
+   "desc": "  Job Title:  Marketplace Operations Manager II  \n  Job Location (Remote):  Remote, USA \n  About the Company  \n Wheel is evolving the traditional care ecosystem by equipping the nation's most innovative companies with a premier platform to deliver high-quality virtual care at scale. We offer proven ",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
@@ -613,8 +674,8 @@
    "also_on": [],
    "score": -3,
    "salary_hint": false,
-   "posted": "2026-11-16",
-   "first_seen": "2026-11-16"
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-17"
   },
   {
    "source": "WeWorkRemotely",
@@ -622,7 +683,7 @@
    "company": "D2B",
    "url": "https://weworkremotely.com/remote-jobs/d2b-service-delivery-and-operations-manager-dayshift-remote",
    "location": "Asia Only",
-   "desc": " \n\n \n   Headquarters:  Manila, Metro Manila, Philippines\n      URL:   https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b \n \n\n   Position: Service Delivery and Operations Manager  Salary: Php 80,000 to Php 100,000/month  Working Hours   Conditions: AU Working Hours and Holidays  Emp",
+   "desc": "\n\n \n   Headquarters:  Manila, Metro Manila, Philippines\n      URL:   https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b \n \n\n   Position: Service Delivery and Operations Manager  Salary: Php 80,000 to Php 100,000/month  Working Hours   Conditions: AU Working Hours and Holidays  Empl",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
