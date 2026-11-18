@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-17T15:00:51.566258+00:00",
+ "updated": "2026-11-18T14:41:59.835706+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
@@ -11,19 +11,19 @@
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 5,
+   "raw": 25,
    "errors": [],
    "invalid": 0
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 352,
+   "raw": 350,
    "errors": [],
    "invalid": 0
   },
   "Greenhouse": {
    "status": "ok",
-   "raw": 716,
+   "raw": 714,
    "errors": [],
    "invalid": 0
   },
@@ -35,21 +35,22 @@
   },
   "Ashby": {
    "status": "ok",
-   "raw": 298,
+   "raw": 297,
    "errors": [],
    "invalid": 0
   },
   "Reddit": {
-   "status": "partial",
-   "raw": 100,
+   "status": "failed",
+   "raw": 0,
    "errors": [
+    "404",
     "429"
    ],
    "invalid": 0
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 259,
+   "raw": 277,
    "errors": [],
    "invalid": 0
   },
@@ -61,7 +62,7 @@
   },
   "Jobicy": {
    "status": "ok",
-   "raw": 144,
+   "raw": 142,
    "errors": [],
    "invalid": 0
   },
@@ -115,8 +116,8 @@
   }
  },
  "stats": {
-  "raw": 2475,
-  "kept": 41
+  "raw": 2406,
+  "kept": 39
  },
  "jobs": [
   {
@@ -263,42 +264,6 @@
    "salary_hint": false,
    "posted": "2026-10-26",
    "first_seen": "2026-11-13"
-  },
-  {
-   "source": "Himalayas",
-   "title": "Business Operations Expert",
-   "company": "micro1",
-   "url": "https://himalayas.app/companies/micro1/jobs/business-operations-expert?utm_source=api",
-   "location": "",
-   "desc": "  Role Title:  Business Operations Expert   Role Type:  Contractor   Location:  Remote, global   Opportunity Snapshot    Pay:  Up to $90/hour equivalent   Time per task:  ~10 hours per task   Location:  Fully remote \u2014 no geographic restrictions. Strong English required (B2 minimum, C1 preferred)   N",
-   "direct": false,
-   "eligibility": "verify",
-   "evidence": [],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": 1,
-   "salary_hint": true,
-   "posted": "2026-10-25",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "source": "Reddit",
-   "title": "[Hiring] Remote Virtual Assistant - $17/hr",
-   "company": "r/forhire",
-   "url": "https://www.reddit.com/r/forhire/comments/1xww2d3/hiring_remote_virtual_assistant_17hr/",
-   "location": "Remote",
-   "desc": "   I\u2019m looking for virtual assistants to join our team at Analytics Depot, an AI analytics startup. We\u2019re reaching out to analytics firms, consultancies and growing businesses, and need organized, reliable people to help keep things running.   You\u2019ll help with tasks like:     Researching analytics, ",
-   "direct": false,
-   "eligibility": "verify",
-   "evidence": [],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": 0,
-   "salary_hint": false,
-   "posted": "2026-11-15",
-   "first_seen": "2026-11-16"
   },
   {
    "source": "Himalayas",
@@ -598,26 +563,6 @@
    "first_seen": "2026-11-13"
   },
   {
-   "source": "Jobicy",
-   "title": "Implementation Project Manager",
-   "company": "Latent",
-   "url": "https://jobicy.com/jobs/161170-implementation-project-manager",
-   "location": "USA",
-   "desc": "  About  Latent   \n Latent is the enterprise pharmacy intelligence platform, powered by a clinical agentic engine, that enables health systems to grow their pharmacy operations and serve more patients. One engine works across the pharmacy journey to identify patients who qualify for care, improve me",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: USA"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -2,
-   "salary_hint": true,
-   "posted": "2026-11-10",
-   "first_seen": "2026-11-11"
-  },
-  {
    "source": "WeWorkRemotely",
    "title": "Offshore Virtual Executive Assistant to the CEO",
    "company": "Collective Residential",
@@ -658,16 +603,16 @@
    "first_seen": "2026-11-14"
   },
   {
-   "source": "Jobicy",
-   "title": "Marketplace Operations Manager II",
-   "company": "Wheel",
-   "url": "https://jobicy.com/jobs/153335-marketplace-operations-manager-ii",
-   "location": "USA",
-   "desc": "  Job Title:  Marketplace Operations Manager II  \n  Job Location (Remote):  Remote, USA \n  About the Company  \n Wheel is evolving the traditional care ecosystem by equipping the nation's most innovative companies with a premier platform to deliver high-quality virtual care at scale. We offer proven ",
+   "source": "WeWorkRemotely",
+   "title": "Virtual Assistant-Full time",
+   "company": "DLN Consulting Group",
+   "url": "https://weworkremotely.com/remote-jobs/dln-consulting-group-virtual-assistant-full-time",
+   "location": "USA Only",
+   "desc": "\n\n \n   Headquarters:  Charlotte, North Carolina, United States\n      URL:   https://jobs.workable.com/company/7L2FzU15AMzMKn9txgLfbp/jobs-at-dln-consulting-group \n \n\nVirtual Assistant DLN Consulting Group \u00b7 About DLN Consulting Group DLN Consulting Group is a healthcare operations, technology, data,",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: USA"
+    "Location lists only: USA Only"
    ],
    "conflict": false,
    "open": false,
@@ -675,7 +620,27 @@
    "score": -3,
    "salary_hint": false,
    "posted": "2026-11-17",
-   "first_seen": "2026-11-17"
+   "first_seen": "2026-11-18"
+  },
+  {
+   "source": "Jobicy",
+   "title": "Senior Project Manager",
+   "company": "Welo Global",
+   "url": "https://jobicy.com/jobs/163046-senior-project-manager",
+   "location": "Argentina,  Mexico",
+   "desc": "  About Welocalize   \n Welocalize, a  Welo Global  brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enab",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Argentina,  Mexico"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-18"
   },
   {
    "source": "WeWorkRemotely",
