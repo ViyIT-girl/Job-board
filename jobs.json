@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-18T14:41:59.835706+00:00",
+ "updated": "2026-11-19T14:48:58.181562+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
@@ -11,19 +11,19 @@
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 25,
+   "raw": 23,
    "errors": [],
    "invalid": 0
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 350,
+   "raw": 346,
    "errors": [],
    "invalid": 0
   },
   "Greenhouse": {
    "status": "ok",
-   "raw": 714,
+   "raw": 715,
    "errors": [],
    "invalid": 0
   },
@@ -35,7 +35,7 @@
   },
   "Ashby": {
    "status": "ok",
-   "raw": 297,
+   "raw": 298,
    "errors": [],
    "invalid": 0
   },
@@ -50,31 +50,33 @@
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 277,
+   "raw": 162,
    "errors": [],
    "invalid": 0
   },
   "Himalayas": {
    "status": "ok",
-   "raw": 40,
+   "raw": 38,
    "errors": [],
    "invalid": 0
   },
   "Jobicy": {
-   "status": "ok",
-   "raw": 142,
-   "errors": [],
+   "status": "partial",
+   "raw": 125,
+   "errors": [
+    "429"
+   ],
    "invalid": 0
   },
   "Workable": {
    "status": "ok",
-   "raw": 389,
+   "raw": 398,
    "errors": [],
    "invalid": 0
   },
   "WorkingNomads": {
    "status": "ok",
-   "raw": 35,
+   "raw": 37,
    "errors": [],
    "invalid": 0
   },
@@ -116,8 +118,8 @@
   }
  },
  "stats": {
-  "raw": 2406,
-  "kept": 39
+  "raw": 2279,
+  "kept": 35
  },
  "jobs": [
   {
@@ -159,6 +161,48 @@
    "salary_hint": true,
    "posted": "2026-11-02",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "Ashby",
+   "title": "Admin Assistant",
+   "company": "Scale%20Army%20Careers",
+   "url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/15ceac8a-d9b5-41fb-bfca-b018a0abfb0c",
+   "location": "Remote Argentina",
+   "desc": "This role is open to candidates based in LATAM, Africa, and Eastern Europe. Please note that as this role supports U.S.-based clients, candidates must be available to work during U.S. business hours aligned with the client\u2019s time zone.\n\n\u00a0\n\nOur client is a therapy-based organization providing evidenc",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: This role is open to candidates based in LATAM, Africa, and Eastern Europe. Ple",
+    "Location lists only: Remote Argentina"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "source": "Ashby",
+   "title": "Project Manager (Production & Operations)",
+   "company": "Scale%20Army%20Careers",
+   "url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/783d5645-fece-4182-93c2-4441112d014b",
+   "location": "Remote Argentina",
+   "desc": "This role is open to candidates based in LATAM, Africa, and Eastern Europe. Please note that as this role supports U.S.-based clients, candidates must be available to work during U.S. business hours aligned with the client\u2019s time zone.\n\n\u00a0\n\nOur client manages production projects that require coordina",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: This role is open to candidates based in LATAM, Africa, and Eastern Europe. Ple",
+    "Location lists only: Remote Argentina"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-19"
   },
   {
    "source": "Ashby",
@@ -323,24 +367,24 @@
    "first_seen": "2026-11-12"
   },
   {
-   "source": "Ashby",
-   "title": "Enterprise Deployment - Chief of Staff",
-   "company": "elevenlabs",
-   "url": "https://jobs.ashbyhq.com/ElevenLabs/a0389dc2-77d8-439b-960b-2acb8712991e",
-   "location": "Remote United States",
-   "desc": "ABOUT ELEVENLABS\n\nElevenLabs is an AI research and product company transforming how we interact with technology.\n\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like",
+   "source": "Greenhouse",
+   "title": "Executive Assistant, Office of the CTO ",
+   "company": "gitlab",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940703002",
+   "location": "Remote, Canada; Remote, United States",
+   "desc": " div class= content-intro   p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered u",
    "direct": true,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: Remote United States"
+    "Location lists only: Remote, Canada; Remote, United States"
    ],
    "conflict": false,
    "open": false,
    "also_on": [],
-   "score": 0,
-   "salary_hint": true,
-   "posted": "2026-10-19",
-   "first_seen": "2026-11-11"
+   "score": -1,
+   "salary_hint": false,
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19"
   },
   {
    "source": "Greenhouse",
@@ -364,7 +408,7 @@
   },
   {
    "source": "Greenhouse",
-   "title": "Senior Executive Assistant, Marketing",
+   "title": "Executive Assistant, Marketing",
    "company": "gitlab",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937764002",
    "location": "Remote, Canada; Remote, United States",
@@ -484,26 +528,6 @@
   },
   {
    "source": "Greenhouse",
-   "title": "Senior Executive Assistant",
-   "company": "gitlab",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8919962002",
-   "location": "Remote, United States",
-   "desc": " div class= content-intro   p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered u",
-   "direct": true,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: Remote, United States"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -1,
-   "salary_hint": false,
-   "posted": "2026-10-29",
-   "first_seen": "2026-11-13"
-  },
-  {
-   "source": "Greenhouse",
    "title": "Senior Ecosystem Operations Manager",
    "company": "gitlab",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907680002",
@@ -563,6 +587,26 @@
    "first_seen": "2026-11-13"
   },
   {
+   "source": "Jobicy",
+   "title": "Executive Assistant",
+   "company": "Maven Clinic",
+   "url": "https://jobicy.com/jobs/163216-executive-assistant-4",
+   "location": "USA",
+   "desc": "  Maven Clinic  is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility ",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -2,
+   "salary_hint": true,
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19"
+  },
+  {
    "source": "WeWorkRemotely",
    "title": "Offshore Virtual Executive Assistant to the CEO",
    "company": "Collective Residential",
@@ -603,84 +647,44 @@
    "first_seen": "2026-11-14"
   },
   {
-   "source": "WeWorkRemotely",
-   "title": "Virtual Assistant-Full time",
-   "company": "DLN Consulting Group",
-   "url": "https://weworkremotely.com/remote-jobs/dln-consulting-group-virtual-assistant-full-time",
-   "location": "USA Only",
-   "desc": "\n\n \n   Headquarters:  Charlotte, North Carolina, United States\n      URL:   https://jobs.workable.com/company/7L2FzU15AMzMKn9txgLfbp/jobs-at-dln-consulting-group \n \n\nVirtual Assistant DLN Consulting Group \u00b7 About DLN Consulting Group DLN Consulting Group is a healthcare operations, technology, data,",
+   "source": "Arbeitnow",
+   "title": "Finance Operations Manager (m/w/d)",
+   "company": "Start To Finish Consulting GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/finance-operations-manager-berlin-175833",
+   "location": "Remote Berlin",
+   "desc": "  Wir sind Start to Finish.   Kein Startup kann wachsen ohne das richtige Team. Aus diesem Grund unterst\u00fctzen wir aufstrebende Startups und Growth Companies wie Snocks, SellerX, Formary, Schema M und viele weitere dabei, ihre Schl\u00fcsselpositionen mit den richtigen Talenten zu besetzen.  Mit \u00fcber 100 ",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: USA Only"
+    "Location lists only: Remote Berlin"
    ],
    "conflict": false,
    "open": false,
    "also_on": [],
    "score": -3,
    "salary_hint": false,
-   "posted": "2026-11-17",
-   "first_seen": "2026-11-18"
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19"
   },
   {
-   "source": "Jobicy",
-   "title": "Senior Project Manager",
-   "company": "Welo Global",
-   "url": "https://jobicy.com/jobs/163046-senior-project-manager",
-   "location": "Argentina,  Mexico",
-   "desc": "  About Welocalize   \n Welocalize, a  Welo Global  brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enab",
+   "source": "Arbeitnow",
+   "title": "(Senior) Operations Manager in Remote E-Commerce Agentur (m/w/d) \u00b7 Remote",
+   "company": "Evolve Digital GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-operations-manager-in-remote-e-commerce-agentur-remote-237655",
+   "location": "Remote Homeoffice",
+   "desc": "        Das ist dein Job bei uns      Du m\u00f6chtest die operativen Systeme einer wachsenden Agentur verantworten und Prozesse bauen, die auch ohne dich funktionieren?    Operations ist bei EVOLVE der Hebel, der das ganze Team schneller macht. Deine Aufgabe ist es, daf\u00fcr zu sorgen, dass Ziele, Prozesse",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: Argentina,  Mexico"
+    "Location lists only: Remote Homeoffice"
    ],
    "conflict": false,
    "open": false,
    "also_on": [],
    "score": -3,
    "salary_hint": false,
-   "posted": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "source": "WeWorkRemotely",
-   "title": "Service Delivery and Operations Manager - Dayshift Remote",
-   "company": "D2B",
-   "url": "https://weworkremotely.com/remote-jobs/d2b-service-delivery-and-operations-manager-dayshift-remote",
-   "location": "Asia Only",
-   "desc": "\n\n \n   Headquarters:  Manila, Metro Manila, Philippines\n      URL:   https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b \n \n\n   Position: Service Delivery and Operations Manager  Salary: Php 80,000 to Php 100,000/month  Working Hours   Conditions: AU Working Hours and Holidays  Empl",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: Asia Only"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-15",
-   "first_seen": "2026-11-16"
-  },
-  {
-   "source": "WeWorkRemotely",
-   "title": "Virtual Assistant",
-   "company": "DLN Consulting Group",
-   "url": "https://weworkremotely.com/remote-jobs/dln-consulting-group-virtual-assistant",
-   "location": "USA Only",
-   "desc": "\n\n \n   Headquarters:  Charlotte, North Carolina, United States\n      URL:   https://jobs.workable.com/company/7L2FzU15AMzMKn9txgLfbp/jobs-at-dln-consulting-group \n \n\nVirtual Assistant DLN Consulting Group \u00b7 About DLN Consulting Group DLN Consulting Group is a healthcare operations, technology, data,",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: USA Only"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-15",
-   "first_seen": "2026-11-16"
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19"
   },
   {
    "source": "Jobicy",
@@ -805,26 +809,6 @@
    "first_seen": "2026-11-14"
   },
   {
-   "source": "WeWorkRemotely",
-   "title": "E-commerce & Operations Coordinator (Pharma/Supplements) - NZ",
-   "company": "D2B",
-   "url": "https://weworkremotely.com/remote-jobs/d2b-e-commerce-operations-coordinator-pharma-supplements-nz",
-   "location": "Asia Only",
-   "desc": "\n\n \n   Headquarters:  Manila, Metro Manila, Philippines\n      URL:   https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b \n \n\nAbout the Company The client is a New Zealand-based wellness brand specialising in nutritional supplements and wellness products. The company is committed to ",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: Asia Only"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-11",
-   "first_seen": "2026-11-12"
-  },
-  {
    "source": "HackerNews",
    "title": "Senior Technical Project Manager (Full Stack)",
    "company": "RAIDS AI",
@@ -843,67 +827,6 @@
    "salary_hint": false,
    "posted": "2026-11-11",
    "first_seen": "2026-11-14"
-  },
-  {
-   "source": "WeWorkRemotely",
-   "title": "Project Manager - Creative - US Remote",
-   "company": "DEPT\u00ae",
-   "url": "https://weworkremotely.com/remote-jobs/dept-project-manager-creative-us-remote",
-   "location": "USA Only",
-   "desc": "\n\n \n   Headquarters:  United States\n      URL:   http://www.deptagency.com \n \n\n  WHY DEPT\u00ae?  \n We are a Growth Invention company built to help the world\u2019s most ambitious brands grow faster. Operating at the intersection of technology and marketing, we create what is next by pioneering ideas, acting ",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: USA Only",
-    "Title suggests a region: Project Manager - Creative - US Remote"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-08",
-   "first_seen": "2026-11-14"
-  },
-  {
-   "source": "WeWorkRemotely",
-   "title": "Executive Assistant, Office of the CFO",
-   "company": "GitLab",
-   "url": "https://weworkremotely.com/remote-jobs/gitlab-executive-assistant-office-of-the-cfo",
-   "location": "USA Only",
-   "desc": "\n\n \n   Headquarters:  United States\n      URL:   https://about.gitlab.com \n \n\n  GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: USA Only"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-07",
-   "first_seen": "2026-11-14"
-  },
-  {
-   "source": "WeWorkRemotely",
-   "title": "MEDICAL VIRTUAL ASSISTANT",
-   "company": "Vital Virtuals Global HR Solutions LLC",
-   "url": "https://weworkremotely.com/remote-jobs/vital-virtuals-global-hr-solutions-llc-medical-virtual-assistant",
-   "location": "Latin America Only",
-   "desc": "\n\n \n   Headquarters:  Buenos Aires, Argentina\n      URL:   https://vitalvirtuals.com \n \n\n   NOW HIRING: MEDICAL VIRTUAL ASSISTANT!   \n  Vital Virtuals Global HR  is looking for a reliable and motivated  Medical VA  to join our team! \n  Responsibilities \n  Answer calls and assist patients  Verify ins",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: Latin America Only"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-06",
-   "first_seen": "2026-11-11"
   }
  ]
 }
