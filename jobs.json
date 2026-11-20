@@ -1,29 +1,29 @@
 {
  "schema": 1,
- "updated": "2026-11-19T14:48:58.181562+00:00",
+ "updated": "2026-11-20T14:29:33.154905+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
    "status": "ok",
-   "raw": 96,
+   "raw": 90,
    "errors": [],
    "invalid": 0
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 23,
+   "raw": 29,
    "errors": [],
    "invalid": 0
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 346,
+   "raw": 348,
    "errors": [],
    "invalid": 0
   },
   "Greenhouse": {
    "status": "ok",
-   "raw": 715,
+   "raw": 706,
    "errors": [],
    "invalid": 0
   },
@@ -35,7 +35,7 @@
   },
   "Ashby": {
    "status": "ok",
-   "raw": 298,
+   "raw": 297,
    "errors": [],
    "invalid": 0
   },
@@ -50,22 +50,20 @@
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 162,
+   "raw": 185,
    "errors": [],
    "invalid": 0
   },
   "Himalayas": {
    "status": "ok",
-   "raw": 38,
+   "raw": 37,
    "errors": [],
    "invalid": 0
   },
   "Jobicy": {
-   "status": "partial",
-   "raw": 125,
-   "errors": [
-    "429"
-   ],
+   "status": "ok",
+   "raw": 153,
+   "errors": [],
    "invalid": 0
   },
   "Workable": {
@@ -76,7 +74,7 @@
   },
   "WorkingNomads": {
    "status": "ok",
-   "raw": 37,
+   "raw": 36,
    "errors": [],
    "invalid": 0
   },
@@ -118,8 +116,8 @@
   }
  },
  "stats": {
-  "raw": 2279,
-  "kept": 35
+  "raw": 2320,
+  "kept": 38
  },
  "jobs": [
   {
@@ -161,6 +159,27 @@
    "salary_hint": true,
    "posted": "2026-11-02",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "Ashby",
+   "title": "Millwork Project Manager (INNERGY ERP)",
+   "company": "Scale%20Army%20Careers",
+   "url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/6b838a5c-a529-4c36-91ff-4f5a0ce19f02",
+   "location": "Remote Egypt",
+   "desc": "This role is open to candidates based in LATAM, Africa, and Eastern Europe. Please note that as this role supports U.S.-based clients, candidates must be available to work during U.S. business hours aligned with the client\u2019s time zone.\n\n\u00a0\n\nOur client is a custom commercial millwork company specializ",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: This role is open to candidates based in LATAM, Africa, and Eastern Europe. Ple",
+    "Location lists only: Remote Egypt"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-20"
   },
   {
    "source": "Ashby",
@@ -310,6 +329,47 @@
    "first_seen": "2026-11-13"
   },
   {
+   "source": "WeWorkRemotely",
+   "title": "Contract Operations Associate",
+   "company": "Elation Health",
+   "url": "https://weworkremotely.com/remote-jobs/elation-health-contract-operations-associate",
+   "location": "Anywhere in the World",
+   "desc": "\n\n \n   Headquarters:  US - Remote\n \n\n Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we've been focused on building a world-class technology solution that creates an experience of delight and ease for p",
+   "direct": false,
+   "eligibility": "verify",
+   "evidence": [
+    "Location: Anywhere in the World",
+    "Sources disagree about eligibility"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [
+    "Jobicy"
+   ],
+   "score": 0,
+   "salary_hint": false,
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-20"
+  },
+  {
+   "source": "Himalayas",
+   "title": "Senior Executive Assistant",
+   "company": "International Youth Federation",
+   "url": "https://himalayas.app/companies/international-youth-federation/jobs/senior-executive-assistant?utm_source=api",
+   "location": "",
+   "desc": " Position title: Senior Executive Assistant to Secretary-General  Location: Worldwide  Category: FTA International  Level: S5  Duration: 4 Years  Supervisor/Report to: Secretary-General  Job type: volunteer Service (VS) Part-Time  Deadline:  30 April 2022   The  International Youth Federation  is an",
+   "direct": false,
+   "eligibility": "verify",
+   "evidence": [],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": 0,
+   "salary_hint": false,
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-20"
+  },
+  {
    "source": "Himalayas",
    "title": "Program Coordinator, AI Initiative",
    "company": "Pulitzer Center",
@@ -324,8 +384,26 @@
    "also_on": [],
    "score": 0,
    "salary_hint": false,
-   "posted": "2026-11-05",
+   "posted": "2026-11-19",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "RemoteOK",
+   "title": "Project Manager",
+   "company": "Syner-G",
+   "url": "https://remoteOK.com/remote-jobs/remote-project-manager-syner-g-1137806",
+   "location": "Remote",
+   "desc": "COMPANY DESCRIPTION:\nA career here is life-enhancing.\nAt Syner-G, we enable our people to build careers that impact positively on their quality of life. Through our expertise, insight, consulting and management skills, we accelerate breakthrough science and delivery of life-enhancing therapies to mo",
+   "direct": false,
+   "eligibility": "verify",
+   "evidence": [],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": 0,
+   "salary_hint": false,
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-20"
   },
   {
    "source": "RemoteOK",
@@ -385,6 +463,26 @@
    "salary_hint": false,
    "posted": "2026-11-19",
    "first_seen": "2026-11-19"
+  },
+  {
+   "source": "Greenhouse",
+   "title": "Executive Assistant, Product and Marketing",
+   "company": "gitlab",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8948559002",
+   "location": "Remote, Canada; Remote, United States",
+   "desc": " div class= content-intro   p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered u",
+   "direct": true,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Remote, Canada; Remote, United States"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -1,
+   "salary_hint": false,
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-20"
   },
   {
    "source": "Greenhouse",
@@ -647,44 +745,44 @@
    "first_seen": "2026-11-14"
   },
   {
-   "source": "Arbeitnow",
-   "title": "Finance Operations Manager (m/w/d)",
-   "company": "Start To Finish Consulting GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/finance-operations-manager-berlin-175833",
-   "location": "Remote Berlin",
-   "desc": "  Wir sind Start to Finish.   Kein Startup kann wachsen ohne das richtige Team. Aus diesem Grund unterst\u00fctzen wir aufstrebende Startups und Growth Companies wie Snocks, SellerX, Formary, Schema M und viele weitere dabei, ihre Schl\u00fcsselpositionen mit den richtigen Talenten zu besetzen.  Mit \u00fcber 100 ",
+   "source": "Jobicy",
+   "title": "The Flex Algeria: Chief of Staff",
+   "company": "The Flex",
+   "url": "https://jobicy.com/jobs/163446-the-flex-algeria-chief-of-staff",
+   "location": "France",
+   "desc": "  Run the founder's office. French salary, Algerian life.  \n  Meet the founder:   watch this 60-second video  \n About  The Flex  \n Our mission: make renting an apartment as easy as buying something on Amazon. \n Renting a place to stay is still slow, stressful and full of surprises. We're fixing that",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: Remote Berlin"
+    "Location lists only: France"
    ],
    "conflict": false,
    "open": false,
    "also_on": [],
    "score": -3,
    "salary_hint": false,
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-19"
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-20"
   },
   {
-   "source": "Arbeitnow",
-   "title": "(Senior) Operations Manager in Remote E-Commerce Agentur (m/w/d) \u00b7 Remote",
-   "company": "Evolve Digital GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-operations-manager-in-remote-e-commerce-agentur-remote-237655",
-   "location": "Remote Homeoffice",
-   "desc": "        Das ist dein Job bei uns      Du m\u00f6chtest die operativen Systeme einer wachsenden Agentur verantworten und Prozesse bauen, die auch ohne dich funktionieren?    Operations ist bei EVOLVE der Hebel, der das ganze Team schneller macht. Deine Aufgabe ist es, daf\u00fcr zu sorgen, dass Ziele, Prozesse",
+   "source": "Jobicy",
+   "title": "Senior Deal Desk Operations Manager",
+   "company": "Keyfactor, Inc.",
+   "url": "https://jobicy.com/jobs/163434-senior-deal-desk-operations-manager",
+   "location": "USA",
+   "desc": "  About Keyfactor   \n Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: Remote Homeoffice"
+    "Location lists only: USA"
    ],
    "conflict": false,
    "open": false,
    "also_on": [],
    "score": -3,
    "salary_hint": false,
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-19"
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-20"
   },
   {
    "source": "Jobicy",
@@ -706,46 +804,6 @@
    "salary_hint": false,
    "posted": "2026-11-15",
    "first_seen": "2026-11-16"
-  },
-  {
-   "source": "Jobicy",
-   "title": "Contract Operations Associate",
-   "company": "Elation Health",
-   "url": "https://jobicy.com/jobs/162187-contract-operations-associate",
-   "location": "USA",
-   "desc": " Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we've been focused on building a world-class technology solution that creates an experience of delight and ease for physicians, and that our users love. \n",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: USA"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-14",
-   "first_seen": "2026-11-15"
-  },
-  {
-   "source": "WeWorkRemotely",
-   "title": "Senior Executive Assistant to the Executive Team",
-   "company": "Interos",
-   "url": "https://weworkremotely.com/remote-jobs/interos-senior-executive-assistant-to-the-executive-team",
-   "location": "USA Only",
-   "desc": "\n\n \n   Headquarters:  \n      URL:   https://interos.ai \n \n\n \n \n \n \n     Senior Executive Assistant to the Executive Team     \n \n\n \n     About interos.ai     \n \n\n \n     interos.ai is the operational resilience company reinventing how organizations manage their supply chains and business relationships",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: USA Only"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-13",
-   "first_seen": "2026-11-14"
   },
   {
    "source": "Jobicy",
