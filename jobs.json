@@ -1,41 +1,41 @@
 {
  "schema": 1,
- "updated": "2026-11-20T14:29:33.154905+00:00",
+ "updated": "2026-11-21T13:48:41.336739+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
    "status": "ok",
-   "raw": 90,
+   "raw": 96,
    "errors": [],
    "invalid": 0
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 29,
+   "raw": 13,
    "errors": [],
    "invalid": 0
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 348,
+   "raw": 347,
    "errors": [],
    "invalid": 0
   },
   "Greenhouse": {
    "status": "ok",
-   "raw": 706,
+   "raw": 709,
    "errors": [],
    "invalid": 0
   },
   "Lever": {
    "status": "ok",
-   "raw": 38,
+   "raw": 40,
    "errors": [],
    "invalid": 0
   },
   "Ashby": {
    "status": "ok",
-   "raw": 297,
+   "raw": 295,
    "errors": [],
    "invalid": 0
   },
@@ -50,31 +50,33 @@
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 185,
+   "raw": 205,
    "errors": [],
    "invalid": 0
   },
   "Himalayas": {
    "status": "ok",
-   "raw": 37,
+   "raw": 33,
    "errors": [],
    "invalid": 0
   },
   "Jobicy": {
-   "status": "ok",
-   "raw": 153,
-   "errors": [],
+   "status": "partial",
+   "raw": 80,
+   "errors": [
+    "429"
+   ],
    "invalid": 0
   },
   "Workable": {
    "status": "ok",
-   "raw": 398,
+   "raw": 410,
    "errors": [],
    "invalid": 0
   },
   "WorkingNomads": {
    "status": "ok",
-   "raw": 36,
+   "raw": 35,
    "errors": [],
    "invalid": 0
   },
@@ -116,7 +118,7 @@
   }
  },
  "stats": {
-  "raw": 2320,
+  "raw": 2266,
   "kept": 38
  },
  "jobs": [
@@ -182,6 +184,26 @@
    "first_seen": "2026-11-20"
   },
   {
+   "source": "WeWorkRemotely",
+   "title": "Contract Operations Associate",
+   "company": "Elation Health",
+   "url": "https://weworkremotely.com/remote-jobs/elation-health-contract-operations-associate",
+   "location": "Anywhere in the World",
+   "desc": "\n\n \n   Headquarters:  US - Remote\n \n\n Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we've been focused on building a world-class technology solution that creates an experience of delight and ease for p",
+   "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Anywhere in the World"
+   ],
+   "conflict": false,
+   "open": true,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-20"
+  },
+  {
    "source": "Ashby",
    "title": "Admin Assistant",
    "company": "Scale%20Army%20Careers",
@@ -204,7 +226,7 @@
   },
   {
    "source": "Ashby",
-   "title": "Project Manager (Production & Operations)",
+   "title": "Production & Operations Manager",
    "company": "Scale%20Army%20Careers",
    "url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/783d5645-fece-4182-93c2-4441112d014b",
    "location": "Remote Argentina",
@@ -329,27 +351,22 @@
    "first_seen": "2026-11-13"
   },
   {
-   "source": "WeWorkRemotely",
-   "title": "Contract Operations Associate",
-   "company": "Elation Health",
-   "url": "https://weworkremotely.com/remote-jobs/elation-health-contract-operations-associate",
-   "location": "Anywhere in the World",
-   "desc": "\n\n \n   Headquarters:  US - Remote\n \n\n Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we've been focused on building a world-class technology solution that creates an experience of delight and ease for p",
+   "source": "Himalayas",
+   "title": "Investment fund Operations Coordinator",
+   "company": "Kinship Ventures",
+   "url": "https://himalayas.app/companies/kinship-ventures/jobs/investment-fund-operations-coordinator?utm_source=api",
+   "location": "",
+   "desc": " Full-time \u00b7 Contractor \u00b7 Remote \u00b7 Monthly salary: $4,000 to $5,500 USD Worldwide, with partial overlap with Pacific Time required  About the role  You coordinate fund operations in the back office of  Kinship Ventures , engaged through Trolley. You own the records behind every investor, deal and re",
    "direct": false,
    "eligibility": "verify",
-   "evidence": [
-    "Location: Anywhere in the World",
-    "Sources disagree about eligibility"
-   ],
-   "conflict": true,
+   "evidence": [],
+   "conflict": false,
    "open": false,
-   "also_on": [
-    "Jobicy"
-   ],
+   "also_on": [],
    "score": 0,
    "salary_hint": false,
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-20"
+   "posted": "2026-11-21",
+   "first_seen": "2026-11-21"
   },
   {
    "source": "Himalayas",
@@ -406,43 +423,24 @@
    "first_seen": "2026-11-20"
   },
   {
-   "source": "RemoteOK",
-   "title": "Partner Operations Manager",
-   "company": "Mecka",
-   "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-   "location": "Remote",
-   "desc": " About Mecka AI  Mecka AI is building the data infrastructure layer for robotics and embodied AI. We design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics companies to train and validate humanoid and embodied AI systems",
-   "direct": false,
-   "eligibility": "verify",
-   "evidence": [],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": 0,
-   "salary_hint": false,
-   "posted": "2026-11-01",
-   "first_seen": "2026-11-10"
-  },
-  {
    "source": "Greenhouse",
-   "title": "Senior Brokerage Operations Associate (Canada)",
-   "company": "alpaca",
-   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6231544004",
-   "location": "Remote - Canada, Remote - India",
-   "desc": " div class= content-intro   p  strong Who We Are: /strong  /p \n p  strong Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure nbsp; /strong for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. br  br Amongst our subsidiaries, Alpaca is a licensed f",
+   "title": "Senior Solutions Architect Operations Manager",
+   "company": "gitlab",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8957097002",
+   "location": "Remote, Canada",
+   "desc": " div class= content-intro   p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered u",
    "direct": true,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: Remote - Canada, Remote - India",
-    "Title suggests a region: Senior Brokerage Operations Associate (Canada)"
+    "Location lists only: Remote, Canada"
    ],
    "conflict": false,
    "open": false,
    "also_on": [],
-   "score": 0,
-   "salary_hint": true,
-   "posted": "2026-10-22",
-   "first_seen": "2026-11-12"
+   "score": -1,
+   "salary_hint": false,
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-21"
   },
   {
    "source": "Greenhouse",
@@ -645,46 +643,6 @@
    "first_seen": "2026-11-13"
   },
   {
-   "source": "Lever",
-   "title": "Remote Studio & Administrative Assistant",
-   "company": "assist-world",
-   "url": "https://jobs.lever.co/assist-world/86540788-f674-4a6b-b846-a56e1e83482c",
-   "location": "Philippines",
-   "desc": "",
-   "direct": true,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: Philippines"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -1,
-   "salary_hint": false,
-   "posted": "2026-10-21",
-   "first_seen": "2026-11-13"
-  },
-  {
-   "source": "Lever",
-   "title": "Virtual Executive Assistant",
-   "company": "assist-world",
-   "url": "https://jobs.lever.co/assist-world/0c64c343-d127-4494-ac1e-91951a18bd42",
-   "location": "Philippines",
-   "desc": "",
-   "direct": true,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: Philippines"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -1,
-   "salary_hint": false,
-   "posted": "2026-10-21",
-   "first_seen": "2026-11-13"
-  },
-  {
    "source": "Jobicy",
    "title": "Executive Assistant",
    "company": "Maven Clinic",
@@ -746,6 +704,88 @@
   },
   {
    "source": "Jobicy",
+   "title": "Localisation Project Manager",
+   "company": "Smartling",
+   "url": "https://jobicy.com/jobs/156175-localisation-project-manager",
+   "location": "Ireland,  UK",
+   "desc": "  Overview  \r\n Smartling is an AI-native translation platform that's redefining how the world's biggest brands go global \u2014 ranked  #3 on Fast Company's Most Innovative Companies list . We're growing rapidly at scale and are backed by Battery Ventures, a global technology-focused investment firm. Whi",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Ireland,  UK"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-21",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "source": "RemoteOK",
+   "title": "Data Strategy Operations Manager",
+   "company": "Abnormal",
+   "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
+   "location": "US Only",
+   "desc": " About the Role \n As the Data Strategy and Operations Manager at Abnormal AI, you will own our go-to-market data quality strategy and serve as the steward of data across Salesforce and the systems around it. You will design the processes, controls, and intelligent workflows that keep data accurate, ",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: US Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Part-Time HUBZone Business Operations & Support Specialist",
+   "company": "Global Dimensions, LLC",
+   "url": "https://weworkremotely.com/remote-jobs/global-dimensions-llc-part-time-hubzone-business-operations-support-specialist",
+   "location": "USA Only",
+   "desc": " \n\n \n   Headquarters:  Houston, Texas, United States\n      URL:   http://www.globaldllc.com \n \n\n  Location:  Remote \u2013 United States (Must reside in an SBA-designated HUBZone) \n  Schedule:  Part-Time | 10 Hours per Week | Flexible Monday\u2013Friday \n  Employment Type:  Part-Time W-2 Employee \n  Anticipat",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Description: United States (Must reside in an SBA-designated HUBZone) Schedule: Part-Time",
+    "Location lists only: USA Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "source": "Jobicy",
+   "title": "GPU Compute Partnerships & Commercial Operations Manager",
+   "company": "Nebius",
+   "url": "https://jobicy.com/jobs/163605-gpu-compute-partnerships-commercial-operations-manager",
+   "location": "USA",
+   "desc": "  About  Nebius :  \n Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Description: \u2019re welcome to work remotely from the United States . Your responsibiliti",
+    "Location lists only: USA"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "source": "Jobicy",
    "title": "The Flex Algeria: Chief of Staff",
    "company": "The Flex",
    "url": "https://jobicy.com/jobs/163446-the-flex-algeria-chief-of-staff",
@@ -755,26 +795,6 @@
    "eligibility": "excluded",
    "evidence": [
     "Location lists only: France"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-20",
-   "first_seen": "2026-11-20"
-  },
-  {
-   "source": "Jobicy",
-   "title": "Senior Deal Desk Operations Manager",
-   "company": "Keyfactor, Inc.",
-   "url": "https://jobicy.com/jobs/163434-senior-deal-desk-operations-manager",
-   "location": "USA",
-   "desc": "  About Keyfactor   \n Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: USA"
    ],
    "conflict": false,
    "open": false,
@@ -804,26 +824,6 @@
    "salary_hint": false,
    "posted": "2026-11-15",
    "first_seen": "2026-11-16"
-  },
-  {
-   "source": "Jobicy",
-   "title": "Hardware Deployment Project Manager",
-   "company": "Gather AI",
-   "url": "https://jobicy.com/jobs/162047-hardware-deployment-project-manager",
-   "location": "USA",
-   "desc": "  About  Gather AI   Are you ready to build the future of supply chain? At Gather AI, we\u2019re not just creating software; we\u2019re pioneering a new era of warehouse intelligence. We\u2019ve developed a groundbreaking, vision-powered platform that uses autonomous drones and existing equipment to capture real-t",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: USA"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-13",
-   "first_seen": "2026-11-14"
   },
   {
    "source": "WeWorkRemotely",
