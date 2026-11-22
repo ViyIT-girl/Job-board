@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-21T13:48:41.336739+00:00",
+ "updated": "2026-11-22T13:42:13.352906+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
@@ -11,19 +11,19 @@
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 13,
+   "raw": 22,
    "errors": [],
    "invalid": 0
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 347,
+   "raw": 345,
    "errors": [],
    "invalid": 0
   },
   "Greenhouse": {
    "status": "ok",
-   "raw": 709,
+   "raw": 710,
    "errors": [],
    "invalid": 0
   },
@@ -50,19 +50,19 @@
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 205,
+   "raw": 258,
    "errors": [],
    "invalid": 0
   },
   "Himalayas": {
    "status": "ok",
-   "raw": 33,
+   "raw": 34,
    "errors": [],
    "invalid": 0
   },
   "Jobicy": {
    "status": "partial",
-   "raw": 80,
+   "raw": 123,
    "errors": [
     "429"
    ],
@@ -118,8 +118,8 @@
   }
  },
  "stats": {
-  "raw": 2266,
-  "kept": 38
+  "raw": 2371,
+  "kept": 39
  },
  "jobs": [
   {
@@ -161,6 +161,26 @@
    "salary_hint": true,
    "posted": "2026-11-02",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Chief of Staff, CTO",
+   "company": "Coinbase",
+   "url": "https://weworkremotely.com/remote-jobs/coinbase-chief-of-staff-cto",
+   "location": "Anywhere in the World",
+   "desc": "\n\n \n   Headquarters:  Remote - USA\n \n\n  Ready to do the most impactful work of your career? At  Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be p",
+   "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Anywhere in the World"
+   ],
+   "conflict": false,
+   "open": true,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-21",
+   "first_seen": "2026-11-22"
   },
   {
    "source": "Ashby",
@@ -349,6 +369,24 @@
    "salary_hint": false,
    "posted": "2026-10-26",
    "first_seen": "2026-11-13"
+  },
+  {
+   "source": "Arbeitnow",
+   "title": "Project Manager EMEA, Production",
+   "company": "LILT (Production)",
+   "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-project-manager-emea-production-366622",
+   "location": "Remote Remote",
+   "desc": "  RESPONSIBILITIES :    Orchestrate complex workflows including translation, QA, DTP, multimedia, and linguistic sign-off for LILT\u2019s largest enterprise customers.    Engage directly with customers to clarify project requirements, ensure all assets are received, and provide accurate status updates an",
+   "direct": false,
+   "eligibility": "verify",
+   "evidence": [],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": 0,
+   "salary_hint": false,
+   "posted": "2026-11-22",
+   "first_seen": "2026-11-22"
   },
   {
    "source": "Himalayas",
@@ -623,24 +661,24 @@
    "first_seen": "2026-11-13"
   },
   {
-   "source": "Greenhouse",
-   "title": "Senior Ecosystem Operations Manager",
-   "company": "gitlab",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907680002",
-   "location": "Remote, Canada; Remote, United States",
-   "desc": " div class= content-intro   p GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered u",
-   "direct": true,
+   "source": "WeWorkRemotely",
+   "title": "Operations Manager, Community",
+   "company": "Taste Labs",
+   "url": "https://weworkremotely.com/remote-jobs/taste-labs-operations-manager-community",
+   "location": "USA Only",
+   "desc": " \n\n \n   Headquarters:  United States\n      URL:   https://tastelabs.com/ \n \n\n  About the company   Taste Labs is building the data and infrastructure layer for taste.  Our goal is to end AI slop. To make AI feel right, not just be correct. We raised $18.5M in seed co-led by Amplify and CRV, and most",
+   "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: Remote, Canada; Remote, United States"
+    "Location lists only: USA Only"
    ],
    "conflict": false,
    "open": false,
    "also_on": [],
-   "score": -1,
-   "salary_hint": false,
-   "posted": "2026-10-22",
-   "first_seen": "2026-11-13"
+   "score": -2,
+   "salary_hint": true,
+   "posted": "2026-11-21",
+   "first_seen": "2026-11-22"
   },
   {
    "source": "Jobicy",
@@ -703,24 +741,44 @@
    "first_seen": "2026-11-14"
   },
   {
-   "source": "Jobicy",
-   "title": "Localisation Project Manager",
-   "company": "Smartling",
-   "url": "https://jobicy.com/jobs/156175-localisation-project-manager",
-   "location": "Ireland,  UK",
-   "desc": "  Overview  \r\n Smartling is an AI-native translation platform that's redefining how the world's biggest brands go global \u2014 ranked  #3 on Fast Company's Most Innovative Companies list . We're growing rapidly at scale and are backed by Battery Ventures, a global technology-focused investment firm. Whi",
+   "source": "Arbeitnow",
+   "title": "Founder's Associate / Business Operations (m/w/d) \u2013 100% Remote weltweit",
+   "company": "Peters und Partner",
+   "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916",
+   "location": "Remote Reichartshausen",
+   "desc": "  Remote von \u00fcberall auf der Welt, direkt an der Seite von zwei Gr\u00fcndern, die schon \u00fcber 20 Firmen aufgebaut haben.  \n \u00dcber uns \n Wir bauen Firmen um Menschen herum, die eine gute Idee haben und sie selbst vorantreiben wollen. Unsere beiden Gr\u00fcnder sind Venture-Architekten: Sie bringen Kapital, Vert",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: Ireland,  UK"
+    "Location lists only: Remote Reichartshausen"
    ],
    "conflict": false,
    "open": false,
    "also_on": [],
    "score": -3,
    "salary_hint": false,
-   "posted": "2026-11-21",
-   "first_seen": "2026-11-21"
+   "posted": "2026-11-22",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "source": "Arbeitnow",
+   "title": "Assistenz der Gesch\u00e4ftsf\u00fchrung / Founder's Associate (m/w/d) \u2013 100% Remote weltweit",
+   "company": "Peters und Partner",
+   "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/assistenz-der-geschaftsfuhrung-founders-associate-100-remote-weltweit-reichartshausen-222984",
+   "location": "Remote Reichartshausen",
+   "desc": "  Remote von \u00fcberall auf der Welt, direkt an der Seite von zwei Gr\u00fcndern, die schon \u00fcber 20 Firmen aufgebaut haben.  \n \u00dcber uns \n Wir bauen Firmen um Menschen herum, die eine gute Idee haben und sie selbst vorantreiben wollen. Unsere beiden Gr\u00fcnder sind Venture-Architekten: Sie bringen Kapital, Vert",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Remote Reichartshausen"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-22",
+   "first_seen": "2026-11-22"
   },
   {
    "source": "RemoteOK",
@@ -765,27 +823,6 @@
   },
   {
    "source": "Jobicy",
-   "title": "GPU Compute Partnerships & Commercial Operations Manager",
-   "company": "Nebius",
-   "url": "https://jobicy.com/jobs/163605-gpu-compute-partnerships-commercial-operations-manager",
-   "location": "USA",
-   "desc": "  About  Nebius :  \n Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Description: \u2019re welcome to work remotely from the United States . Your responsibiliti",
-    "Location lists only: USA"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-20",
-   "first_seen": "2026-11-21"
-  },
-  {
-   "source": "Jobicy",
    "title": "The Flex Algeria: Chief of Staff",
    "company": "The Flex",
    "url": "https://jobicy.com/jobs/163446-the-flex-algeria-chief-of-staff",
@@ -803,27 +840,6 @@
    "salary_hint": false,
    "posted": "2026-11-20",
    "first_seen": "2026-11-20"
-  },
-  {
-   "source": "Jobicy",
-   "title": "Executive Assistant to the CEO",
-   "company": "Supabase",
-   "url": "https://jobicy.com/jobs/155393-executive-assistant-to-the-ceo-3",
-   "location": "APAC",
-   "desc": "  About Supabase  \n Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. \n \n  About the Rol",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Description: y. This role must be based in an APJ / APAC timezone to provide strong timezone coverage for o",
-    "Location lists only: APAC"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-15",
-   "first_seen": "2026-11-16"
   },
   {
    "source": "WeWorkRemotely",
