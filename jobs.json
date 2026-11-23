@@ -1,23 +1,23 @@
 {
  "schema": 1,
- "updated": "2026-11-22T13:42:13.352906+00:00",
+ "updated": "2026-11-23T16:40:25.292107+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
    "status": "ok",
-   "raw": 96,
+   "raw": 90,
    "errors": [],
    "invalid": 0
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 22,
+   "raw": 18,
    "errors": [],
    "invalid": 0
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 345,
+   "raw": 180,
    "errors": [],
    "invalid": 0
   },
@@ -29,13 +29,13 @@
   },
   "Lever": {
    "status": "ok",
-   "raw": 40,
+   "raw": 39,
    "errors": [],
    "invalid": 0
   },
   "Ashby": {
    "status": "ok",
-   "raw": 295,
+   "raw": 294,
    "errors": [],
    "invalid": 0
   },
@@ -50,33 +50,31 @@
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 258,
+   "raw": 303,
    "errors": [],
    "invalid": 0
   },
   "Himalayas": {
    "status": "ok",
-   "raw": 34,
+   "raw": 37,
    "errors": [],
    "invalid": 0
   },
   "Jobicy": {
-   "status": "partial",
-   "raw": 123,
-   "errors": [
-    "429"
-   ],
+   "status": "ok",
+   "raw": 51,
+   "errors": [],
    "invalid": 0
   },
   "Workable": {
    "status": "ok",
-   "raw": 410,
+   "raw": 405,
    "errors": [],
    "invalid": 0
   },
   "WorkingNomads": {
    "status": "ok",
-   "raw": 35,
+   "raw": 37,
    "errors": [],
    "invalid": 0
   },
@@ -118,8 +116,8 @@
   }
  },
  "stats": {
-  "raw": 2371,
-  "kept": 39
+  "raw": 2167,
+  "kept": 49
  },
  "jobs": [
   {
@@ -161,6 +159,68 @@
    "salary_hint": true,
    "posted": "2026-11-02",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "Himalayas",
+   "title": "Operations Manager",
+   "company": "Syd Life AI",
+   "url": "https://himalayas.app/companies/syd-life-ai/jobs/operations-manager?utm_source=api",
+   "location": "",
+   "desc": "  About Syd Life AI   We build life quality infrastructure that compounds validated research and action into better living .  Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimens",
+   "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Description: rms Remote , open to candidates anywhere in the world , with work"
+   ],
+   "conflict": false,
+   "open": true,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "source": "Ashby",
+   "title": "AI Operations Coordinator (Marketing)",
+   "company": "Scale%20Army%20Careers",
+   "url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/c7b1a681-4067-42b7-9451-0c1917c73e00",
+   "location": "Remote Egypt",
+   "desc": "This role is open to candidates based in LATAM, Africa, and Eastern Europe. Please note that as this role supports U.S.-based clients, candidates must be available to work during U.S. business hours aligned with the client\u2019s time zone.\n\n\u00a0\n\nOur client operates in a fast-paced marketing environment an",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: This role is open to candidates based in LATAM, Africa, and Eastern Europe. Ple",
+    "Location lists only: Remote Egypt"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-22",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "source": "Ashby",
+   "title": "Estimator / Admin Assistant",
+   "company": "Scale%20Army%20Careers",
+   "url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/79d3a011-df93-44be-a6cd-14a00d012b57",
+   "location": "Remote Egypt",
+   "desc": "This role is open to candidates based in LATAM, Africa, and Eastern Europe. Please note that as this role supports U.S.-based clients, candidates must be available to work during U.S. business hours aligned with the client\u2019s time zone.\n\n\u00a0\n\nOur client is an established paving and concrete contractor ",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: This role is open to candidates based in LATAM, Africa, and Eastern Europe. Ple",
+    "Location lists only: Remote Egypt"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-22",
+   "first_seen": "2026-11-23"
   },
   {
    "source": "WeWorkRemotely",
@@ -371,22 +431,27 @@
    "first_seen": "2026-11-13"
   },
   {
-   "source": "Arbeitnow",
-   "title": "Project Manager EMEA, Production",
-   "company": "LILT (Production)",
-   "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-project-manager-emea-production-366622",
-   "location": "Remote Remote",
-   "desc": "  RESPONSIBILITIES :    Orchestrate complex workflows including translation, QA, DTP, multimedia, and linguistic sign-off for LILT\u2019s largest enterprise customers.    Engage directly with customers to clarify project requirements, ensure all assets are received, and provide accurate status updates an",
+   "source": "WeWorkRemotely",
+   "title": "Executive Assistant",
+   "company": "Maven Clinic",
+   "url": "https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant",
+   "location": "Anywhere in the World",
+   "desc": "\n\n \n   Headquarters:  New York, New York, United States; New York, NY; Remote, US (Hub cities)\n \n\n  Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employ",
    "direct": false,
    "eligibility": "verify",
-   "evidence": [],
-   "conflict": false,
+   "evidence": [
+    "Location: Anywhere in the World",
+    "Sources disagree about eligibility"
+   ],
+   "conflict": true,
    "open": false,
-   "also_on": [],
-   "score": 0,
-   "salary_hint": false,
+   "also_on": [
+    "Jobicy"
+   ],
+   "score": 1,
+   "salary_hint": true,
    "posted": "2026-11-22",
-   "first_seen": "2026-11-22"
+   "first_seen": "2026-11-23"
   },
   {
    "source": "Himalayas",
@@ -441,6 +506,27 @@
    "salary_hint": false,
    "posted": "2026-11-19",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "Jobicy",
+   "title": "Senior Business Operations Analyst | Revenue Assurance",
+   "company": "Wellhub",
+   "url": "https://jobicy.com/jobs/163371-senior-business-operations-analyst-revenue-assurance",
+   "location": "Brazil",
+   "desc": "  Your wellbeing, our mission. Join a company shaping a healthier world.  \n  GET TO KNOW US  \n At  Wellhub  we're revolutionizing workplace wellness. Our platform connects employees worldwide to the best partners for fitness, mindfulness, therapy, nutrition, and sleep\u2014all in one simple subscription.",
+   "direct": false,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: eaning you can work from anywhere within the country. Plea",
+    "Location lists only: Brazil"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [],
+   "score": 0,
+   "salary_hint": false,
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-23"
   },
   {
    "source": "RemoteOK",
@@ -661,6 +747,46 @@
    "first_seen": "2026-11-13"
   },
   {
+   "source": "Jobicy",
+   "title": "Creative Operations Manager",
+   "company": "Toptal",
+   "url": "https://jobicy.com/jobs/156587-creative-operations-manager",
+   "location": "Canada",
+   "desc": " About Toptal \n Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue  and team members based around the globe , Toptal is the  world\u2019s largest fully remote workforce . \n We take the b",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Canada"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -2,
+   "salary_hint": true,
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "source": "Jobicy",
+   "title": "Customer Onboarding Operations Manager",
+   "company": "Dandy",
+   "url": "https://jobicy.com/jobs/163828-customer-onboarding-operations-manager-2",
+   "location": "Mexico",
+   "desc": "  Dandy  is transforming the massive and antiquated dental industry\u2014an industry worth over $400B. Backed by some of the world\u2019s leading venture capital firms, we\u2019re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach glob",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Mexico"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -2,
+   "salary_hint": true,
+   "posted": "2026-11-22",
+   "first_seen": "2026-11-23"
+  },
+  {
    "source": "WeWorkRemotely",
    "title": "Operations Manager, Community",
    "company": "Taste Labs",
@@ -682,23 +808,23 @@
   },
   {
    "source": "Jobicy",
-   "title": "Executive Assistant",
-   "company": "Maven Clinic",
-   "url": "https://jobicy.com/jobs/163216-executive-assistant-4",
-   "location": "USA",
-   "desc": "  Maven Clinic  is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility ",
+   "title": "Corporate & Integration Operations Associate",
+   "company": "3Y Health",
+   "url": "https://jobicy.com/jobs/162988-corporate-integration-operations-associate",
+   "location": "Greece",
+   "desc": "  Remote role based in Athens, covering mostly US East Coast hours (afternoons and evenings in Athens). Independent contractor engagement at $3,500\u2013$4,500 per month (USD), depending on experience. As a contractor, you\u2019ll invoice us monthly and handle your own taxes and social security contributions.",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: USA"
+    "Location lists only: Greece"
    ],
    "conflict": false,
    "open": false,
    "also_on": [],
    "score": -2,
    "salary_hint": true,
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-19"
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-23"
   },
   {
    "source": "WeWorkRemotely",
@@ -741,44 +867,44 @@
    "first_seen": "2026-11-14"
   },
   {
-   "source": "Arbeitnow",
-   "title": "Founder's Associate / Business Operations (m/w/d) \u2013 100% Remote weltweit",
-   "company": "Peters und Partner",
-   "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/founders-associate-business-operations-100-remote-weltweit-reichartshausen-241916",
-   "location": "Remote Reichartshausen",
-   "desc": "  Remote von \u00fcberall auf der Welt, direkt an der Seite von zwei Gr\u00fcndern, die schon \u00fcber 20 Firmen aufgebaut haben.  \n \u00dcber uns \n Wir bauen Firmen um Menschen herum, die eine gute Idee haben und sie selbst vorantreiben wollen. Unsere beiden Gr\u00fcnder sind Venture-Architekten: Sie bringen Kapital, Vert",
+   "source": "Jobicy",
+   "title": "Commercial Credit Operations Manager",
+   "company": "Stripe",
+   "url": "https://jobicy.com/jobs/163668-commercial-credit-operations-manager",
+   "location": "Canada,  USA",
+   "desc": "  Who we are   \n  About  Stripe   \n Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world\u2019s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: Remote Reichartshausen"
+    "Location lists only: Canada,  USA"
    ],
    "conflict": false,
    "open": false,
    "also_on": [],
    "score": -3,
    "salary_hint": false,
-   "posted": "2026-11-22",
-   "first_seen": "2026-11-22"
+   "posted": "2026-11-21",
+   "first_seen": "2026-11-23"
   },
   {
-   "source": "Arbeitnow",
-   "title": "Assistenz der Gesch\u00e4ftsf\u00fchrung / Founder's Associate (m/w/d) \u2013 100% Remote weltweit",
-   "company": "Peters und Partner",
-   "url": "https://www.arbeitnow.com/jobs/companies/peters-und-partner/assistenz-der-geschaftsfuhrung-founders-associate-100-remote-weltweit-reichartshausen-222984",
-   "location": "Remote Reichartshausen",
-   "desc": "  Remote von \u00fcberall auf der Welt, direkt an der Seite von zwei Gr\u00fcndern, die schon \u00fcber 20 Firmen aufgebaut haben.  \n \u00dcber uns \n Wir bauen Firmen um Menschen herum, die eine gute Idee haben und sie selbst vorantreiben wollen. Unsere beiden Gr\u00fcnder sind Venture-Architekten: Sie bringen Kapital, Vert",
+   "source": "Jobicy",
+   "title": "Campaign Strategy & Operations Manager",
+   "company": "Stripe",
+   "url": "https://jobicy.com/jobs/163665-campaign-strategy-operations-manager-2",
+   "location": "USA",
+   "desc": " Who we are \n About  Stripe  \n Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world's largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to incre",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: Remote Reichartshausen"
+    "Location lists only: USA"
    ],
    "conflict": false,
    "open": false,
    "also_on": [],
    "score": -3,
    "salary_hint": false,
-   "posted": "2026-11-22",
-   "first_seen": "2026-11-22"
+   "posted": "2026-11-21",
+   "first_seen": "2026-11-23"
   },
   {
    "source": "RemoteOK",
@@ -823,15 +949,16 @@
   },
   {
    "source": "Jobicy",
-   "title": "The Flex Algeria: Chief of Staff",
-   "company": "The Flex",
-   "url": "https://jobicy.com/jobs/163446-the-flex-algeria-chief-of-staff",
-   "location": "France",
-   "desc": "  Run the founder's office. French salary, Algerian life.  \n  Meet the founder:   watch this 60-second video  \n About  The Flex  \n Our mission: make renting an apartment as easy as buying something on Amazon. \n Renting a place to stay is still slow, stressful and full of surprises. We're fixing that",
+   "title": "GPU Compute Partnerships & Commercial Operations Manager",
+   "company": "Nebius",
+   "url": "https://jobicy.com/jobs/163605-gpu-compute-partnerships-commercial-operations-manager",
+   "location": "USA",
+   "desc": "  About  Nebius :  \n Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: France"
+    "Description: \u2019re welcome to work remotely from the United States . Your responsibiliti",
+    "Location lists only: USA"
    ],
    "conflict": false,
    "open": false,
@@ -839,7 +966,87 @@
    "score": -3,
    "salary_hint": false,
    "posted": "2026-11-20",
-   "first_seen": "2026-11-20"
+   "first_seen": "2026-11-23"
+  },
+  {
+   "source": "Jobicy",
+   "title": "3PL Operations Manager",
+   "company": "Nebius",
+   "url": "https://jobicy.com/jobs/163561-3pl-operations-manager-2",
+   "location": "Europe",
+   "desc": "  About  Nebius :  \n Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Europe"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "source": "Jobicy",
+   "title": "Senior Deal Desk Operations Manager",
+   "company": "Keyfactor, Inc.",
+   "url": "https://jobicy.com/jobs/163434-senior-deal-desk-operations-manager",
+   "location": "USA",
+   "desc": "  About Keyfactor   \n Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "source": "Jobicy",
+   "title": "Business Operations Associate",
+   "company": "CookUnity",
+   "url": "https://jobicy.com/jobs/163190-business-operations-associate",
+   "location": "Argentina",
+   "desc": " About  CookUnity : \n Food has lost its soul to modern convenience. And with it, it has lost the power to nourish, inspire, and connect us. So in 2018, CookUnity was founded as the first-of-its-kind platform that connects the world with the source of truly great food: chefs. Today, CookUnity deliver",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Argentina"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "source": "Jobicy",
+   "title": "Marketplace Operations Manager II",
+   "company": "Wheel",
+   "url": "https://jobicy.com/jobs/153335-marketplace-operations-manager-ii",
+   "location": "USA",
+   "desc": "  Job Title:  Marketplace Operations Manager II  \n  Job Location (Remote):  Remote, USA \n  About the Company  \n Wheel is evolving the traditional care ecosystem by equipping the nation's most innovative companies with a premier platform to deliver high-quality virtual care at scale. We offer proven ",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-23"
   },
   {
    "source": "WeWorkRemotely",
