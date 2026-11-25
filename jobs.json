@@ -1,41 +1,41 @@
 {
  "schema": 1,
- "updated": "2026-11-24T16:36:56.440341+00:00",
+ "updated": "2026-11-25T16:19:42.468325+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
    "status": "ok",
-   "raw": 90,
+   "raw": 96,
    "errors": [],
    "invalid": 0
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 19,
+   "raw": 29,
    "errors": [],
    "invalid": 0
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 180,
+   "raw": 182,
    "errors": [],
    "invalid": 0
   },
   "Greenhouse": {
    "status": "ok",
-   "raw": 718,
+   "raw": 709,
    "errors": [],
    "invalid": 0
   },
   "Lever": {
    "status": "ok",
-   "raw": 39,
+   "raw": 42,
    "errors": [],
    "invalid": 0
   },
   "Ashby": {
    "status": "ok",
-   "raw": 286,
+   "raw": 285,
    "errors": [],
    "invalid": 0
   },
@@ -50,31 +50,31 @@
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 346,
+   "raw": 386,
    "errors": [],
    "invalid": 0
   },
   "Himalayas": {
    "status": "ok",
-   "raw": 37,
+   "raw": 38,
    "errors": [],
    "invalid": 0
   },
   "Jobicy": {
    "status": "ok",
-   "raw": 49,
+   "raw": 51,
    "errors": [],
    "invalid": 0
   },
   "Workable": {
    "status": "ok",
-   "raw": 429,
+   "raw": 436,
    "errors": [],
    "invalid": 0
   },
   "WorkingNomads": {
    "status": "ok",
-   "raw": 37,
+   "raw": 38,
    "errors": [],
    "invalid": 0
   },
@@ -116,8 +116,8 @@
   }
  },
  "stats": {
-  "raw": 2233,
-  "kept": 50
+  "raw": 2295,
+  "kept": 55
  },
  "jobs": [
   {
@@ -179,6 +179,89 @@
    "salary_hint": true,
    "posted": "2026-11-02",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Executive Assistant",
+   "company": "LaunchDarkly",
+   "url": "https://weworkremotely.com/remote-jobs/launchdarkly-executive-assistant",
+   "location": "Anywhere in the World",
+   "desc": "\n\n \n   Headquarters:  Remote - US\n \n\n  About the Job:  \n LaunchDarkly is seeking an Executive Assistant to partner closely with our Chief Revenue Officer and support the broader global Revenue organization as it scales. \n This role will help the CRO stay focused on the highest-priority work by manag",
+   "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Anywhere in the World"
+   ],
+   "conflict": false,
+   "open": true,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "source": "Workable",
+   "title": "Operations Associate",
+   "company": "pearltalent",
+   "url": "https://apply.workable.com/j/2F37FC7478",
+   "location": "Remote",
+   "desc": " Work From Anywhere in LATAM or the Philippines  Work Schedule: US Timezone (Flexible) \u2502 Overlap with US business hours     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Our clients have raised over $5B",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: the top 1% of candidates from around the world and connects them with t",
+    "Description: Work From Anywhere in LATAM or the Philippines Work"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "source": "Ashby",
+   "title": "Virtual Assistant",
+   "company": "Scale%20Army%20Careers",
+   "url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/003e0509-13fe-42cd-9a1f-73e4b46b8ead",
+   "location": "Remote Egypt",
+   "desc": "This role is open to candidates based in LATAM, Africa, and Eastern Europe. Please note that as this role supports U.S.-based clients, candidates must be available to work during U.S. business hours aligned with the client\u2019s time zone.\n\n\u00a0\n\nOur client is seeking administrative and operational support",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: This role is open to candidates based in LATAM, Africa, and Eastern Europe. Ple",
+    "Location lists only: Remote Egypt"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "source": "Workable",
+   "title": "Remote Executive Assistant to the CEO",
+   "company": "pearltalent",
+   "url": "https://apply.workable.com/j/A512621C97",
+   "location": "Remote",
+   "desc": " Work From Anywhere in LATAM or the Philippines  Work Schedule: US Timezone (Flexible) \u2502 Overlap with US business hours, 40\u201350 hours per week    About Pearl Talent  Pearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Our clients ",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: the top 1% of candidates from around the world and connects them with t",
+    "Description: Work From Anywhere in LATAM or the Philippines Work"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-25"
   },
   {
    "source": "Ashby",
@@ -848,6 +931,46 @@
   },
   {
    "source": "Jobicy",
+   "title": "Project Manager (Service Operations)",
+   "company": "Thumbtack",
+   "url": "https://jobicy.com/jobs/156993-project-manager-service-operations",
+   "location": "Philippines",
+   "desc": "  Thumbtack helps millions of people confidently care for their homes.  \n Thumbtack is the one app you need to take care of and improve your home \u2014 from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complet",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Philippines"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "source": "RemoteOK",
+   "title": "Real Estate Executive Assistant 21370",
+   "company": "Wing Assistant",
+   "url": "https://remoteOK.com/remote-jobs/remote-real-estate-executive-assistant-21370-wing-assistant-1138078",
+   "location": "Philippines",
+   "desc": " \n   Please whitelist the domains \"lever.co\" and \"hire.lever.co\" with your email provider to make sure you get our emails.  \n  Disclaimer: This is a generic job description for the position stated below. Actual tasks and tools will be discussed further when you reach the final interview stage. Pleas",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Philippines"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "source": "Jobicy",
    "title": "Customer Experience Operations Manager",
    "company": "MagicSchool AI",
    "url": "https://jobicy.com/jobs/164076-customer-experience-operations-manager",
@@ -1046,26 +1169,6 @@
    "score": -3,
    "salary_hint": false,
    "posted": "2026-11-20",
-   "first_seen": "2026-11-23"
-  },
-  {
-   "source": "Jobicy",
-   "title": "Business Operations Associate",
-   "company": "CookUnity",
-   "url": "https://jobicy.com/jobs/163190-business-operations-associate",
-   "location": "Argentina",
-   "desc": " About  CookUnity : \n Food has lost its soul to modern convenience. And with it, it has lost the power to nourish, inspire, and connect us. So in 2018, CookUnity was founded as the first-of-its-kind platform that connects the world with the source of truly great food: chefs. Today, CookUnity deliver",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: Argentina"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-18",
    "first_seen": "2026-11-23"
   },
   {
