@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-25T16:19:42.468325+00:00",
+ "updated": "2026-11-26T15:55:22.658517+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
@@ -11,31 +11,31 @@
   },
   "Arbeitnow": {
    "status": "ok",
-   "raw": 29,
+   "raw": 24,
    "errors": [],
    "invalid": 0
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 182,
+   "raw": 181,
    "errors": [],
    "invalid": 0
   },
   "Greenhouse": {
    "status": "ok",
-   "raw": 709,
+   "raw": 704,
    "errors": [],
    "invalid": 0
   },
   "Lever": {
    "status": "ok",
-   "raw": 42,
+   "raw": 43,
    "errors": [],
    "invalid": 0
   },
   "Ashby": {
    "status": "ok",
-   "raw": 285,
+   "raw": 282,
    "errors": [],
    "invalid": 0
   },
@@ -50,7 +50,7 @@
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 386,
+   "raw": 431,
    "errors": [],
    "invalid": 0
   },
@@ -62,13 +62,13 @@
   },
   "Jobicy": {
    "status": "ok",
-   "raw": 51,
+   "raw": 49,
    "errors": [],
    "invalid": 0
   },
   "Workable": {
    "status": "ok",
-   "raw": 436,
+   "raw": 443,
    "errors": [],
    "invalid": 0
   },
@@ -116,7 +116,7 @@
   }
  },
  "stats": {
-  "raw": 2295,
+  "raw": 2332,
   "kept": 55
  },
  "jobs": [
@@ -139,6 +139,26 @@
    "salary_hint": true,
    "posted": "2026-11-24",
    "first_seen": "2026-11-24"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Executive Assistant",
+   "company": "Maven Clinic",
+   "url": "https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant",
+   "location": "Anywhere in the World",
+   "desc": "\n\n \n   Headquarters:  New York, New York, United States; New York, NY; Remote, US (Hub cities)\n \n\n  Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employ",
+   "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Anywhere in the World"
+   ],
+   "conflict": false,
+   "open": true,
+   "also_on": [],
+   "score": 3,
+   "salary_hint": true,
+   "posted": "2026-11-22",
+   "first_seen": "2026-11-23"
   },
   {
    "source": "Greenhouse",
@@ -179,6 +199,26 @@
    "salary_hint": true,
    "posted": "2026-11-02",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Project Manager, Financial Benefits",
+   "company": "Justworks",
+   "url": "https://weworkremotely.com/remote-jobs/justworks-project-manager-financial-benefits",
+   "location": "Anywhere in the World",
+   "desc": "\n\n \n   Headquarters:  Remote - U.S.A.\n \n\n   Who We Are  \n  At Justworks, you\u2019ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our mo",
+   "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Anywhere in the World"
+   ],
+   "conflict": false,
+   "open": true,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-26"
   },
   {
    "source": "WeWorkRemotely",
@@ -429,71 +469,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "source": "Workable",
-   "title": "Remote Senior Executive Assistant",
-   "company": "pearltalent",
-   "url": "https://apply.workable.com/j/89DF432D85",
-   "location": "Remote",
-   "desc": " Work From Anywhere in LATAM and Philippines  Work Schedule: EST | Approximately 40 hours per week aligned with US Eastern Time, with flexibility for occasional evening and weekend work     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with th",
-   "direct": true,
-   "eligibility": "verify",
-   "evidence": [
-    "Description: the top 1% of candidates from around the world and connects them with t",
-    "Description: Work From Anywhere in LATAM and Philippines Work Sc"
-   ],
-   "conflict": true,
-   "open": false,
-   "also_on": [],
-   "score": 2,
-   "salary_hint": false,
-   "posted": "2026-10-27",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "source": "Ashby",
-   "title": "Web Project Manager",
-   "company": "Scale%20Army%20Careers",
-   "url": "https://jobs.ashbyhq.com/Scale%20Army%20Careers/ac414845-a654-4b65-8d0b-f12b3e9bd602",
-   "location": "Remote Egypt",
-   "desc": "This role is open to candidates based in LATAM, Africa, and Eastern Europe. Please note that as this role supports U.S.-based clients, candidates must be available to work during U.S. business hours aligned with the client\u2019s time zone.\n\n\u00a0\n\nOur client is a design and development studio specializing i",
-   "direct": true,
-   "eligibility": "verify",
-   "evidence": [
-    "Description: This role is open to candidates based in LATAM, Africa, and Eastern Europe. Ple",
-    "Location lists only: Remote Egypt"
-   ],
-   "conflict": true,
-   "open": false,
-   "also_on": [],
-   "score": 2,
-   "salary_hint": false,
-   "posted": "2026-10-26",
-   "first_seen": "2026-11-13"
-  },
-  {
-   "source": "WeWorkRemotely",
-   "title": "Executive Assistant",
-   "company": "Maven Clinic",
-   "url": "https://weworkremotely.com/remote-jobs/maven-clinic-executive-assistant",
-   "location": "Anywhere in the World",
-   "desc": "\n\n \n   Headquarters:  New York, New York, United States; New York, NY; Remote, US (Hub cities)\n \n\n  Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employ",
-   "direct": false,
-   "eligibility": "verify",
-   "evidence": [
-    "Location: Anywhere in the World",
-    "Sources disagree about eligibility"
-   ],
-   "conflict": true,
-   "open": false,
-   "also_on": [
-    "Jobicy"
-   ],
-   "score": 1,
-   "salary_hint": true,
-   "posted": "2026-11-22",
-   "first_seen": "2026-11-23"
-  },
-  {
    "source": "WeWorkRemotely",
    "title": "Executive Assistant",
    "company": "Mercury",
@@ -569,27 +544,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "source": "Jobicy",
-   "title": "Senior Business Operations Analyst | Revenue Assurance",
-   "company": "Wellhub",
-   "url": "https://jobicy.com/jobs/163371-senior-business-operations-analyst-revenue-assurance",
-   "location": "Brazil",
-   "desc": "  Your wellbeing, our mission. Join a company shaping a healthier world.  \n  GET TO KNOW US  \n At  Wellhub  we're revolutionizing workplace wellness. Our platform connects employees worldwide to the best partners for fitness, mindfulness, therapy, nutrition, and sleep\u2014all in one simple subscription.",
-   "direct": false,
-   "eligibility": "verify",
-   "evidence": [
-    "Description: eaning you can work from anywhere within the country. Plea",
-    "Location lists only: Brazil"
-   ],
-   "conflict": true,
-   "open": false,
-   "also_on": [],
-   "score": 0,
-   "salary_hint": false,
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-23"
-  },
-  {
    "source": "RemoteOK",
    "title": "Project Manager",
    "company": "Syner-G",
@@ -621,7 +575,9 @@
    ],
    "conflict": false,
    "open": false,
-   "also_on": [],
+   "also_on": [
+    "RemoteOK"
+   ],
    "score": -1,
    "salary_hint": false,
    "posted": "2026-11-23",
@@ -850,6 +806,46 @@
    "first_seen": "2026-11-13"
   },
   {
+   "source": "WeWorkRemotely",
+   "title": "Food Operations Manager",
+   "company": "Foodsmart",
+   "url": "https://weworkremotely.com/remote-jobs/foodsmart-food-operations-manager",
+   "location": "USA Only",
+   "desc": " \n\n \n   Headquarters:  Remote (US)\n \n\n \n  About Foodsmart:  Foodsmart is the leading Foodcare platform in the U.S., built to deliver nutrition-driven healthcare at scale. Powered by a national network of Registered Dietitians, Foodsmart combines personalized clinical nutrition care, behavior change ",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -2,
+   "salary_hint": true,
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Business Operations Manager",
+   "company": "Davies",
+   "url": "https://weworkremotely.com/remote-jobs/davies-business-operations-manager",
+   "location": "USA Only",
+   "desc": " \n\n \n   Headquarters:  Home, West Virginia, United States\n      URL:   https://davies-group.com \n \n\n Business Operations Manager   Department:  Forensic Accounting   Employment Type:  Permanent - Full Time   Location:  Home United States   Compensation:  $92,800 - $139,200 / year    Description  MDD",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -2,
+   "salary_hint": true,
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-26"
+  },
+  {
    "source": "Jobicy",
    "title": "Creative Operations Manager",
    "company": "Toptal",
@@ -928,6 +924,46 @@
    "salary_hint": true,
    "posted": "2026-11-06",
    "first_seen": "2026-11-14"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Senior Webflow Project Manager (Contract)",
+   "company": "N4 Studio",
+   "url": "https://weworkremotely.com/remote-jobs/n4-studio-senior-webflow-project-manager-contract",
+   "location": "Canada Only",
+   "desc": " \n\n \n   Headquarters:  Vancouver, British Columbia, Canada\n      URL:   http://www.n4.studio \n \n\n  Role Overview     We\u2019re looking for a  contract   Senior Project Manager  to own the end-to-end delivery of website and digital projects at N4 Studio, from initial scoping through to launch.  You\u2019ll be",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Canada Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Sr. Business Operations Analyst",
+   "company": "Yubico Inc.",
+   "url": "https://weworkremotely.com/remote-jobs/yubico-inc-sr-business-operations-analyst",
+   "location": "USA Only",
+   "desc": "\n\n \n   Headquarters:  US Remote\n \n\n   Meet Yubico  \n Yubico is a global leader in identity security and creator of the YubiKey, the original hardware-backed passkey. We are publicly traded on Nasdaq Stockholm; our global footprint includes headquarters in Stockholm, Sweden, Silicon Valley, Californi",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-26"
   },
   {
    "source": "Jobicy",
@@ -1010,26 +1046,6 @@
    "first_seen": "2026-11-24"
   },
   {
-   "source": "WeWorkRemotely",
-   "title": "Medical Virtual Assistant - Reception & Bookkeeping",
-   "company": "D2B",
-   "url": "https://weworkremotely.com/remote-jobs/d2b-medical-virtual-assistant-reception-bookkeeping",
-   "location": "Asia Only",
-   "desc": "\n\n \n   Headquarters:  Manila, Metro Manila, Philippines\n      URL:   https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b \n \n\n Position: MEDICAL VIRTUAL ASSISTANT \u2013 RECEPTION   BOOKKEEPING  Client Industry: Healthcare \u2013 Medical Aesthetics   Cosmetic Medicine  Salary range: Php 50,000",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: Asia Only"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-23",
-   "first_seen": "2026-11-24"
-  },
-  {
    "source": "Jobicy",
    "title": "Commercial Credit Operations Manager",
    "company": "Stripe",
@@ -1068,26 +1084,6 @@
    "salary_hint": false,
    "posted": "2026-11-21",
    "first_seen": "2026-11-23"
-  },
-  {
-   "source": "RemoteOK",
-   "title": "Data Strategy Operations Manager",
-   "company": "Abnormal",
-   "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
-   "location": "US Only",
-   "desc": " About the Role \n As the Data Strategy and Operations Manager at Abnormal AI, you will own our go-to-market data quality strategy and serve as the steward of data across Salesforce and the systems around it. You will design the processes, controls, and intelligent workflows that keep data accurate, ",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: US Only"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-20",
-   "first_seen": "2026-11-21"
   },
   {
    "source": "WeWorkRemotely",
