@@ -1,11 +1,11 @@
 {
  "schema": 1,
- "updated": "2026-11-26T15:55:22.658517+00:00",
+ "updated": "2026-11-27T15:43:00.847158+00:00",
  "unrecognised_urls": [],
  "sources": {
   "Remotive": {
    "status": "ok",
-   "raw": 96,
+   "raw": 102,
    "errors": [],
    "invalid": 0
   },
@@ -17,13 +17,13 @@
   },
   "RemoteOK": {
    "status": "ok",
-   "raw": 181,
+   "raw": 179,
    "errors": [],
    "invalid": 0
   },
   "Greenhouse": {
    "status": "ok",
-   "raw": 704,
+   "raw": 703,
    "errors": [],
    "invalid": 0
   },
@@ -35,7 +35,7 @@
   },
   "Ashby": {
    "status": "ok",
-   "raw": 282,
+   "raw": 279,
    "errors": [],
    "invalid": 0
   },
@@ -50,7 +50,7 @@
   },
   "WeWorkRemotely": {
    "status": "ok",
-   "raw": 431,
+   "raw": 458,
    "errors": [],
    "invalid": 0
   },
@@ -62,19 +62,19 @@
   },
   "Jobicy": {
    "status": "ok",
-   "raw": 49,
+   "raw": 45,
    "errors": [],
    "invalid": 0
   },
   "Workable": {
    "status": "ok",
-   "raw": 443,
+   "raw": 439,
    "errors": [],
    "invalid": 0
   },
   "WorkingNomads": {
    "status": "ok",
-   "raw": 38,
+   "raw": 36,
    "errors": [],
    "invalid": 0
   },
@@ -116,8 +116,8 @@
   }
  },
  "stats": {
-  "raw": 2332,
-  "kept": 55
+  "raw": 2349,
+  "kept": 58
  },
  "jobs": [
   {
@@ -199,6 +199,47 @@
    "salary_hint": true,
    "posted": "2026-11-02",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Data Strategy Operations Manager",
+   "company": "Abnormal",
+   "url": "https://weworkremotely.com/remote-jobs/abnormal-data-strategy-operations-manager",
+   "location": "Anywhere in the World",
+   "desc": "\n\n \n   Headquarters:  Remote - USA\n \n\n About the Role \n As the Data Strategy and Operations Manager at Abnormal AI, you will own our go-to-market data quality strategy and serve as the steward of data across Salesforce and the systems around it. You will design the processes, controls, and intellige",
+   "direct": false,
+   "eligibility": "confirmed",
+   "evidence": [
+    "Location: Anywhere in the World"
+   ],
+   "conflict": false,
+   "open": true,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-27",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "source": "Workable",
+   "title": "Executive Assistant (SR) - B126",
+   "company": "pearltalent",
+   "url": "https://apply.workable.com/j/9AF9353108",
+   "location": "Remote",
+   "desc": " Work From Anywhere in LATAM or the Philippines  Work Schedule: PST | 7:30 AM \u2013 3:30 PM, Monday to Friday     About Pearl Talent   Pearl works with the top 1% of candidates from around the world and connects them with the best startups in the US and EU. Our clients have raised over $5B in aggregate ",
+   "direct": true,
+   "eligibility": "verify",
+   "evidence": [
+    "Description: the top 1% of candidates from around the world and connects them with t",
+    "Description: Work From Anywhere in LATAM or the Philippines Work"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [],
+   "score": 2,
+   "salary_hint": false,
+   "posted": "2026-11-27",
+   "first_seen": "2026-11-27"
   },
   {
    "source": "WeWorkRemotely",
@@ -467,6 +508,29 @@
    "salary_hint": false,
    "posted": "2026-11-05",
    "first_seen": "2026-11-10"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Commercial Credit Operations Manager",
+   "company": "Stripe",
+   "url": "https://weworkremotely.com/remote-jobs/stripe-commercial-credit-operations-manager",
+   "location": "Anywhere in the World",
+   "desc": "\n\n \n   Headquarters:  Chicago, Atlanta, US-Remote, Toronto \n \n\n  Who we are   \n  About Stripe  \n  Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world\u2019s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their reve",
+   "direct": false,
+   "eligibility": "verify",
+   "evidence": [
+    "Location: Anywhere in the World",
+    "Sources disagree about eligibility"
+   ],
+   "conflict": true,
+   "open": false,
+   "also_on": [
+    "Jobicy"
+   ],
+   "score": 0,
+   "salary_hint": false,
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-27"
   },
   {
    "source": "WeWorkRemotely",
@@ -926,6 +990,46 @@
    "first_seen": "2026-11-14"
   },
   {
+   "source": "Jobicy",
+   "title": "Demand Generation & Campaign Operations Manager",
+   "company": "Spotify",
+   "url": "https://jobicy.com/jobs/164518-demand-generation-campaign-operations-manager",
+   "location": "Sweden,  UK",
+   "desc": " The Platform team creates the technology that enables  Spotify  to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities n",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: Sweden,  UK"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-27",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "source": "WeWorkRemotely",
+   "title": "Pursuit & Channel Operations Manager (R-20201)",
+   "company": "Dun & Bradstreet",
+   "url": "https://weworkremotely.com/remote-jobs/dun-bradstreet-pursuit-channel-operations-manager-r-20201",
+   "location": "USA Only",
+   "desc": " \n\n \n   Headquarters:  Vienna - Virginia - United States\n \n\n  Shape the Future with Dun   Bradstreet  \n  At Dun   Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and i",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA Only"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-27"
+  },
+  {
    "source": "WeWorkRemotely",
    "title": "Senior Webflow Project Manager (Contract)",
    "company": "N4 Studio",
@@ -946,16 +1050,16 @@
    "first_seen": "2026-11-26"
   },
   {
-   "source": "WeWorkRemotely",
-   "title": "Sr. Business Operations Analyst",
-   "company": "Yubico Inc.",
-   "url": "https://weworkremotely.com/remote-jobs/yubico-inc-sr-business-operations-analyst",
-   "location": "USA Only",
-   "desc": "\n\n \n   Headquarters:  US Remote\n \n\n   Meet Yubico  \n Yubico is a global leader in identity security and creator of the YubiKey, the original hardware-backed passkey. We are publicly traded on Nasdaq Stockholm; our global footprint includes headquarters in Stockholm, Sweden, Silicon Valley, Californi",
+   "source": "Jobicy",
+   "title": "Virtual Assistant - AI, Marketing and Operations",
+   "company": "Fresh Prints",
+   "url": "https://jobicy.com/jobs/164433-virtual-assistant-ai-marketing-and-operations",
+   "location": "Philippines",
+   "desc": "  Virtual Assistant: Marketing and Operations  \n About Frontier: \n At  Frontier,  we help companies grow full-time, cross-functional teams abroad. We hire the smartest people, and we place them in the best companies. We have placed over 800 hires across 50 different US based startups and high growth",
    "direct": false,
    "eligibility": "excluded",
    "evidence": [
-    "Location lists only: USA Only"
+    "Location lists only: Philippines"
    ],
    "conflict": false,
    "open": false,
@@ -963,7 +1067,27 @@
    "score": -3,
    "salary_hint": false,
    "posted": "2026-11-26",
-   "first_seen": "2026-11-26"
+   "first_seen": "2026-11-27"
+  },
+  {
+   "source": "Jobicy",
+   "title": "Business Operations Manager",
+   "company": "Motive",
+   "url": "https://jobicy.com/jobs/164401-business-operations-manager-3",
+   "location": "USA",
+   "desc": "  Who we are:  \n  Motive  empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system",
+   "direct": false,
+   "eligibility": "excluded",
+   "evidence": [
+    "Location lists only: USA"
+   ],
+   "conflict": false,
+   "open": false,
+   "also_on": [],
+   "score": -3,
+   "salary_hint": false,
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-27"
   },
   {
    "source": "Jobicy",
@@ -1024,46 +1148,6 @@
    "salary_hint": false,
    "posted": "2026-11-24",
    "first_seen": "2026-11-24"
-  },
-  {
-   "source": "Jobicy",
-   "title": "Licensing Operations Manager (Pooling Only)",
-   "company": "Fresh Prints",
-   "url": "https://jobicy.com/jobs/156761-licensing-operations-manager-pooling-only",
-   "location": "Philippines",
-   "desc": "  Help scale a high-impact team that protects Fresh Prints\u2019 biggest partnerships  \n  IMPORTANT NOTE:  This is a  talent pool.  We will reach out to you if we find a suitable match to move forward in the recruitment process. \n Fresh Prints is a New York-based custom apparel startup. We find incredibl",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: Philippines"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-24",
-   "first_seen": "2026-11-24"
-  },
-  {
-   "source": "Jobicy",
-   "title": "Commercial Credit Operations Manager",
-   "company": "Stripe",
-   "url": "https://jobicy.com/jobs/163668-commercial-credit-operations-manager",
-   "location": "Canada,  USA",
-   "desc": "  Who we are   \n  About  Stripe   \n Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world\u2019s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: Canada,  USA"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-21",
-   "first_seen": "2026-11-23"
   },
   {
    "source": "Jobicy",
@@ -1138,26 +1222,6 @@
    "eligibility": "excluded",
    "evidence": [
     "Location lists only: Europe"
-   ],
-   "conflict": false,
-   "open": false,
-   "also_on": [],
-   "score": -3,
-   "salary_hint": false,
-   "posted": "2026-11-20",
-   "first_seen": "2026-11-23"
-  },
-  {
-   "source": "Jobicy",
-   "title": "Senior Deal Desk Operations Manager",
-   "company": "Keyfactor, Inc.",
-   "url": "https://jobicy.com/jobs/163434-senior-deal-desk-operations-manager",
-   "location": "USA",
-   "desc": "  About Keyfactor   \n Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital",
-   "direct": false,
-   "eligibility": "excluded",
-   "evidence": [
-    "Location lists only: USA"
    ],
    "conflict": false,
    "open": false,

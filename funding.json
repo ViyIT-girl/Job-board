@@ -1,7 +1,34 @@
 {
  "schema": 1,
- "updated": "2026-11-26T15:56:03.622525+00:00",
+ "updated": "2026-11-27T15:43:42.205281+00:00",
  "companies": [
+  {
+   "company": "Lute",
+   "stage": "Early",
+   "amount": "$20M",
+   "date": "2026-11-27",
+   "headline": "Lute Raises $20M in Funding to Develop Touch-Based AI Models for Robots",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlBsT2xtb3BNaHFsaHBKSkRRNVBmQldzbl9QR0NGdDUxWkV4dTY3MnNnQzJBYzRaRVpTZ2g3MDhPNFl2ZHdITldNZGlueHZiRW9ZYTVjbGlCWmliYkljX3ZvMVdTX2JnY25IdENNa2RPeWdBekY2VTIydkc1NE10RXo4NGRIcDFWN3lBSnZleFRPSE9Ja3BQcHlZM3FqVUxwa2paUlNZR0NFVG1E?oc=5",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "company": "Dunzo founder's AI startup M",
+   "stage": "Early",
+   "amount": "$9M",
+   "date": "2026-11-27",
+   "headline": "Dunzo founder's AI startup M raises $9M to automate the home",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTF6TFBWbnVld2tjcXBrRldxZEg0MGZWd3l2aHZjU3d6Sm5aRm1QSkQ2QmJHaS1XR1FLNmdZTW82UkpSNFluX0c3UWNJZ1hNZ2dENEVDTVA4SU5XQnBhYWltMU5ORWZiMnk3bmJ2Ymt0cVc3bmc2MXo2bW54RzVITmVCeFZka2lKMTl5MnZYeHprbm1vREgxVg?oc=5",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "company": "NeuralSat",
+   "stage": "Pre-Seed",
+   "amount": "$3.2M",
+   "date": "2026-11-27",
+   "headline": "NeuralSat raises $3.2m pre-seed on 72-satellite 50Gbps data relay & processing constellation",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUdSM1Q3X0xVenQ0VW1JcEpLT1g3N1pDcHl6cFFUbFM3eFhNWjdiQlAwLTRQOW5maVd4Z2xCb1M5bmhOWlVfN3FJT3RwY3llaXp3MVZwbXhRNlJNdTVxQnpqZ2VUWHJZMHZtM210cFI1M3lhNV93aTN6SGJQUVNBbFMzZ1lCUEF2SWZYWFJxaWhuejZkN25pUDhJTlVyQldGLV94eC1yOTd5SnBpTU1NLW9rZE9jc3NWUUt6dS1YaUZQLVNQSTAyZUh1UWk?oc=5",
+   "first_seen": "2026-11-27"
+  },
   {
    "company": "Fault Line",
    "stage": "Early",
@@ -10,15 +37,6 @@
    "headline": "Fault Line raises \u00a32.3M to test clinical AI\u2019s safety tests",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5dWVrZWhZcFJQUl9odTIwc29fbnR3bWFCay1BUUNEN0hUR2h3YUJBV2paRi1FMVo2SDViVFNrbDdZQTFQ?oc=5",
    "first_seen": "2026-11-26"
-  },
-  {
-   "company": "Lute",
-   "stage": "Early",
-   "amount": "$20M",
-   "date": "2026-11-26",
-   "headline": "Lute Raises $20M to Build Touch-Based AI for Robots",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUltYUdhWDRYMWtMTjZYUjdKa3ZpdnJNckF1ZU5lSjdVaENvZFBmRVZZWEkwVU1GV0NfMzlLZnJGcTJRSTE3TGhDYWN5RVRBM2FOUHNSYXdnWnJCSktzYWdCMVpMV0Y4X1ZLRjNxRVBaVVlEYm0yMGFNaWZGcVROZnVQUWdsUEx1aHlrSXFhT1U4aW1HRWEwbE93ZzZIbFRVSVR1ZGhNbXg0UGlaT2M4TUJyN001T1FmOXc?oc=5",
-   "first_seen": "2026-11-25"
   },
   {
    "company": "WaterSense",
@@ -39,6 +57,15 @@
    "first_seen": "2026-11-26"
   },
   {
+   "company": "AI Media Startup Every",
+   "stage": "Series A",
+   "amount": "$17.5M",
+   "date": "2026-11-26",
+   "headline": "AI Media Startup Every Raises $17.5M Series A at $110M Valuation",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rQVJPcUdVcXN4N1E2ZEt0N08tNFFhbnZ6ZldXaU01Y1JoTUZMMmIxQS1yWHNFUndPNWpBZkczWW1KNlhTd3dvN1FNelVfMUJnTmww?oc=5",
+   "first_seen": "2026-11-27"
+  },
+  {
    "company": "UAE Fintech Sooner",
    "stage": "Early",
    "amount": "$20M",
@@ -46,6 +73,15 @@
    "headline": "UAE Fintech Sooner Raises $20 Million to Help First-Time Homebuyers",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONlF4WFV6WGg2NjhyVlBUSDVDb0w3bFpST3hmSmt5VTR4emVkeXJRMDdqLWZHUkl3QkJhR0V2ODA4dktnbDBiMDc3VDJYcHNpTEgyNEc0OXBoX2g2dUc2M2FGR3NvSjBfanFjcGgyRWw0SVdOTGVEZUNqaExoQ2YxWk56SUU3MkhtZzBXaEtkVjZIU2t6VU9xTjk3eVI0MEk?oc=5",
    "first_seen": "2026-11-26"
+  },
+  {
+   "company": "Metano",
+   "stage": "Early",
+   "amount": "$12M",
+   "date": "2026-11-25",
+   "headline": "Metano raises $12 million to secure AI agents",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFAyQ1FzR0hyUk15VU9KU0xxcXExSG95ODlQODZmeGhfRUM5M1FVeTdzTGp3N3JBT1JLYmVGVkVIMA?oc=5",
+   "first_seen": "2026-11-24"
   },
   {
    "company": "Saudi AI startup 009",
@@ -93,24 +129,6 @@
    "first_seen": "2026-11-25"
   },
   {
-   "company": "AI Peptide Drug Lab Capable",
-   "stage": "Seed",
-   "amount": "$38M",
-   "date": "2026-11-25",
-   "headline": "AI Peptide Drug Lab Capable Raises $38M Seed to Automate Drug Discovery",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VWEVXa1VyZU8xQzBYLXlYR1ptRkZTSkQ0SUJHSDNXZEFLa0p2OHNGeXB5NlhZUFdRYmhQQ3AwSUJMLW1yNjcwTDh4TjhQd0J3NVlZ?oc=5",
-   "first_seen": "2026-11-26"
-  },
-  {
-   "company": "Collamo",
-   "stage": "Pre-Seed",
-   "amount": "$600K",
-   "date": "2026-11-25",
-   "headline": "Collamo Raises $600K in Pre-Seed Funding to Expand Platform and Global Operations",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMUpaS3pqcXlwU1pXamd6eXlscFBibXU2TEw1SFhpZUpvQnUyUGlhLVJWX3ladURETHFfV0J1SXNwZGRXY2dQLTZ0N3NRWkdQS2JsSXpGTlE5bFhRVERVU09hODhzR1FOckg4US1Yb19ETG9NWC1naWRmbnhVZTN3aU5RdURrOHluUUR2RVlSdlhpRUZaQjVLUDE5Y0R0MHFZajBTU18tclRvNmF2b190dXFnRFJ5Y2pRLTlrNTJ4cVRBOEJ1UjBYOGliZVYwdEFtUTlzWmJfank3NjRBNmNyVTBVU1dUQdIB6wFBVV95cUxQX2Fia0xjNmxvTExiUVhaeWp4N0wzUk41Ym1MOWlNT3F6SnVhS2NvNW1NdHY3UEZBcUhKOFB2V0hIYTh3Zmx3UUx1cU9PZExBdVpfN3d1SFdvbGE0MlVTTk1qMWtrZ0xmcUExQWtnRjRHbm9fZ0R5WFd4eXE3Q1lkSFdYODA5NGNYbENDdkZwRGxFMjVyeHJvYWZpdlNkckJnb3lEdWpoS3NnS2dteVo3NHRmNUs5enp0T3Y5aFE0TENsemhocWJPUERFUVpUUWNQSWxNLVptZV9QenI2eF9kSlVJeENNLXRVbTU4?oc=5",
-   "first_seen": "2026-11-25"
-  },
-  {
    "company": "Jordanian Fintech invoiceQ",
    "stage": "Series A",
    "amount": "$5M",
@@ -147,6 +165,33 @@
    "first_seen": "2026-11-25"
   },
   {
+   "company": "Supertake",
+   "stage": "Early",
+   "amount": "$20M",
+   "date": "2026-11-24",
+   "headline": "Supertake raises $20M for AI-built stock portfolios, The SaaS News reports",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9YcWVpNU1kck5SZWhWMTdscVJVMnhYX1dnbllrMWJHakdBNVY4LU9TT2UxOXBkRE1EWV9PLWdJc3Vncnh0?oc=5",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "company": "Aikido Security",
+   "stage": "Pre-Seed",
+   "amount": "$2M",
+   "date": "2026-11-24",
+   "headline": "Aikido Security Raises \u20ac2M Pre-Seed for Security Platform",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQmxQbjlIWXdRMnAza1ByWGNRcWdlQnoxUUJ6UTMzNmlmeldldFpEcGRUNGdwVXBrYkV5dkY4VnVlZFN1aTh5S1UwS2ZaQUdTTDNRSUI0X1h5MkxYSzhDa1A4WGpPM1U3UVo2V1VxUHpmcWRXZEIxUjJGd1NlQmhWTUlPU3VKaFROQkhJR0EyZThFU3dTb185bWZIQU5La2dyRkw4WnNFSkI3NG5qVkRQYVNXT1VlWmVWRUYwUl9WUHdWUGtOYmpEU3F3dWo?oc=5",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "company": "Verra",
+   "stage": "Early",
+   "amount": "$5M",
+   "date": "2026-11-24",
+   "headline": "Verra Raises $5M From Kearny Jackson to Bring AI Agents to the $1.1T Consulting Industry",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNenRnbWgtekE4VG03Ry1qbWtOWHB6eENuNGlZQnFXeGtMZHBxbXpEY0QzUDRUZVlyRV9jVzBpWUFfTkZIYk1oejFpb0VUVWNYb1d3UnZ6LURDNXdLV0ZvTzdkYlVlSDlvTmhjTC1rMXlzR25OOU5XTklGcEIwaDFLTjdGcEZZV0Zlb2hUUWV4ZW5CbW82Nk1VY2FhbVBzT3ZLR2sydVUwQTJlWFJzaklj?oc=5",
+   "first_seen": "2026-11-24"
+  },
+  {
    "company": "Agentic AI regulatory startup Reversa",
    "stage": "Pre-Seed",
    "amount": "$750K",
@@ -156,30 +201,12 @@
    "first_seen": "2026-11-24"
   },
   {
-   "company": "Supertake",
-   "stage": "Seed",
-   "amount": "$20M",
-   "date": "2026-11-24",
-   "headline": "Supertake Raises $20M Seed, Adds Ex-Coinbase AI Leaders as CEO and CTO",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc29HNVpaOTF1S0Z6Zkp4TExGSjBINFpBZThPR1RYbC1qWW5YdE5oTzVDX250WnVMaWxMWWdRZW5KdldLOGs4WjBXc3VvSGpQRUYtenlJS3FxZDc2NU9CLXdSbjVMblJ6T3o3OXVSNzkzaHRmWWVvcEd2ZVVwOFM3dk9qXzYyaFBGSEw1Vkllb25kU1ZY?oc=5",
-   "first_seen": "2026-11-24"
-  },
-  {
    "company": "Riyadh's 009",
    "stage": "Pre-Seed",
    "amount": "$1.4M",
    "date": "2026-11-24",
    "headline": "Riyadh's 009 raises $1.4M pre-seed for AI \"agent twins",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGljR3l3Vk0zWHFhLWVxR2VzZGZQX2M2ZEU3Z05McHNyWjRQUTNOWkxTRUloUmVSSkZtVGtfSFp0MnA5TktzNExtckgxS2gzOE5RdkJwM0otMUxZX3JNSTkwbjVOUTl4VW01U2RQQXh6VDhWSUNLdnRhdDBxLVBhR1JkQ2Z0allrc3V6M2Jnbw?oc=5",
-   "first_seen": "2026-11-24"
-  },
-  {
-   "company": "Verra",
-   "stage": "Seed",
-   "amount": "$5M",
-   "date": "2026-11-24",
-   "headline": "Verra Raises $5 Million in Seed Funding Led by Kearny Jackson to Scale AI Platform for Consulting Firms",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVkp5MDliWWpQeXBSTXlpS1NhYV9QVmkxZ3hhUEFZUGNJNVN4OE8zTjhkQ3FtMzZEUDkxeXpHUldUdERpVjhzNU92TV9Va2V4LWpKMG4zdzB1am9ETjlJenUtTFc0YjQtNk9ob3g3Z01UaDR2SjdublhkQjVrczlTd004WXRrX1JDbXN4dkhMYkhsUFItNElycUJ4RFlnQWNONjFCZ1BjYjN6bEhCZzdlUmZSZkpLV3MtTWs3bjVBLTFIWHNneThKWkk2ZmcwQ0VJYmFPNFVESjE?oc=5",
    "first_seen": "2026-11-24"
   },
   {
@@ -199,6 +226,15 @@
    "headline": "Coastal data startup RCOAST raises $945K pre-seed as revenue grows fivefold",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTlXb21jaHEzT3hmOENBeHpqem5sSFl1WlVMTUNYbUIyckpmbkpYcDFycHJoSjNVUzlFU0hOanZwSjlLTXBpTHNxeDJDYWduUUxGYUZyZE1YU1lEQU1yVDRkRjBkWk9rUVpEd1gyQlN0dVN2WFkzMXB0S012elltWTllcjhsOE0xRE1jOXJBMmJESkVReWhZQjZCQm9nODQ1UEZVOHZpc2ZaT0U5?oc=5",
    "first_seen": "2026-11-25"
+  },
+  {
+   "company": "Nilocas",
+   "stage": "Pre-Seed",
+   "amount": "$860K",
+   "date": "2026-11-24",
+   "headline": "Nilocas raises \u00a3860K pre-seed for AI patch to detect heart disease",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjVUMl9TUEdOejJHbkZVandPU2dyZm9rbzliVjJLUm1JajFlb3VXMGd5TGZYN2hISXgwY19IOUNGb05kczVrSWpFNHB6UzQ2S3o1SWYxOC0tWWtfNm1FWW1GbTM2d3VZYjdUMERvZXgzX2lqNmtMRzg2WDZPR0REQW41b0hCODZydUVlVUpDN25kRzA4aC1ZRVBLYUJxLS1l?oc=5",
+   "first_seen": "2026-11-27"
   },
   {
    "company": "AidenAI",
@@ -246,15 +282,6 @@
    "first_seen": "2026-11-26"
   },
   {
-   "company": "Unsiloed AI",
-   "stage": "Seed",
-   "amount": "$7.5M",
-   "date": "2026-11-23",
-   "headline": "Unsiloed AI Raises $7.5M Seed Round to Process Documents for AI Agents",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRS1MVUNxWTA0ckltM2JaVlhuZVVWZW9CMDJZZEZGcm02NWdYUzBCVnppTVFIMFpVUVhYRkRwRTBWREM3S2F3X0hDWld3SWFxVEpBcW8wcnlpT18wVkRGX20tdVdJcWUyRU5wOURTdnY2dm5JWUFPSUwxTDBPZEFlMVRYMXNKUXlNUG5YaUhxd2ZoVi13M0VhSDFQQVZDQ1lHaGx6TjFsb3F5dlNG?oc=5",
-   "first_seen": "2026-11-18"
-  },
-  {
    "company": "LATO reportedly",
    "stage": "Early",
    "amount": "$4.28M",
@@ -273,21 +300,12 @@
    "first_seen": "2026-11-23"
   },
   {
-   "company": "Swiss startup coprod",
-   "stage": "Early",
-   "amount": "$5.45M",
-   "date": "2026-11-23",
-   "headline": "Swiss startup coprod raises \u20ac5.45 million to solve \u201cintegration hell\u201d in robotics and physical AI hardware - EU-Startups",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObzBNV1VweGNUTDAxVXV5eUd6Zlh6RllSSU5LR2ZfNklLLUE3Unpabm9XeWUwRGRjS3dZYWZHZ0RIeUxNLVpLSHZfS01xdm5QaFdQSHVRNzZaSkxwMkJtTkxzeE4tYzVFb25MT08wdTNQNGM3dkZtbWw1NHNrQ191RWdzQTFiSGxMdGt6TTktYXFxdXptVEFwbHljV2dkSDRveEgtMG5Qblp3d2hyeEpfMFQtOTlZcWVaZXFzeXI0a2w4NG04Qll4SFBGSi1fekhXN3NoalF3SEY?oc=5",
-   "first_seen": "2026-11-26"
-  },
-  {
    "company": "Agon",
    "stage": "Series A",
    "amount": "$70M",
    "date": "2026-11-23",
-   "headline": "Agon Raises $70M Series A at $450M Valuation to Build Defence AI Lab",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkFjSVY4d1hsX2dWcUN6LTdVZG9BN3pFclZUaVZ3QnVScE12Ni0xb1NoNXNSblZ2VTJUa0RfTXRqd0thNTYwVWVrX0xaQnh5T2pCTFNGR1RGekxpS0tIZjE0UF9tSXByWkN0d3QzdlBOX0pmWDJ6c3B5NWJGMVRNT1BoZzlvYl9YaXVjQ2dhTC1GQQ?oc=5",
+   "headline": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdklnd1V0aWVfS0xTUkdiM0FXak1LR2czTG5vYXA2OGFQendfaFRza0hpR1djaDlaX3Z6a0VQSkRtZjBwd0RCR3Y5UW5BRC1UbVcwM0F6UHZoZlg4UWY5S0RwMmhKak02OXVDMDNtWGdUT01UZTl5WTlWWW1YR09HdWpVb1ZZNVlIM1pVcXdPVThCQzRtWHpDTWpobHQzWFRrLTJ6dnBVYzhJUi0wZ0ZmdQ?oc=5",
    "first_seen": "2026-11-23"
   },
   {
@@ -300,13 +318,22 @@
    "first_seen": "2026-11-23"
   },
   {
-   "company": "European Defense AI Company Agon",
+   "company": "Unsiloed AI",
+   "stage": "Early",
+   "amount": "$7.5M",
+   "date": "2026-11-21",
+   "headline": "Unsiloed AI Raises $7.5 Mn Led By Felicis To Make Documents Computable",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0Nzc3VHdE5tSEVtOVNpUUdOV21EdlVHTEdZWW9kMFgwMHJEWVAtclhNcklYdVdTaFBTczA3eUw5VThYN0tvTFVfQmZrWFQ4SFBFNXRFNGVfZ0dlT01fbXBHNXJLd0V5NDE2amcybzE1dENaeTFYSGxqRjlWazFpNnBVUGdDWDlCX0pGbA?oc=5",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "company": "StepSecurity",
    "stage": "Series A",
-   "amount": "$70M",
-   "date": "2026-11-23",
-   "headline": "European Defense AI Company Agon Raises $70M in Series A Funding to Develop Autonomous Systems Technology",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbV9pVVJjcDRtZkFpdzlRWmRZekdESlNIS2M4Y294bjl1Y3Q0Y2F1U0hEbk9IUGlCUmROdEJjWlgwaEdoc0hwZWt2aXJTNzQzS3B3V2Y0cnNoUm45czJrT01zX2pfdUF1aGtBU0dheUpGYWZXZmZhdGJ0a3dhalgySlA2RlEwMk9qRHhfWEd3amRIWkxaaUF5V0ZUM2RNRUsxdE5MYWhiUVpvRm9lLTJ2a1IwN3RfZlVtQ3p4aklrT3hid192ZVd1UnRieGc4bldZNkpId2ZQTkhndw?oc=5",
-   "first_seen": "2026-11-23"
+   "amount": "$20M",
+   "date": "2026-11-20",
+   "headline": "StepSecurity Raises $20 Million Series A To Expand Software Supply Chain Protection",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl9zS1V5R3lkVjhzaHF6bFJTY2hCQ01IVC1ta0M1akRxRVVoZl9xUXJxSjIzR1VESzRuTFRBNXlYR0ZvTkYwZEItYmx0UVp6NEx1VDVfc0pIbEVqQVVvWHIwVjJhU050ZTI3ZUpYSzNMMk83V1k4Vy1Fckg2bzBxVkt3S0h6YlJUTU5oYkZ6U1h2RkJxbXdJRXc3SDc5aXI3VDlXNA?oc=5",
+   "first_seen": "2026-11-27"
   },
   {
    "company": "Czech AI Startup Ranketta",
@@ -336,13 +363,22 @@
    "first_seen": "2026-11-26"
   },
   {
-   "company": "Metano",
+   "company": "YC-backed LATO",
    "stage": "Seed",
-   "amount": "$12M",
+   "amount": "$4.7M",
    "date": "2026-11-19",
-   "headline": "Metano Raises $12M Seed to Secure AI Agents Across the Enterprise",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVktfdHpQcUhRSEdVWDh0Ym5KcG9kQU5TR2J5UWNhTG5TaEhBTnJhTm9nc1NYYzBTUk9RQ1hFTTlGaGc3TTExd09KTnJSY1JGTUpjQTBGUjVhQVlucGFDeTlmN1doa2tSVkF3QnRHR1p3eERtLWlpWEZVMTdvRDhyNFJxZ1pzNXd6RmRNMEtfcw?oc=5",
-   "first_seen": "2026-11-24"
+   "headline": "YC-backed LATO raises $4.7M seed to put AI agents on private equity\u2019s due diligence calls",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQWNmVVBmYUlzelM4aEttNlZzRURVNVBiRnF3YUo0NHE0ZzctN2N2czJZMTNVNnc1S1BkZXpPbml4d2taNmRvUEsyOGxNck9WaFFLcmxOTnBHZnAyNnZzZHAzeTdFN0s1VjJfb1RSOGxpM0MyUlU0VkxTenpvbF9ERlkzc0tjcXZ4YVNUQXUySXBhc3BCTnlaMUFsVG4wUnZzM21ZWFh4cnpFX2pGaWhWdHRVVVB2NWM?oc=5",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "company": "Wilgot",
+   "stage": "Seed",
+   "amount": "$3M",
+   "date": "2026-11-19",
+   "headline": "Wilgot raises $3M in seed funding to help brands get recommended by AI",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUXNFMUF3Y1loMklfRF9VdW5yWkJWVzJyRDVqaDBvTW90RkUxd3dQczBhcGlnQVJuTlNyTDV6dzdWVXFBVGlVeHdtNFhyTDgtZnlVUGxfMU1kcEIwSW95MWZ5WV9rZWdDRTRjdzA1cnk3TUEtOXc3aW91WUdYdXQ1c0ZCWEl2cEs4OFBQYUJXVEpuVjllcksyTzZTc2hlZw?oc=5",
+   "first_seen": "2026-11-19"
   },
   {
    "company": "Vero Security",
@@ -363,24 +399,6 @@
    "first_seen": "2026-11-20"
   },
   {
-   "company": "Wilgot",
-   "stage": "Seed",
-   "amount": "$3M",
-   "date": "2026-11-19",
-   "headline": "Wilgot Raises $3 Million Seed Round to Improve Product Visibility in AI Shopping",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kWEJUVnRDaW83VjI1clFBQmxaRHB5anJod0hDdmRRSXZ4SV9kY1dkbGpxSlRBSjF3ZUEycEpFQXNZQ2h5dDJ0Rlo3SXZ2R3Z0WHR3YlJCclFua0h0SFRIYTFVNzBXd09NX2hiblNrRS1PRk1SRnNJZGM2UHdGZW8?oc=5",
-   "first_seen": "2026-11-19"
-  },
-  {
-   "company": "YC-backed LATO",
-   "stage": "Seed",
-   "amount": "$4.7M",
-   "date": "2026-11-19",
-   "headline": "YC-backed LATO raises $4.7M seed to put AI agents on private equity\u2019s due diligence calls",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQWNmVVBmYUlzelM4aEttNlZzRURVNVBiRnF3YUo0NHE0ZzctN2N2czJZMTNVNnc1S1BkZXpPbml4d2taNmRvUEsyOGxNck9WaFFLcmxOTnBHZnAyNnZzZHAzeTdFN0s1VjJfb1RSOGxpM0MyUlU0VkxTenpvbF9ERlkzc0tjcXZ4YVNUQXUySXBhc3BCTnlaMUFsVG4wUnZzM21ZWFh4cnpFX2pGaWhWdHRVVVB2NWM?oc=5",
-   "first_seen": "2026-11-23"
-  },
-  {
    "company": "Brevo founder",
    "stage": "Seed",
    "amount": "$7.7M",
@@ -388,6 +406,24 @@
    "headline": "Brevo founder raises \u20ac7.7M seed for anti-drone startup Stryx AI",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTA0MUVjam1wRjJhd3dYbVkxMERjMU9HUkN4cGVvcG5iY2k5ajJ6UGVvYmxjYXh1TTVmcUxjSEstNUtxRlNzSWFpeEZ2SjRwcjJBWWgxNUJjVkw0VGFHbzNZYV90QXhNM2FTd0FEbnBFM1dGc1ZBT25ydFVFMF9zNGw2dE9KcktRbUw2cnAwX0I5endrS01xTjJGYUY?oc=5",
    "first_seen": "2026-11-19"
+  },
+  {
+   "company": "Munich-based Vetaion",
+   "stage": "Early",
+   "amount": "$5.7M",
+   "date": "2026-11-19",
+   "headline": "Munich-based Vetaion raises \u20ac5.7 million to automate control cabinet manufacturing with AI and robotics - EU-Startups",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWlBDbVdFdjllRHRtRkEweE5nUmN0bXVnSmN6V2JsMFBGelJMU0ZIVFQwUXRySU9SdjhmQUd4MjgxelJQdFh3Zy1jd0pLZWkxaGY2aE1uYlNZN0JLZjg3UFpXQ05ZZlBzYTJOc2NCd2ZneGFULWd1eDdKeE04cjg2T0pabU5VdGZ6cWVqZ1ZJYmNmRkhnelcwX1A0SG5XU21rYi1Dc0dSMmNrYXRSQ1R4MnplU2RHeldRcWFBZTFSVm9MekdOSzFnbWg3SU05QkI5Z1AzMmQ1Yw?oc=5",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "company": "Fintech Devengo",
+   "stage": "Early",
+   "amount": "$5M",
+   "date": "2026-11-19",
+   "headline": "Fintech Devengo raises \u20ac5 mn to expand instant A2A and AI agent payments",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORUVGQV9xR0FtYTY2eGdKZWNnX3d5bENUbGVtd1loR0tHTklqejctMUdaWVVSNmJ3Z29fRG5PTDJMMEJybTZNYlBmak8zdHhWMlAxWU10UFpZeWkySjAxQVYzTHM?oc=5",
+   "first_seen": "2026-11-27"
   },
   {
    "company": "Hatz AI",
@@ -403,8 +439,8 @@
    "stage": "Series A",
    "amount": "$48.5M",
    "date": "2026-11-19",
-   "headline": "Everful Raises $48.5M Series A to Expand AI Commerce Infrastructure",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGFFMDdGZWhkWEM1NDJhU3lXaUhoV212Y0JqYWZHTXZYNFZfT091M0Zyb3laYm1kWXQtVGswajBrR2tEdjJRTzBYcnZFT3BvdmtuRXRnVF9pVE9pZl9YOWJXLXBOXzAxOE1VSnNYMEcxUDUyaC12dEJPemJPZ1E0bDg3VTJHWUM1aFlOQkZCamJGUQ?oc=5",
+   "headline": "Everful Raises $48.5 Million Series A to Build the AI Infrastructure Layer for Global Commerce",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObnExcGpiOTktNUh1NmZjZ1ZLclZpeXV1SzFBV0lJbTB4c09hOGpmREpaT01DTVZ5WlFXeFl4SE9oZzlxMk54czRXTURSYzM5eGU0alpvRExsT3RTa3p4RFpqRXJjcTBNcnJnRGgzVzJNanBBaWJoamMyUUZORmgwLVFn?oc=5",
    "first_seen": "2026-11-20"
   },
   {
@@ -453,13 +489,31 @@
    "first_seen": "2026-11-18"
   },
   {
+   "company": "MountAIn",
+   "stage": "Seed",
+   "amount": "$7.3M",
+   "date": "2026-11-18",
+   "headline": "MountAIn raises \u20ac7.3M seed to run AI on sub-$10 chips",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmxRckdYRFdyV3dMd2J4TGNLZU13SmwzQU92QzRXR2VBLVVrazJXaGhYT1puNWZCNV93MlkxanBQRHZ0T2g0M0ZwZmtSLUhkNXBtcDdjVXpWeUhiNDNsTHM0aG5FbkNndjA4YUVRQmMzTDVnYWJERDdMb0cxcnE5cDdkMVE2U21MdU9Jc0ZhYw?oc=5",
+   "first_seen": "2026-11-27"
+  },
+  {
    "company": "Wepinion Inc.",
    "stage": "Pre-Seed",
    "amount": "$500K",
    "date": "2026-11-18",
    "headline": "Wepinion Inc. Raises $500K Pre-Seed Round After Solo Founder Builds Platform With 30,000 AI Prompts",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZnFHM2ZYbDhvYUxyMHBIVW94TW1ZV3k4VGR0aV9sbS1DRXJMUUhXQXJRNXozVjBUXzZLS0pIWVFlTDcwU1YzeGh6cUtpWmNGQzdHU3FvRGpwX0JmLTRhRDVJbXkyU3pZbXZReGU5T0NHWHFLZzFwQW1idGxfY01fQldudld6b2x4VF92QTBhclRFbnU0LXpXbmVrNTZ3ZnUxa2FMU00xc3FFbFB5MkxoSC1WNXBxYjRXRlZodmVFOVN1OTB2Z0V1eFZac01PMGNRcjN4d2NXRlZnVWQxT2NhaXl1REk0Ukw2MUo0aVln?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdkhFT0ppVHFWS3gxUXRYUWFzaEJIemI3dkJqVFZpdUkzQnZIQWpqU3VhSjVwSWt0M1lzczZXQV8xTTFjRnd4TGlWcHM2ZlhaTHJrNzhOSTJDeXdXcW1nWFNVaWRhYXhmS3IzS21jeDJhTE5hSGlLYzJESDh0Skd4WHlRNXJXNkdydlJWTzJuckR2UFVrQ205YnU3UHA2UUFjOUtOYm9XZ0tldFhBc203Vlh5TFVGWV9DS3FRLWtSNFJ5b3VJeXNUVzlRMjl4eS00a0lRTmZkVlZjSGg0MHdBd2d6TXp4UEFBb0hkLXp3Zw?oc=5",
    "first_seen": "2026-11-18"
+  },
+  {
+   "company": "US regtech Arva AI",
+   "stage": "Series A",
+   "amount": "$20M",
+   "date": "2026-11-18",
+   "headline": "US regtech Arva AI lands $20m Series A",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYWM3UkM4MWlPLThBUDl0N3ViSzNabVdRbkM1ZkQ3QkRCUGxYZjQxM0tBa2NHc3VhaXp4VkFrLVpoWGJhUm13YjFqQl92dFoxZlZBUWV6aTlndnR6bXlONnFyanJIVnAzSFdsUnVNZW9PWWo2WnFTSUtCaFJncTJvZjQyaHBLalRvdHd6YVFCVUpVdm8?oc=5",
+   "first_seen": "2026-11-27"
   },
   {
    "company": "Genesis AI",
@@ -498,21 +552,21 @@
    "first_seen": "2026-11-26"
   },
   {
-   "company": "Indian physical AI startup Humyn Labs",
-   "stage": "Series A",
-   "amount": "$47M",
-   "date": "2026-11-18",
-   "headline": "Indian physical AI startup Humyn Labs raises $47m series A",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa09RdlRpVEdGN3Z0c01xVk5vdFVkdC02MzBtamdvMlh1dF85TnQtOVNxOG5pTC1ZY19COWhmVnQwcTZXZlozUXctUl9KWFIzWG56SlNubXY5RHltaW5VUUZGejYzYUpPNGQ2UWdQZml3VVlzSWJhajRWX25sbkthNkd1ajNMVEpaaXZLaXZHbGg?oc=5",
-   "first_seen": "2026-11-26"
-  },
-  {
    "company": "Physical AI startup Humyn Labs",
    "stage": "Series A",
    "amount": "$47M",
    "date": "2026-11-18",
    "headline": "Physical AI startup Humyn Labs raises $47 million in Series A funding to expand global operations",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORlExTDI4WnpUN2NBSDRncFpFcktrdmc3QjhIVVcySU5qcWt2MU1pTFVldTVsckJfMU1kcGFLaUFVbFQyVEF4NEl3NlhfdnhYdWY3ZGRQazl0ai1DWUZqUzBocHoxZDgtRGsxYVhfR1dHQXo3VXhJamx2TnUzTi02YWsydGltaktaaFZRRUptNGRJYkNIaWt4cHdpNlFHa3dLclg5OEVfWlpyekI0RWFLNGxBZURtMm1QRmFnbE1nRGx0Y20wRXBsaENJb0VCR2M4SmZzMnpVQXJUVW80UW1RbVVPY3c5bTNh?oc=5",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "company": "Indian physical AI startup Humyn Labs",
+   "stage": "Series A",
+   "amount": "$47M",
+   "date": "2026-11-18",
+   "headline": "Indian physical AI startup Humyn Labs raises $47m series A",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa09RdlRpVEdGN3Z0c01xVk5vdFVkdC02MzBtamdvMlh1dF85TnQtOVNxOG5pTC1ZY19COWhmVnQwcTZXZlozUXctUl9KWFIzWG56SlNubXY5RHltaW5VUUZGejYzYUpPNGQ2UWdQZml3VVlzSWJhajRWX25sbkthNkd1ajNMVEpaaXZLaXZHbGg?oc=5",
    "first_seen": "2026-11-26"
   },
   {
@@ -534,6 +588,15 @@
    "first_seen": "2026-11-26"
   },
   {
+   "company": "Fermat",
+   "stage": "Seed",
+   "amount": "$8M",
+   "date": "2026-11-17",
+   "headline": "Fermat raises $8M seed as AI fashion platform triples revenue and prepares New York expansion",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbTU0dUlCcEtPTHF4Yk5XdHFuUE55RFBhVkQxM28wMTdxVUp1NVdyLUZlSXVVcHExbHZzUmRwSDRaZHhXeGpWZDFOcl9FSlJNNEVlZVZJRzVYc3Q2QnJlY2pYODN1YnJTVkJ4TU1ySFNaLS1LTlVRTzZkV2hFZURLWFhudmNFSnJXaE1qSmZsQjFacnJ6bGVnUUhhVTJKVmd5VkotcWhvNTF3bk1PWjVzZVhjY2FIa0s0RjRBZGhR?oc=5",
+   "first_seen": "2026-11-27"
+  },
+  {
    "company": "Irish co-founded Pretxt",
    "stage": "Seed",
    "amount": "$5M",
@@ -541,6 +604,15 @@
    "headline": "Irish co-founded Pretxt raises $5m seed to supervise AI agents",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGo2S2JJSkxDQWRVQnBtYjlhZ3JKTWpGVlNwUV9leG0yNFMxbExvOGNkWHhONVFIeDd4TlpuYzBySWI2cUxDdXFCdm5Lai1sZHZFaUc3VXZlMFdDLXRtdkVtYld1X2pTRldlOFBzUkpZbUU3dlNISUtOX1RDQUtDWWJleENGM0U0Z2pjaFNkR212azhaRDBORmsxZDV1aGFGMXc?oc=5",
    "first_seen": "2026-11-17"
+  },
+  {
+   "company": "Portland startup Fairly",
+   "stage": "Early",
+   "amount": "$22M",
+   "date": "2026-11-17",
+   "headline": "Portland startup Fairly raises $22M to pair local caretakers with AI for vacation rentals",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16dXh6T1Rzd25uTVhVRzg0cGpGeGNNenp1QU02aG55LWZCemM5YndmdUJNVUxIRnpqd012aENlSVhzVDlidDZfU1Z3?oc=5",
+   "first_seen": "2026-11-27"
   },
   {
    "company": "Restaurant AI startup Marble",
@@ -580,11 +652,11 @@
   },
   {
    "company": "Voyage Labs",
-   "stage": "Early",
+   "stage": "Seed",
    "amount": "$12M",
    "date": "2026-11-17",
-   "headline": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWEYwbm8xWFQ0V3NGM24zUDBEcnFramJIWmtDaVQwRlRTanZ1bzFlNjhLT09PWHhqNGhZQVNBOEdZRlpwaUJfSlZjOFVrNk5EekY4VGVJejZqYWV6bmZsa3RTUTVMbVRYM1hVNjEtN1NXQUVYN3p5UFkxSWtJdzlhaTI1MDZHNXJOaDNJMVlZQU9zX21GbF9fSmIzOGlQNmFLU0R2Ng?oc=5",
+   "headline": "Voyage Labs Raises $12 Million in Seed Funding Led by Kleiner Perkins to Develop AI Travel Agent Atlas",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVJmcERRVUg3SGd6bjdNQUttRVFQbEJkeFBTbWNydjJoWFgzYlByUFhCRUQ4Uk9KaXp5U1NER3hEVi03OHFZSDhnUmJCbmV6MFdZNmZYcElXZWdyOHdBM2o3ZGRxUE5RcnVhcUk3NVZHVFdhWXdhMjlXa2twS0RYOTN0NVJPeDNHbWlqYThBUF90cFRSZTlmVlVqaUJwMGVqTUVabm9iU2ZfZlVXY3lncEd5QWc1YUJBTHRJTl9KdE94TFoxZTNRXzZpTVVzNllpYXF1Z2UwNA?oc=5",
    "first_seen": "2026-11-25"
   },
   {
@@ -630,15 +702,6 @@
    "date": "2026-11-17",
    "headline": "Lemonpeel Raises $1 Million in Pre-Seed Round Led by Shastra VC to Build AI Video Production Infrastructure",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa0ZJQzBCODNoNnRQc21xR0VucVR6MUJ1ei1IWnNlN3JRNlZ1cGV5MGdBajlGVUZJOURnOFoxczNwMy1aNzVjNXdyaGRnYWctOWRNZTdUYTBiZDR2SHRqUkpISEpoSVQ1RWd4MHYzaXNKTzkzSzJoM0JXbWhXckVWV2NEemVGa1h1Q3ZvTExWZkhMSl8yNklQSTdob0pPQmQ0QkZtWXcxNUhQeXJJazdHYk9ST3dBM04zZnBibTdCbmp1bWFTcGMyYmpsLVp3eEJUOWVSNUhlOGxvZEh4SHZOcQ?oc=5",
-   "first_seen": "2026-11-24"
-  },
-  {
-   "company": "AI law firm Alecto",
-   "stage": "Seed",
-   "amount": "$15M",
-   "date": "2026-11-17",
-   "headline": "AI law firm Alecto raises \u00a315m seed barely a year after launch",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGttTGxfS19Hd0d2NEt5b21iOWRIM0t3blBrakJrREVGVXZUSHNWTVVuYThodk5NYXJUT0ZiVkxuWVFod1JBNzRJV0pQSTBzZmRlXy0yOEY3eU02aUdfY19EOUhqY0NpOGM5S0pjNEFkbFFURE9PeFl6R2ZWMEV1cC1oZHRYdFBCNkVha3NpdTZlSEJDeWNKWHE1OA?oc=5",
    "first_seen": "2026-11-24"
   },
   {
@@ -714,6 +777,15 @@
    "first_seen": "2026-11-26"
   },
   {
+   "company": "AI-Native CRM Dreamteam",
+   "stage": "Seed",
+   "amount": "$53M",
+   "date": "2026-11-17",
+   "headline": "AI-Native CRM Dreamteam Raises $53 Million in Seed and Series A Funding",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyekN1MnhDVUVoVWtzZnVWSE0ySkZZbUdEWVA0bUlIUFRCOW9kc1k1SHRfTkEtMzNXak5RdEJQa1JDMGVsZ2twWHlBWkducEhrY2Vz?oc=5",
+   "first_seen": "2026-11-22"
+  },
+  {
    "company": "Valeria",
    "stage": "Seed",
    "amount": "$5.5M",
@@ -732,6 +804,15 @@
    "first_seen": "2026-11-26"
   },
   {
+   "company": "AI law firm Alecto",
+   "stage": "Seed",
+   "amount": "$15M",
+   "date": "2026-11-17",
+   "headline": "AI law firm Alecto raises \u00a315m seed barely a year after launch",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGttTGxfS19Hd0d2NEt5b21iOWRIM0t3blBrakJrREVGVXZUSHNWTVVuYThodk5NYXJUT0ZiVkxuWVFod1JBNzRJV0pQSTBzZmRlXy0yOEY3eU02aUdfY19EOUhqY0NpOGM5S0pjNEFkbFFURE9PeFl6R2ZWMEV1cC1oZHRYdFBCNkVha3NpdTZlSEJDeWNKWHE1OA?oc=5",
+   "first_seen": "2026-11-24"
+  },
+  {
    "company": "COUNT",
    "stage": "Early",
    "amount": "$11.5M",
@@ -739,6 +820,15 @@
    "headline": "COUNT raises $11.5m to take AI accounting to Xero's turf",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY09NZ0lmSER3a2syNmZSVkozVG9xR2hzcWxmQk9NMV8zbVY4RlFNemhMX0EwRG5OTzdUcTBNSlpRMU5EdEY2aUZSMmNZU05LOU8wSjlaeGtpTXdGdzNuSXFGN1lUN3ZfUnZGcGlCc0xENUNFQU9PRHBrbDhWNnZNR3c1MlBmUks5bDBhNHVmVWtxUQ?oc=5",
    "first_seen": "2026-11-17"
+  },
+  {
+   "company": "Knit Health",
+   "stage": "Series A",
+   "amount": "$35M",
+   "date": "2026-11-16",
+   "headline": "Knit Health Raises $35M Series A Led by NEA",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDZraG9WeWZpcEZKdFlENnZmS2NuWnhYc2tMUHJNT3VxcUpKYTVCejU0QU5TenhYTkNVOE1VVzl0WENqVmVCeENFdTIyMDREejkxV1d2OV9GMUlTbDNWbUxRSmpMYTduenVJcHNTQ2F2VWxqRTB6eF9JR05nMkZHbm9qTkRLTVdf?oc=5",
+   "first_seen": "2026-11-24"
   },
   {
    "company": "AI-powered accounting fintech Count",
@@ -768,6 +858,15 @@
    "first_seen": "2026-11-25"
   },
   {
+   "company": "Alecto",
+   "stage": "Early",
+   "amount": "$20M",
+   "date": "2026-11-16",
+   "headline": "Alecto Raises $20 Million to Build an AI-Native Consumer Law Firm",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91MEdLcVBRNTR2bmxiU1Z1S1pSZVVlUjdqVjVhRjJxazN5Z2M3aW1QR3BaZmhyeHZKdzFpR3RpVk1VVlY3X0xKaHVGc3N6aU9NbWhKalN6Sy1kdGwxd2VGQmFoekdURTgtbS1yV0dweVVPZzF3NjdhMkhMUVo?oc=5",
+   "first_seen": "2026-11-25"
+  },
+  {
    "company": "RIPR",
    "stage": "Pre-Seed",
    "amount": "$1M",
@@ -786,13 +885,22 @@
    "first_seen": "2026-11-25"
   },
   {
-   "company": "Alecto",
+   "company": "Lending fintech Olyv",
    "stage": "Early",
-   "amount": "$18M",
+   "amount": "$6M",
    "date": "2026-11-16",
-   "headline": "Alecto lands \u20ac18 million to scale its AI-powered law firm beyond property transactions - EU-Startups",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMlNzZ0ZwWnJ6dmVITGJTeWRDcEdITmdLenV1NFh0X2RJN0JFd2tNMGl0WHBhMjAtWU9hOHJuc0NfQmNXczh1RjY5OTJRYzhxWDZzclJnSEpoOVdQVHRuNHhFQlVIelRTZ09OcnZJQUVoMUZVdTBISURQekhMdUI0YkVVSEZEYWxCb2EyUGF1UnA1NHpucFRIVS1uME9XUUNidGRjdTJLWUlIcTNkRzZZeW53ZHA1em4xaHRtRHJOUlk?oc=5",
-   "first_seen": "2026-11-25"
+   "headline": "Lending fintech Olyv raises $6 million, targets $1 billion AUM by FY29",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObW0yQjh4Rng5T0lZTVRfaEZtTnlYZkpFemJLNzE5WkQ4T3FsVGJxUHd6S1Y1RVQ0bTJNaHluRFd0Q0F6OERSTEExbl84ald5cUcxU3V4QzZjVVg4SURMa1pqYThIa2ZFSlJQLTB4ZGdBckpwTU5lX0lIeWc2Q1o2SXppdVBlVDFNXzZfZFVOd3oxZ0NzOVMySFpFY0RINGpKZjkyZVB1NW53bklTeDgwSFJaN2xZYlU2NWZFTnRqYTc4aDJfSzdaalNBOFJLellxRzhuNHFiaDDSAd4BQVVfeXFMTjlKOWNNakhkY09SakVMMW1nSTJ1VDU5X05senU2OXdBSjVpWnpzUFJsbjh1Wm5WdnVGWEVTaDhiRGIzT1RwMGlhQTJ0U2JEOXVteXViVGVSYU5SMGJWVmhfcURZZUpuajM3WmRNSUwtMHlsdG00cnNsNkx4czZuc1pSVUlDZGpvclZDRHVtR0hlS3loaDdPSXRSOXlKYThLNjhaOWtxNVJXVlhnR1Q4Z01sTmkxVFl3X1RKZzdMZGtfWjd0aV9scC0tVElUdU5LdGRUeVN5aWx6Yl96dU53?oc=5",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "company": "Credit-led fintech startup Olyv",
+   "stage": "Early",
+   "amount": "$6M",
+   "date": "2026-11-16",
+   "headline": "Credit-led fintech startup Olyv raises $6M",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVFOMGF1R21YS1BKUzlPbjByTWdiMkdXdkN1V3g1VHFOY0hpVngwdEpxZHQ3TzMxMHgwdjJlMEFOeTNBenZVb1VQNy1aazRFNjZDd3FEZks3dFVzV0xLNlQxaVVzUHJrQ1VMUkhJeFl0SnVrc2pSbjk3ZDdVQkQxbw?oc=5",
+   "first_seen": "2026-11-27"
   },
   {
    "company": "Corma",
@@ -811,24 +919,6 @@
    "headline": "Rox Raises $100M Series B at $1.3B Valuation to Scale AI Agents for Sales Operations",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTTk3SlJZZHJXbTV2Y0pLUGFqdXJ6SUUxc3lWMDhFd2hOYUtGRTdmNlZBaFh4c0xib1RTdUdJS1VuM3RLd0RsNVhtdWV3dVp1a05UX2xtVEExRU9wY3BOTk9XLXJUYU1zbU9fRkh5SU1ZWmc5dGFyaXhkbXFreVZsbDhYZkFzVGFyQzAxdE9mV0ZBQ0g3enlKc18yYnNsbXBYQVdsRFMzb3pRMG9DYmFfc0d2c3hqSXFzWjh3SWxn?oc=5",
    "first_seen": "2026-11-26"
-  },
-  {
-   "company": "AI-Native CRM Dreamteam",
-   "stage": "Seed",
-   "amount": "$53M",
-   "date": "2026-11-16",
-   "headline": "AI-Native CRM Dreamteam Raises $53 Million in Seed and Series A Funding",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyekN1MnhDVUVoVWtzZnVWSE0ySkZZbUdEWVA0bUlIUFRCOW9kc1k1SHRfTkEtMzNXak5RdEJQa1JDMGVsZ2twWHlBWkducEhrY2Vz?oc=5",
-   "first_seen": "2026-11-22"
-  },
-  {
-   "company": "Knit Health",
-   "stage": "Series A",
-   "amount": "$35M",
-   "date": "2026-11-16",
-   "headline": "Knit Health Raises $35M Series A to Expand Med-BEAM Deployment",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNFI4eTlya0VwQ0NfLTVhaXpUZnpPdVFWaTBGYndiQWh1dUN3VTFrQlo5b1U5UVcwZUdwRUJSbnlKRDQyekFhY2c4VDhLQkgxVlk2VHFrZHoyQWU1RUhiWWNKWE5waE1FT3FGUTM5ZGJQY3N6SU45OFR3bDZVUEpKVHRhaVBEZ2FtTGhZ?oc=5",
-   "first_seen": "2026-11-24"
   },
   {
    "company": "Hobart insolvency fintech CoLab",
@@ -858,15 +948,6 @@
    "first_seen": "2026-11-26"
   },
   {
-   "company": "CREST",
-   "stage": "Early",
-   "amount": "$3.1M",
-   "date": "2026-11-16",
-   "headline": "CREST Raises $3.1 Mn To Build AI-Native Fractional Family Office",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVllHRjRHbDlHNWxLdmVMcHd2NUhscDN0WnNDNjNwMno3VnZZb19jbC1QR2FSdXFaTEdLY2Z0TVdDaXNlZDNaRmFMcVl1OUJka2oyVDU4UmRyQ1RpTWtBYXNENDZuYUIzZ3BqcmVUVHNZT0FWaTFFajF6R0lIZkc1MkFhNkxfM3Z6M0s0dFo0eDU5dTJaSW81REhGcUN0LU1TZUE0eHJVWl9sR2xxU1NyYjdn?oc=5",
-   "first_seen": "2026-11-26"
-  },
-  {
    "company": "AI fintech Count",
    "stage": "Early",
    "amount": "$11.5M",
@@ -876,12 +957,12 @@
    "first_seen": "2026-11-26"
   },
   {
-   "company": "Indian chip startup Bharat Semi",
-   "stage": "Seed",
-   "amount": "$24M",
-   "date": "2026-11-15",
-   "headline": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlp0dzgwTTFLWm5FZ25md2xZM1hldHoxRmhaVHJncWNmYUd2WVJRZGZlQVlycUlRMENUblNDSHpudlV2ZlRvTFhMaUFCb1hVUndRRHMtMmRaSnFiV1Yxb19kQ3ppVTQ0X29hZG1FVlBmVW8yWWJ6aVh6R0xESlJMWElCQ2kzN19rX29feWFJeV9EQzc3dmdYQmRoWUg3d1lTc2xaRUV5Y2FBa3lZNWpFNVMzdEZrNGRVQk0yX3h3NA?oc=5",
+   "company": "CREST",
+   "stage": "Early",
+   "amount": "$3.1M",
+   "date": "2026-11-16",
+   "headline": "CREST Raises $3.1 Mn To Build AI-Native Fractional Family Office",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVllHRjRHbDlHNWxLdmVMcHd2NUhscDN0WnNDNjNwMno3VnZZb19jbC1QR2FSdXFaTEdLY2Z0TVdDaXNlZDNaRmFMcVl1OUJka2oyVDU4UmRyQ1RpTWtBYXNENDZuYUIzZ3BqcmVUVHNZT0FWaTFFajF6R0lIZkc1MkFhNkxfM3Z6M0s0dFo0eDU5dTJaSW81REhGcUN0LU1TZUE0eHJVWl9sR2xxU1NyYjdn?oc=5",
    "first_seen": "2026-11-26"
   },
   {
@@ -892,24 +973,6 @@
    "headline": "India's Bharat Semi raises $24M seed to build AI image sensors",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjAtcmpIOE9mWUE1OFVFcXZGcjB1b2I2TDNhcmkyZ0ZKU0lpTi1KYWJHU0VwM01oblgwOGtIWk96djdPS3JPdGt3TnZaNFFSXzdSRU16bFV5eHZuSWY5VzdqbkxpV1c3ekpEMzRYZjBOTjNpVWdrcWItX1daX2xBY01sR2JWSEl6SkJ0aG1iUnRDOUhlWXBqWnpaQQ?oc=5",
    "first_seen": "2026-11-25"
-  },
-  {
-   "company": "AI influencer startup Distribution Demon",
-   "stage": "Pre-Seed",
-   "amount": "$200K",
-   "date": "2026-11-13",
-   "headline": "AI influencer startup Distribution Demon raises $200K pre-seed",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUJadDhudUM2UjZ6NmpNNUUzT0kxbUFPbl9JQTVrSTdtOEFkb3ZVMEFZMzJYSlRtM1ZmTHNYZ2I2SEJNQWFRX1hKN3FTaW8wXzFISVJ0MUs3dnJrd1JBMDE3ckktVlFuYkQydGxhU0dXS3RGSVlnenVsbjlocWFTWnVjUnNBc1FCVkcyN3ozdUdjMGlQWXdSbkhWSQ?oc=5",
-   "first_seen": "2026-11-17"
-  },
-  {
-   "company": "Plurai",
-   "stage": "Seed",
-   "amount": "$13M",
-   "date": "2026-11-12",
-   "headline": "Plurai Raises $13M Seed to Stress-Test AI Agents Before Launch",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ud2ROYTZuZktvbzEzOVNqRHFtXy1qZUNQcDZ0VHVGZkd6WVBqMS1OdXFhcVZ2X01kWDBWTnEtMXc1eDJoOUhNUmxUb0JGVkM0VVlF?oc=5",
-   "first_seen": "2026-11-17"
   }
  ]
 }
